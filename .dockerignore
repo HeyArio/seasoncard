@@ -1,0 +1,10 @@
+node_modules
+.next
+screenshots
+tests
+*.tsbuildinfo
+.env
+.env*
+!.env.example
+.git
+deploy/caddy-data
