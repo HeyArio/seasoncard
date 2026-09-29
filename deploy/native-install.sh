@@ -7,14 +7,14 @@
 #   bash deploy/native-install.sh           → install (safe to re-run)
 #   bash deploy/native-update.sh            → pull the newest release + restart (later updates)
 #
-# Safety: never touches other sites/services. Only creates: /opt/seasoncard/app, /opt/seasoncard/node
+# Safety: never touches other sites/services. Only creates: /opt/seasoncard-app, /opt/seasoncard/node
 # (only if no Node >= 20 exists), /etc/seasoncard/env, /var/lib/seasoncard, system user "seasoncard",
 # seasoncard.service, and ONE nginx file seasoncard.conf (after backing up /etc/nginx and passing nginx -t).
 set -euo pipefail
 
 REPO="https://github.com/samansalour93/seasoncard"
 BASE=/opt/seasoncard
-APP="$BASE/app"
+APP=/opt/seasoncard-app   # kept apart from the scripts checkout, which has its own app/ folder
 ENVF=/etc/seasoncard/env
 DATA=/var/lib/seasoncard
 PORT="${APP_PORT:-3080}"

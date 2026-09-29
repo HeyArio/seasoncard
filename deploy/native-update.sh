@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Season Card — pull the newest ready-made release and restart. Touches nothing else.
 set -euo pipefail
-APP=/opt/seasoncard/app
+APP=/opt/seasoncard-app
 PORT="$(grep ^PORT= /etc/seasoncard/env | cut -d= -f2)"
 git -C /opt/seasoncard pull -q --ff-only || true
 OLD="$(cat "$APP/VERSION" 2>/dev/null || echo none)"
