@@ -1,5 +1,6 @@
 # Season Card — app + (optional) Caddy for automatic HTTPS.
 # Managed by deploy/install.sh. Do not edit secrets here; they live in ../.env
+name: seasoncard   # unique project name so it can never collide with other stacks on this server
 services:
   app:
     build: ..
@@ -7,7 +8,7 @@ services:
     restart: unless-stopped
     env_file: ../.env
     ports:
-      - "127.0.0.1:3080:3000"
+      - "127.0.0.1:${APP_PORT:-3080}:3000"
 
   caddy:
     image: caddy:2-alpine
