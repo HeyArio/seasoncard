@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /r/
+Disallow: /api/
+Disallow: /checkout
+Disallow: /result
+
+Sitemap: https://seasoncard.app/sitemap.xml
