@@ -28,7 +28,7 @@ die()  { printf '\033[1;31m✖ %s\033[0m\n' "$*" >&2; exit 1; }
 [ "$(id -u)" -eq 0 ] || die "Run as root."
 
 listeners() { ss -ltnpH 2>/dev/null | grep -E "[:.]$1\s" || true; }
-owner_of()  { listeners "$1" | grep -oE 'users:\(\("[^"]+' | head -1 | sed 's/users:(("//'; }
+owner_of()  { listeners "$1" | grep -oE 'users:\(\("[^"]+' | head -1 | sed 's/users:(("//' || true; }
 node_bin() {
   if [ -x "$BASE/node/bin/node" ]; then echo "$BASE/node/bin/node"; return; fi
   if command -v node >/dev/null 2>&1; then
@@ -176,7 +176,7 @@ fi
 
 # ---------------------------------------------------------------- 7. HTTPS certificate for this domain only
 if ! grep -q "ssl_certificate" "$CONF"; then
-  command -v certbot >/dev/null 2>&1 || { apt-get install -y certbot python3-certbot-nginx >/dev/null; }
+  command -v certbot >/dev/null 2>&1 || apt-get install -y certbot python3-certbot-nginx >/dev/null 2>&1 || { apt-get update -qq && apt-get install -y certbot python3-certbot-nginx >/dev/null; }
   if certbot --nginx -d "$DOMAIN" -d "www.$DOMAIN" --non-interactive --agree-tos --register-unsafely-without-email --redirect --keep-until-expiring; then
     nginx -t >/dev/null 2>&1 && systemctl reload nginx
     ok "HTTPS active for $DOMAIN"
