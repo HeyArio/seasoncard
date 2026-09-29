@@ -18,9 +18,10 @@ export { QUALITY_CONSTANTS } from './quality';
 
 /** MediaPipe version this engine is built and tested against (keep in sync with package.json). */
 export const MEDIAPIPE_VERSION = '1.0.1';
-export const DEFAULT_WASM_BASE = `https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@${MEDIAPIPE_VERSION}/wasm`;
-export const DEFAULT_MODEL_URL =
-  'https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task';
+// Self-hosted on our own domain (see public/mediapipe and app/mediapipe) so the scan never depends on
+// third-party CDNs that some networks block.
+export const DEFAULT_WASM_BASE = '/mediapipe/wasm';
+export const DEFAULT_MODEL_URL = '/mediapipe/face_landmarker.task';
 
 /** Working resolution (long side) for landmarks and sampling. */
 export const WORK_MAX_SIDE = 800;
