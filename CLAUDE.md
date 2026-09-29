@@ -15,7 +15,7 @@ TWO live websites for the owner (Saman). Those sites must never go down or chang
 4. Before any change to a web server, back it up (the installer does this for nginx) and explain in one
    line what you will change. If the web server is not nginx (e.g. Caddy/Apache/Traefik/Docker proxy),
    propose the exact snippet and wait for Saman's OK.
-5. Secrets: `.env` holds PayPal keys and generated secrets. Never print it, never commit it, never
+5. Secrets: `.env` holds generated secrets; PayPal keys live in the `seasoncard-data` volume (settings.json). Never print it, never commit it, never
    paste secret values into chat. Saman types PayPal keys into the installer prompts himself.
 6. After install, verify BOTH existing sites still answer exactly as before (curl their domains with
    `-I` before and after, compare status codes) and report.
@@ -23,8 +23,9 @@ TWO live websites for the owner (Saman). Those sites must never go down or chang
 ## How to install
 ```bash
 bash deploy/install.sh --check     # read-only report
-bash deploy/install.sh             # interactive: asks domain (Enter = seasoncard.app), PayPal mode (Enter = live),
-                                   # PayPal Client ID, Secret, cert email; then builds, adds HTTPS, registers webhook
+bash deploy/install.sh             # no questions: builds, adds HTTPS, prints the /setup URL + setup code
+# Then Saman opens https://seasoncard.app/setup in his browser, enters the code + PayPal keys;
+# the app verifies them with PayPal and registers the webhook itself.
 ```
 Updates later: `git pull && bash deploy/install.sh`.
 

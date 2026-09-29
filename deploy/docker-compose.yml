@@ -3,12 +3,17 @@
 name: seasoncard   # unique project name so it can never collide with other stacks on this server
 services:
   app:
-    build: ..
+    build:
+      context: ..
+      args:
+        GIT_SHA: ${GIT_SHA:-dev}
     image: seasoncard:latest
     restart: unless-stopped
     env_file: ../.env
     ports:
       - "127.0.0.1:${APP_PORT:-3080}:3000"
+    volumes:
+      - seasoncard-data:/data   # PayPal settings saved from /setup (survives rebuilds)
 
   caddy:
     image: caddy:2-alpine
@@ -23,3 +28,6 @@ services:
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - ./caddy-data:/data
+
+volumes:
+  seasoncard-data:

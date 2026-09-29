@@ -2,7 +2,8 @@
 # Season Card — safe install / update for a VPS that ALREADY hosts other websites.
 #
 #   bash deploy/install.sh --check   → read-only report. Changes NOTHING. Run this first.
-#   bash deploy/install.sh           → install / update Season Card
+#   bash deploy/install.sh           → install / update Season Card (no questions; PayPal is connected
+#                                      afterwards in the browser at https://seasoncard.app/setup)
 #   git pull && bash deploy/install.sh   → later updates
 #
 # Safety rules this script follows:
@@ -70,8 +71,7 @@ fi
 ok "HTTPS mode: $MODE (ports 80/443 used by: ${P80:-nothing}/${P443:-nothing})"
 MEM="$(mem_avail_mb)"
 if [ "$MEM" -lt 1200 ]; then
-  warn "Only ${MEM} MB RAM free. Building could slow your other sites for a few minutes."
-  read -rp "Continue anyway? (y/N): " yn; [ "${yn:-n}" = "y" ] || die "Stopped. Nothing was changed."
+  warn "Only ${MEM} MB RAM free. The build runs at low priority but may slow other sites for a few minutes."
 fi
 
 # ---------------------------------------------------------------- 1. Docker
@@ -82,28 +82,19 @@ fi
 docker compose version >/dev/null 2>&1 || die "Docker Compose plugin missing (apt install docker-compose-plugin). Nothing else was changed."
 ok "Docker ready"
 
-# ---------------------------------------------------------------- 2. .env (asked once; secrets stay on this server)
+# ---------------------------------------------------------------- 2. .env (no PayPal keys here; they are entered on /setup)
 if [ ! -f "$ENV_FILE" ]; then
-  say "First-time setup"
-  read -rp "Domain for the site [seasoncard.app]: " DOMAIN; DOMAIN=${DOMAIN:-seasoncard.app}
-  read -rp "PayPal mode (sandbox/live) [live]: " PPENV; PPENV=${PPENV:-live}
-  read -rp "PayPal Client ID: " PPID
-  read -rsp "PayPal Secret (hidden while you paste): " PPSECRET; echo
-  read -rp "Email for HTTPS certificate notices: " CERTMAIL
-  [ -n "$PPID" ] && [ -n "$PPSECRET" ] || die "PayPal Client ID and Secret are required"
+  say "Creating configuration (secrets generated on this server)"
+  CODE="$(tr -dc 'ABCDEFGHJKMNPQRSTUVWXYZ23456789' </dev/urandom | head -c 8)"
   umask 077
   cat > "$ENV_FILE" <<EOF
-DOMAIN=$DOMAIN
-SITE_URL=https://$DOMAIN
-CERT_EMAIL=$CERTMAIL
+DOMAIN=${DOMAIN:-seasoncard.app}
+SITE_URL=https://${DOMAIN:-seasoncard.app}
+CERT_EMAIL=${CERT_EMAIL:-}
 APP_PORT=$APP_PORT
-PAYPAL_ENV=$PPENV
-PAYPAL_CLIENT_ID=$PPID
-NEXT_PUBLIC_PAYPAL_CLIENT_ID=$PPID
-PAYPAL_CLIENT_SECRET=$PPSECRET
-PAYPAL_WEBHOOK_ID=
 REPORT_TOKEN_SECRET=$(openssl rand -base64 48 | tr -d '\n/+=')
 ADMIN_KEY=$(openssl rand -hex 32)
+SETUP_CODE=${CODE:0:4}-${CODE:4:4}
 EOF
   ok ".env written (only root can read it)"
 fi
@@ -112,6 +103,7 @@ APP_PORT="$(get_env APP_PORT)"; APP_PORT="${APP_PORT:-3080}"; export APP_PORT
 
 # ---------------------------------------------------------------- 3. build (low priority) + start
 say "Building Season Card (low CPU priority, so your other sites stay responsive)"
+export GIT_SHA="$(git -C "$ROOT" rev-parse --short HEAD 2>/dev/null || echo dev)"
 nice -n 15 "${COMPOSE[@]}" build app
 "${COMPOSE[@]}" up -d app
 for i in $(seq 1 60); do curl -fs "http://127.0.0.1:$APP_PORT/" >/dev/null && break; sleep 2; done
@@ -157,7 +149,7 @@ EOF
     $SUDO systemctl reload nginx
     ok "nginx reloaded (graceful — no downtime for existing sites)"
     if ! command -v certbot >/dev/null 2>&1; then $SUDO apt-get install -y certbot python3-certbot-nginx; fi
-    if $SUDO certbot --nginx -d "$DOMAIN" -d "www.$DOMAIN" --non-interactive --agree-tos -m "${CERT_EMAIL:-admin@$DOMAIN}" --redirect --keep-until-expiring; then
+    if $SUDO certbot --nginx -d "$DOMAIN" -d "www.$DOMAIN" --non-interactive --agree-tos $( [ -n "$CERT_EMAIL" ] && echo "-m $CERT_EMAIL" || echo "--register-unsafely-without-email" ) --redirect --keep-until-expiring; then
       ok "HTTPS certificate installed for $DOMAIN"
     else
       warn "certbot could not get a certificate yet (usually DNS). Re-run this script later — nothing else is affected."
@@ -171,21 +163,16 @@ EOF
     ;;
 esac
 
-# ---------------------------------------------------------------- 5. PayPal webhook (via PayPal API, no dashboard)
-if [ -z "$(get_env PAYPAL_WEBHOOK_ID)" ]; then
-  say "Registering PayPal webhook"
-  RESP="$(curl -fsS -X POST "http://127.0.0.1:$APP_PORT/api/admin/setup" -H "x-admin-key: $ADMIN_KEY" || true)"
-  HOOK_ID="$(printf '%s' "$RESP" | sed -n 's/.*"webhookId":"\([^"]*\)".*/\1/p')"
-  if [ -n "$HOOK_ID" ]; then
-    set_env PAYPAL_WEBHOOK_ID "$HOOK_ID"
-    "${COMPOSE[@]}" up -d app
-    ok "Webhook registered: $HOOK_ID"
-  else
-    warn "Webhook registration failed. Response: $RESP"
-    echo "   Check PAYPAL_CLIENT_ID / PAYPAL_CLIENT_SECRET / PAYPAL_ENV in .env, then re-run this script."
-  fi
+# ---------------------------------------------------------------- 5. PayPal: connected in the browser
+if curl -fs "http://127.0.0.1:$APP_PORT/api/health" | grep -q '"paypalConfigured":true'; then
+  ok "PayPal already connected"
 else
-  ok "PayPal webhook already set"
+  echo
+  printf '\033[1;36m=====================================================\n'
+  printf '  Now connect PayPal in your normal browser:\n'
+  printf '     https://%s/setup\n' "$DOMAIN"
+  printf '  Setup code:  %s\n' "$(get_env SETUP_CODE)"
+  printf '=====================================================\033[0m\n'
 fi
 
 echo
