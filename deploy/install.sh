@@ -32,7 +32,7 @@ set_env() {
   if grep -qE "^$1=" "$ENV_FILE"; then sed -i "s|^$1=.*|$1=$2|" "$ENV_FILE"; else echo "$1=$2" >> "$ENV_FILE"; fi
 }
 listeners() { $SUDO ss -ltnpH 2>/dev/null | grep -E "[:.]$1\s" || true; }
-owner_of() { listeners "$1" | grep -oE 'users:\(\("[^"]+"' | head -1 | sed 's/users:(("//'; }
+owner_of() { listeners "$1" | grep -oE 'users:\(\("[^"]+' | head -1 | sed 's/users:(("//'; }
 mem_avail_mb() { awk '/MemAvailable/ {print int($2/1024)}' /proc/meminfo; }
 seasoncard_running() { docker ps --format '{{.Names}}' 2>/dev/null | grep -q '^seasoncard-app-1$' ; }
 
