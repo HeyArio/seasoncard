@@ -162,6 +162,12 @@
       "namedRegex": "^/icon\\.svg(?:/)?$"
     },
     {
+      "page": "/mediapipe/face_landmarker.task",
+      "regex": "^/mediapipe/face_landmarker\\.task(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/mediapipe/face_landmarker\\.task(?:/)?$"
+    },
+    {
       "page": "/opengraph-image.png",
       "regex": "^/opengraph\\-image\\.png(?:/)?$",
       "routeKeys": {},

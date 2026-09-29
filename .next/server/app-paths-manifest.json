@@ -11,6 +11,7 @@
   "/api/setup/route": "app/api/setup/route.js",
   "/checkout/page": "app/checkout/page.js",
   "/icon.svg/route": "app/icon.svg/route.js",
+  "/mediapipe/face_landmarker.task/route": "app/mediapipe/face_landmarker.task/route.js",
   "/opengraph-image.png/route": "app/opengraph-image.png/route.js",
   "/page": "app/page.js",
   "/privacy/page": "app/privacy/page.js",

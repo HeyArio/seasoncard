@@ -11,6 +11,7 @@
   "/api/setup/route": "/api/setup",
   "/checkout/page": "/checkout",
   "/icon.svg/route": "/icon.svg",
+  "/mediapipe/face_landmarker.task/route": "/mediapipe/face_landmarker.task",
   "/opengraph-image.png/route": "/opengraph-image.png",
   "/page": "/",
   "/privacy/page": "/privacy",
