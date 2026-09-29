@@ -62,6 +62,21 @@ interface TxnInfo {
   transaction_initiation_date?: string;
   transaction_amount?: { currency_code?: string; value?: string };
   fee_amount?: { currency_code?: string; value?: string };
+  invoice_id?: string;
+}
+
+/** Sales per partner ref (from invoice_id SC-<ref>-<id>), for revenue-share payouts. */
+export function salesByRef(txns: TxnInfo[]): Record<string, { sales: number; grossUsd: string }> {
+  const acc: Record<string, number[]> = {};
+  for (const t of txns) {
+    const code = t.transaction_event_code ?? "";
+    const amt = Math.round(Number(t.transaction_amount?.value ?? 0) * 100);
+    if (!code.startsWith("T00") || amt <= 0 || t.transaction_status !== "S") continue;
+    const m = /^SC-([a-z0-9-]+)-[a-z0-9]+$/.exec(t.invoice_id ?? "");
+    const ref = m ? m[1] : "unknown";
+    (acc[ref] ??= []).push(amt);
+  }
+  return Object.fromEntries(Object.entries(acc).map(([k, v]) => [k, { sales: v.length, grossUsd: (v.reduce((a, b) => a + b, 0) / 100).toFixed(2) }]));
 }
 
 export interface RevenueWindow {
@@ -130,5 +145,6 @@ export async function revenueSummary(now = new Date()) {
     note: "PayPal Transaction Search data can lag by up to ~3 hours. Times are UTC.",
     today: summarise(txns, startOfToday, now),
     last7Days: summarise(txns, weekAgo, now),
+    last7DaysByPartner: salesByRef(txns),
   };
 }

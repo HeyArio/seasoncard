@@ -1,5 +1,6 @@
 "use client";
 
+import { readRef } from "@/lib/ref";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { loadResult, rememberReport } from "@/lib/result-store";
@@ -108,7 +109,7 @@ export default function CheckoutClient({ paypalClientId }: { paypalClientId: str
             const res = await fetch("/api/paypal/create-order", {
               method: "POST",
               headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({ season: result.season, metrics: result.metrics, samples: result.samples, capsule: capsuleRef.current }),
+              body: JSON.stringify({ season: result.season, metrics: result.metrics, samples: result.samples, capsule: capsuleRef.current, ...(readRef() ? { ref: readRef() } : {}) }),
             });
             const data = await res.json().catch(() => ({}));
             if (!res.ok || !data.id) throw new Error(data.error || "create-order failed");

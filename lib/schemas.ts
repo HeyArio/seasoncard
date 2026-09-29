@@ -43,6 +43,7 @@ export const createOrderBodySchema = z
     metrics: metricsSchema,
     samples: samplesSchema,
     capsule: z.boolean(),
+    ref: z.string().regex(/^[a-z0-9-]{1,32}$/).optional(),
   })
   .strict();
 export type CreateOrderBody = z.infer<typeof createOrderBodySchema>;

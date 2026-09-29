@@ -23,6 +23,8 @@ export function buildOrderRequest(body: CreateOrderBody) {
         reference_id: "season-card",
         description: `Season Card: ${SEASON_NAMES[body.season]} full report${body.capsule ? " + capsule wardrobe" : ""}`,
         custom_id: encodeOrderMeta(body),
+        // Partner attribution: SC-<ref>-<unique>. Shows up in PayPal transaction search for revenue-share payouts.
+        invoice_id: `SC-${body.ref ?? "direct"}-${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`,
         soft_descriptor: "SEASONCARD",
         amount: {
           currency_code: CURRENCY,
@@ -50,7 +52,7 @@ export function buildOrderRequest(body: CreateOrderBody) {
 export async function createOrder(body: CreateOrderBody): Promise<{ id: string; total: string }> {
   const req = buildOrderRequest(body);
   const order = await paypalFetch<PayPalOrder>("/v2/checkout/orders", { method: "POST", body: req });
-  log("info", "order.created", { orderId: order.id, season: body.season, capsule: body.capsule, amount: req.purchase_units[0].amount.value });
+  log("info", "order.created", { orderId: order.id, ref: body.ref ?? "direct", season: body.season, capsule: body.capsule, amount: req.purchase_units[0].amount.value });
   return { id: order.id, total: req.purchase_units[0].amount.value };
 }
 
