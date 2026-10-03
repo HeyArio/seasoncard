@@ -1,4 +1,4 @@
-# Posting log (TikTok @nazarbanai via Metricool, brand blogId 7148385)
+# Posting log (TikTok @seasoncard.app (renamed from @nazarbanai on 2026-10-03) via Metricool, brand blogId 7148385)
 
 | Post | Topic | Scheduled (America/New_York) | Media |
 |---|---|---|---|
