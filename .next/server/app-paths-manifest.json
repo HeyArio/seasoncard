@@ -10,6 +10,9 @@
   "/api/refund/route": "app/api/refund/route.js",
   "/api/setup/route": "app/api/setup/route.js",
   "/checkout/page": "app/checkout/page.js",
+  "/compare/[pair]/page": "app/compare/[pair]/page.js",
+  "/guides/[slug]/page": "app/guides/[slug]/page.js",
+  "/guides/page": "app/guides/page.js",
   "/icon.svg/route": "app/icon.svg/route.js",
   "/mediapipe/face_landmarker.task/route": "app/mediapipe/face_landmarker.task/route.js",
   "/opengraph-image.png/route": "app/opengraph-image.png/route.js",
@@ -20,6 +23,8 @@
   "/result/page": "app/result/page.js",
   "/robots.txt/route": "app/robots.txt/route.js",
   "/scan/page": "app/scan/page.js",
+  "/seasons/[id]/page": "app/seasons/[id]/page.js",
+  "/seasons/page": "app/seasons/page.js",
   "/setup/page": "app/setup/page.js",
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/terms/page": "app/terms/page.js"

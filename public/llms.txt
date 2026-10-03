@@ -1,0 +1,39 @@
+# Season Card
+
+> Season Card (seasoncard.app) is a free, browser-based seasonal colour analysis tool. You take one daylight selfie; it measures four traits of your natural colouring (undertone, depth, contrast and chroma) and places you in one of 12 colour seasons, with a runner-up season. The photo is analysed on the user's own device and is never uploaded. An optional Full Season Report costs $9.99 (36-colour palette, colours to avoid, makeup and hair shades, metals, styling tips) with a one-click 7-day refund; a Capsule Wardrobe add-on costs $4.99.
+
+Season Card is made by a painter and is run by Nazarban Analytics FZCO (IFZA, Dubai, UAE). Results are style guidance, not a guarantee; lighting affects any photo-based colour analysis, so soft window daylight with no filter is recommended.
+
+## Main pages
+
+- [Home and free scan](https://seasoncard.app/): what Season Card does, pricing, FAQ
+- [Take the free scan](https://seasoncard.app/scan): one selfie, result in seconds
+- [The 12 colour seasons](https://seasoncard.app/seasons): overview of all seasons
+
+## Seasons
+
+- [Light Spring](https://seasoncard.app/seasons/light-spring): Warm-neutral undertone, light depth, medium-low contrast, clear chroma. Light, warm, fresh and clear.
+- [True Spring](https://seasoncard.app/seasons/true-spring): Warm undertone, light-medium depth, medium contrast, clear chroma. Warm, golden, clear and lively.
+- [Bright Spring](https://seasoncard.app/seasons/bright-spring): Warm-neutral undertone, medium depth, high contrast, bright chroma. Clear, vivid and warm-leaning.
+- [Light Summer](https://seasoncard.app/seasons/light-summer): Cool-neutral undertone, light depth, low contrast, soft-medium chroma. Light, cool and gently soft.
+- [True Summer](https://seasoncard.app/seasons/true-summer): Cool undertone, light-medium depth, medium-low contrast, soft-medium chroma. Cool, soft and rosy.
+- [Soft Summer](https://seasoncard.app/seasons/soft-summer): Cool-neutral undertone, medium depth, low contrast, soft chroma. Muted, cool and understated.
+- [Soft Autumn](https://seasoncard.app/seasons/soft-autumn): Warm-neutral undertone, medium depth, low contrast, soft chroma. Warm, soft, medium depth.
+- [True Autumn](https://seasoncard.app/seasons/true-autumn): Warm undertone, medium depth, medium contrast, soft-medium chroma. Warm, earthy and rich.
+- [Deep Autumn](https://seasoncard.app/seasons/deep-autumn): Warm-neutral undertone, deep depth, medium-high contrast, medium chroma. Deep, warm and rich.
+- [Deep Winter](https://seasoncard.app/seasons/deep-winter): Cool-neutral undertone, deep depth, high contrast, clear chroma. Deep, cool and dramatic.
+- [True Winter](https://seasoncard.app/seasons/true-winter): Cool undertone, medium-deep depth, high contrast, clear chroma. Cool, crisp and high-contrast.
+- [Bright Winter](https://seasoncard.app/seasons/bright-winter): Cool-neutral undertone, medium depth, high contrast, bright chroma. Clear, cool and high-contrast.
+
+## Guides
+
+- [What colour season am I?](https://seasoncard.app/guides/what-colour-season-am-i)
+- [How to find your undertone](https://seasoncard.app/guides/how-to-find-your-undertone)
+- [Gold or silver jewellery test](https://seasoncard.app/guides/gold-or-silver-jewellery)
+- [Is black bad on you?](https://seasoncard.app/guides/is-black-bad-on-me)
+- [Best light for colour analysis](https://seasoncard.app/guides/best-light-for-colour-analysis)
+
+## Optional
+
+- [Privacy](https://seasoncard.app/privacy): photos stay on the device; no accounts
+- [Refund policy](https://seasoncard.app/refund): one-click refund within 7 days

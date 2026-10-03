@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcompare\u002F[pair]","\u002Fguides\u002F[slug]","\u002Fseasons\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

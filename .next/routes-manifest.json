@@ -74,12 +74,36 @@
   },
   "dynamicRoutes": [
     {
+      "page": "/compare/[pair]",
+      "regex": "^/compare/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPpair": "nxtPpair"
+      },
+      "namedRegex": "^/compare/(?<nxtPpair>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/guides/[slug]",
+      "regex": "^/guides/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/guides/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/r/[token]",
       "regex": "^/r/([^/]+?)(?:/)?$",
       "routeKeys": {
         "nxtPtoken": "nxtPtoken"
       },
       "namedRegex": "^/r/(?<nxtPtoken>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/seasons/[id]",
+      "regex": "^/seasons/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/seasons/(?<nxtPid>[^/]+?)(?:/)?$"
     }
   ],
   "staticRoutes": [
@@ -156,6 +180,12 @@
       "namedRegex": "^/checkout(?:/)?$"
     },
     {
+      "page": "/guides",
+      "regex": "^/guides(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/guides(?:/)?$"
+    },
+    {
       "page": "/icon.svg",
       "regex": "^/icon\\.svg(?:/)?$",
       "routeKeys": {},
@@ -202,6 +232,12 @@
       "regex": "^/scan(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/scan(?:/)?$"
+    },
+    {
+      "page": "/seasons",
+      "regex": "^/seasons(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/seasons(?:/)?$"
     },
     {
       "page": "/setup",

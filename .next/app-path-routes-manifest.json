@@ -10,6 +10,9 @@
   "/api/refund/route": "/api/refund",
   "/api/setup/route": "/api/setup",
   "/checkout/page": "/checkout",
+  "/compare/[pair]/page": "/compare/[pair]",
+  "/guides/[slug]/page": "/guides/[slug]",
+  "/guides/page": "/guides",
   "/icon.svg/route": "/icon.svg",
   "/mediapipe/face_landmarker.task/route": "/mediapipe/face_landmarker.task",
   "/opengraph-image.png/route": "/opengraph-image.png",
@@ -20,6 +23,8 @@
   "/result/page": "/result",
   "/robots.txt/route": "/robots.txt",
   "/scan/page": "/scan",
+  "/seasons/[id]/page": "/seasons/[id]",
+  "/seasons/page": "/seasons",
   "/setup/page": "/setup",
   "/sitemap.xml/route": "/sitemap.xml",
   "/terms/page": "/terms"
