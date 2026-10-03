@@ -23,3 +23,7 @@
 - **Changed:** nothing in the queue. Posts 6–13 are scheduled through 9 Oct, which is 6 days ahead, so no new posts were needed. The queue already leans toward what works: 7 (pinks), 9 (Soft Summer vs Soft Autumn) and 13 (burgundy). The next batch should be more comparisons and trend colours, e.g. "True Winter vs Deep Winter", "Which season is chocolate brown for?" and "Which season is butter yellow for?".
 - **12:00 slot:** not yet. Views are still in the hundreds. Add a second slot once a post clears ~2k views, or once comparisons hold up on posts 9 and 13.
 - **Site check:** the WebFetch permission timed out again in the unattended run, so the site wasn't checked (second run in a row).
+- **Later 2026-10-03 (push for the first sale, at Saman's request):**
+  - Diagnosis: 2.3k TikTok views but no clickable link, so very few people reach the site.
+  - Added Instagram Reels and Facebook posts of posts 3 and 5 (12:00 and 20:00 ET). The Facebook posts link to seasoncard.app/?ref=fb, so any Facebook sale shows up separately in the admin summary.
+  - The result page now previews the paid report: 6 palette colours, the other 30 blurred, and one colour to skip with the reason. Release eba09be, live on the server.
