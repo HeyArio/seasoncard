@@ -10,3 +10,16 @@
   - Renderer now reads APP from the environment (default: repo root), takes ONLY=9,11 to render a subset, and has a `table` visual plus a `note` line on the card mock.
 - **Site check:** couldn't run this time (WebFetch permission timed out in the unattended run). Needs checking next run.
 - **Why:** there's no performance data yet, so posts ran in posts.md order. Two posts (7, 11) ask for a comment reply, which the algorithm rewards on new accounts. The 12:00 slot waits until posts have data.
+
+## 2026-10-03
+- **Published so far:** posts 1, 2, 3 and 5 (29 Sep to 2 Oct, 19:00 ET). Post 6 (undertone in photos) goes out tonight.
+- **Metrics (Metricool, TikTok photo carousels; the connector doesn't expose saves):**
+  - Post 3, Soft vs True Autumn: 795 views, 7 likes, 0 comments, 0 shares
+  - Post 5, sage green: 762 views, 10 likes, 0 comments, 0 shares (under 24h old)
+  - Post 2, is black bad on you: 399 views, 2 likes
+  - Post 1, 4 measurements: 354 views, 1 like
+  - Total: 2,310 views and 20 likes. Over 99% of views came from For You.
+- **Best performers:** the season-vs-season comparison (post 3) and the trend-colour post (post 5). Each got about 2x the views of the explainer and myth posts (1, 2). No post has a comment yet.
+- **Changed:** nothing in the queue. Posts 6–13 are scheduled through 9 Oct, which is 6 days ahead, so no new posts were needed. The queue already leans toward what works: 7 (pinks), 9 (Soft Summer vs Soft Autumn) and 13 (burgundy). The next batch should be more comparisons and trend colours, e.g. "True Winter vs Deep Winter", "Which season is chocolate brown for?" and "Which season is butter yellow for?".
+- **12:00 slot:** not yet. Views are still in the hundreds. Add a second slot once a post clears ~2k views, or once comparisons hold up on posts 9 and 13.
+- **Site check:** the WebFetch permission timed out again in the unattended run, so the site wasn't checked (second run in a row).
