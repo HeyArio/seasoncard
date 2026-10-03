@@ -27,3 +27,4 @@
   - Diagnosis: 2.3k TikTok views but no clickable link, so very few people reach the site.
   - Added Instagram Reels and Facebook posts of posts 3 and 5 (12:00 and 20:00 ET). The Facebook posts link to seasoncard.app/?ref=fb, so any Facebook sale shows up separately in the admin summary.
   - The result page now previews the paid report: 6 palette colours, the other 30 blurred, and one colour to skip with the reason. Release eba09be, live on the server.
+  - Second daily slot opened (12:00 ET, 4–8 Oct): posts 14–18, built on the formats that work (comparisons, trend colours, "pick your letter" comment prompts). Each one goes to TikTok, Instagram (carousel) and Facebook (with the clickable ?ref=fb link).
