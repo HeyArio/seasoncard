@@ -18,7 +18,9 @@ export function SiteFooter() {
   return (
     <footer className="site-footer no-print">
       <p>Full report $9.99 · 7-day refund, one click</p>
-      <nav aria-label="Legal">
+      <nav aria-label="Site">
+        <Link href="/seasons">12 seasons</Link>
+        <Link href="/guides">Guides</Link>
         <Link href="/privacy">Privacy</Link>
         <Link href="/terms">Terms</Link>
         <Link href="/refund">Refunds</Link>

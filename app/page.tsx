@@ -3,6 +3,8 @@ import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { SeasonCard } from "@/components/SeasonCard";
 import { IconBolt, IconLock, IconRuler, IconCheck } from "@/components/Icons";
 import { SELLER } from "@/lib/site";
+import { JsonLd } from "@/components/ContentBits";
+import { abs, allSeasons, faqLd, seasonUrl } from "@/lib/seo";
 
 const FAQ: { q: string; a: string }[] = [
   {
@@ -45,6 +47,25 @@ const EXAMPLE_METRICS = {
 export default function Home() {
   return (
     <main className="page">
+      <JsonLd
+        data={[
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            name: "Season Card",
+            url: abs("/"),
+            applicationCategory: "LifestyleApplication",
+            operatingSystem: "Any (runs in the browser)",
+            description: "Free selfie-based seasonal colour analysis that measures undertone, depth, contrast and chroma in your browser, with an optional full report.",
+            offers: [
+              { "@type": "Offer", name: "Free Season Card scan", price: "0", priceCurrency: "USD" },
+              { "@type": "Offer", name: "Full Season Report", price: "9.99", priceCurrency: "USD" },
+            ],
+            publisher: { "@type": "Organization", name: SELLER.legalName },
+          },
+          faqLd(FAQ),
+        ]}
+      />
       <SiteHeader right={<Link href="/scan" className="header-link">Free scan</Link>} />
 
       <section className="hero">
@@ -121,6 +142,18 @@ export default function Home() {
           <div style={{ marginTop: 20 }}>
             <Link href="/scan" className="btn btn-primary btn-block">Take the free scan</Link>
           </div>
+        </div>
+      </section>
+
+      <section className="section">
+        <h2 className="section-title">The 12 colour seasons</h2>
+        <div className="season-list">
+          {allSeasons().map((s) => (
+            <Link key={s.id} href={seasonUrl(s.id)} className="card card-flat season-link">
+              <span className="season-dots">{s.cardSwatches.map((c) => <i key={c} style={{ background: c }} />)}</span>
+              <span><strong>{s.name}</strong><span className="small muted" style={{ display: "block" }}>{s.tagline}</span></span>
+            </Link>
+          ))}
         </div>
       </section>
 
