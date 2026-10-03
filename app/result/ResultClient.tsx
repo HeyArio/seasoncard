@@ -42,7 +42,12 @@ export default function ResultClient() {
     );
   }
 
-  const { season } = getSeason(result.season);
+  const { season, complete } = getSeason(result.season);
+  // Preview six colourful shades spread across the palette (the first rows are neutrals).
+  const PEEK_AT = [6, 11, 16, 21, 26, 31];
+  const peek = complete ? PEEK_AT.map((i) => season.palette[i]).filter(Boolean) : [];
+  const hidden = complete ? season.palette.filter((_, i) => !PEEK_AT.includes(i)) : [];
+  const avoid = complete ? season.avoid[0] : undefined;
   const name = season.name || seasonName(result.season);
 
   return (
@@ -68,6 +73,33 @@ export default function ResultClient() {
             <h2>Your full report</h2>
             <span className="price-tag">$9.99</span>
           </div>
+          {peek.length > 0 ? (
+            <div className="peek" aria-label="Preview of your full report">
+              <p className="small muted">A peek at your {season.palette.length}-colour palette</p>
+              <div className="peek-grid">
+                {peek.map((c) => (
+                  <div key={c.hex} className="peek-cell">
+                    <span className="peek-swatch" style={{ background: c.hex }} />
+                    <span className="peek-name">{c.name}</span>
+                  </div>
+                ))}
+              </div>
+              {hidden.length > 0 ? (
+                <div className="peek-hidden" aria-hidden="true">
+                  {hidden.map((c, i) => (
+                    <span key={`${c.hex}-${i}`} className="peek-dot" style={{ background: c.hex }} />
+                  ))}
+                  <span className="peek-more"><IconLock width={16} height={16} /> +{hidden.length} more in your report</span>
+                </div>
+              ) : null}
+              {avoid ? (
+                <p className="peek-avoid small">
+                  <span className="peek-dot peek-dot-inline" style={{ background: avoid.hex }} />
+                  <span><strong>One to skip: {avoid.name}.</strong> {avoid.why}</span>
+                </p>
+              ) : null}
+            </div>
+          ) : null}
           <ul className="locked-list" style={{ marginTop: 12 }}>
             {LOCKED.map((l) => (
               <li key={l}><IconLock width={18} height={18} />{l}</li>

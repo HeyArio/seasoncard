@@ -943,3 +943,55 @@ p {
     break-inside: avoid-page;
   }
 }
+
+/* ---------- Result / report peek ---------- */
+.peek { margin-top: 12px; }
+.peek-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-top: 8px;
+}
+.peek-cell { display: grid; gap: 4px; }
+.peek-swatch {
+  display: block;
+  aspect-ratio: 2 / 1;
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 1px rgba(33, 28, 24, 0.06);
+}
+.peek-name { font-size: 0.78rem; color: var(--muted); line-height: 1.2; }
+.peek-hidden {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 4px;
+  margin-top: 10px;
+  padding: 6px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.peek-hidden .peek-dot { filter: blur(5px); }
+.peek-dot {
+  display: block;
+  aspect-ratio: 1;
+  border-radius: 6px;
+}
+.peek-more {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  background: rgba(255, 255, 255, 0.55);
+  color: var(--ink);
+}
+.peek-avoid {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 12px;
+}
+.peek-dot-inline { flex: 0 0 22px; width: 22px; margin-top: 2px; }
