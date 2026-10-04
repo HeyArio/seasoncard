@@ -515,5 +515,19 @@ export default (S) => {
         cta("See your season **and your runner-up**, free."),
       ],
     },
+    {
+      n: 39,
+      caption: "Comment 3 things: your natural hair colour, eye colour and skin (fair, light, medium or deep + golden or pink). I reply to every comment with the season you might be 👇\n\nComment hair · eyes · skin." + R + "what season am I · guess my color season",
+      tags: "#whatseasonami #coloranalysis #colorseason #seasonclub #guessmyseason",
+      slides: [
+        { hook: true, title: "Comment your hair, eyes and skin. I'll guess your season. 👇", v: { t: "swatches", list: [["#5A3E2B", "Hair"], ["#6B7F5E", "Eyes"], ["#D9B99A", "Skin"]] } },
+        { kicker: "Example comment", title: "\"Dark brown hair, hazel eyes, medium golden skin\"", v: { t: "swatches", list: [["#3E2A1E", "Dark brown"], ["#8B7A55", "Hazel"], ["#C49C78", "Medium golden"]] } },
+        { kicker: "1 · Hair", title: "Your hair tells me your **depth**: light, medium or deep.", v: { t: "value" } },
+        { kicker: "2 · Eyes", title: "Your eyes tell me your **clarity**: clear and bright, or soft and blended.", v: { t: "chroma", a: "#2F7FA8", b: "#7D8F86", la: "Clear", lb: "Soft" } },
+        { kicker: "3 · Skin", title: "Your skin tells me your **undertone**: golden, pink or neutral.", v: { t: "gradient", pos: 50, lo: "Pink / cool", hi: "Golden / warm" } },
+        { title: "Put together, that points to **1 of 12 seasons.** I'll reply with the one you might be.", v: { t: "grid12" } },
+        cta("Season Club: comment hair · eyes · skin 👇 For a measured answer, scan free."),
+      ],
+    },
   ];
 };
