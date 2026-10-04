@@ -56,3 +56,9 @@
 - **SEO:** not a Monday, so no page. Candidate for Monday: a "who can wear sage green" guide.
 - **Site check:** not checked, the egress proxy blocks seasoncard.app (fifth run in a row).
 - **Notify:** yes, comments on the sage green post.
+
+## 2026-10-04 (Saman: "more posts, likes and sales")
+- **Today's posts weren't missing:** today's slots are 12:00, 16:00 and 19:00 ET, and it was 09:00 ET at the time of this run, so posts 14, 19 and 7 hadn't gone out yet.
+- **Volume up:** 4th daily slot at 21:00 ET. Wrote, rendered, checked and scheduled posts 29–38 (7 trend colours, the winning format: mocha, olive, cobalt, plum, pistachio, grey, camel coat; plus Bright Spring vs Bright Winter, Deep Autumn vs Deep Winter, 5 signs Soft Summer). Queue: 4/day through 10 Oct, 21:00 only from 11 to 13 Oct. The contact-sheet check caught 4 slide titles and 2 captions that didn't match the swatches; all fixed before scheduling.
+- **Research:** written into viral.md (ranking signals, TikTok SEO, frequency, bio-link rules, ManyChat, Promote).
+- **Needs Saman (can't be automated from here):** (1) reply to the 2 sage comments; (2) TikTok Business account + business registration for a clickable website link before 1,000 followers; (3) connect ManyChat (TikTok channel, open beta) for automatic DM replies to the keyword "SEASON"; (4) a pinned comment on each post: "Free scan: seasoncard.app · DM me SEASON for a personal review"; (5) optional $20–30 TikTok Promote on the best post (sage green) with the website-visits goal.

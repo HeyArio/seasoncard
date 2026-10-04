@@ -21,17 +21,25 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 - Never claim accuracy, popularity numbers or trends we can't source. "you might be" not "you are".
 
 ## Cadence
-- 3 TikTok posts/day: 12:00, 16:00, 19:00 America/New_York. Always ≥5 days queued.
+- 4 TikTok posts/day from 4 Oct: 12:00, 16:00, 19:00, 21:00 America/New_York. Always ≥5 days queued at all 4 slots.
+  Research (4 Oct): more posts lift total views with diminishing returns; 2–4 distinct posts/day is the safe range, so don't go above 4 with near-duplicates.
 - Rotate formats so no two posts in a row share a format. Series (5 signs, guess part N) run every 2–3 days.
 - Each run: rank posts by views and by (likes+comments+shares)/views; make 60% of the next batch the top format,
   40% new experiments. Retire a format after 3 posts below the median.
 
 ## Next ideas queue
-- 5 signs: Bright Winter, True Summer, Soft Summer, Deep Autumn, Light Spring, Bright Spring, True Winter, True Autumn
-- Trend colours: cherry red, mocha, olive, cobalt, pistachio, plum
-- Season vs: Bright Spring vs Bright Winter, True Summer vs True Winter, Deep Autumn vs Deep Winter, True Autumn vs True Spring
+- 5 signs: Bright Winter, True Summer, Deep Autumn, Light Spring, Bright Spring, True Winter, True Autumn
+- Trend colours: cherry red, rust, emerald, lavender, chocolate vs black, denim wash (done 4 Oct: mocha, olive, cobalt, pistachio, plum, grey, camel coat)
+- Season vs: True Summer vs True Winter, True Autumn vs True Spring, Light Spring vs Bright Spring, Soft Summer vs True Summer
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals
 - Quiz: guess the season part 3 (all Autumns), "which palette is fake?"
+
+## Research notes (4 Oct 2026)
+- Ranking: completion/rewatches, then shares, saves and comments count more than likes. Design slide 1 to make people swipe and the last slide to make them comment.
+- TikTok search reads the first ~50 characters of the caption and the on-screen text: start captions with the exact search phrase ("Sage green…", "Soft Autumn color palette").
+- Carousel vs video: the studies disagree, so keep both. Carousels for "save this palette"; Saman's hand-swatch videos for reach.
+- Sales: no clickable link until 1,000 followers OR a registered Business account. Comment-to-DM automation (ManyChat) isn't available for most regions; the "DM me a keyword" trigger works. TikTok Shop doesn't allow digital products.
+- Promote: about $3/day minimum. Only boost a post that is already winning organically, $20–50 total as a test.
 
 ## Video track (sales mode)
 Faceless hand-only videos, scripts in marketing/videos.md (3 new per run). Offer, DM scripts and Saman's routine: marketing/offer.md.

@@ -29,6 +29,18 @@
 | 22 | 5 signs you're a True Spring | 2026-10-10 12:00 · TikTok | social/post-22 |
 | 27 | Your closet knows your season | 2026-10-10 16:00 · TikTok | social/post-27 |
 | 28 | Think you can't wear orange? | 2026-10-10 19:00 · TikTok | social/post-28 |
+| 29 | Mocha: which one is yours? | 2026-10-04 21:00 · TikTok | social/post-29 |
+| 34 | Bright Spring vs Bright Winter | 2026-10-05 21:00 · TikTok | social/post-34 |
+| 30 | Olive green: 4 versions | 2026-10-06 21:00 · TikTok | social/post-30 |
+| 35 | 5 signs you're a Soft Summer | 2026-10-07 21:00 · TikTok | social/post-35 |
+| 31 | Cobalt blue: who it's for | 2026-10-08 21:00 · TikTok | social/post-31 |
+| 38 | Deep Autumn vs Deep Winter | 2026-10-09 21:00 · TikTok | social/post-38 |
+| 37 | Camel coat: which camel | 2026-10-10 21:00 · TikTok | social/post-37 |
+| 32 | Plum: which one is yours | 2026-10-11 21:00 · TikTok | social/post-32 |
+| 36 | Which grey is yours | 2026-10-12 21:00 · TikTok | social/post-36 |
+| 33 | Pistachio green: who it's for | 2026-10-13 21:00 · TikTok | social/post-33 |
+
+2026-10-04: 4th daily TikTok slot added (21:00 ET), posts 29–38.
 
 2026-10-04: all queued TikTok posts from 5 Oct onward (18 posts: 15, 25, 8, 16, 20, 9, 17, 23, 11, 18, 21, 12, 26, 24, 13, 22, 27, 28) now carry the line "Want a personal colour review? Comment REVIEW 🎨". Posts 14, 19, 7 (4 Oct) left unchanged.
 

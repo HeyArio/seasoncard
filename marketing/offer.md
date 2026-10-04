@@ -52,6 +52,9 @@ Owner: Saman (Nazarban Analytics FZCO). Honesty rules in rules.md apply: no inve
 **7. Refund request**
 > No problem, refunding you now. Thank you for trying it, and if you're willing, tell me what would have made it more useful.
 
+## DM keyword (works with automation later)
+Videos and pinned comments can say "DM me SEASON for a personal review". A DM is a warmer lead than a comment, and once ManyChat is connected (see LOG.md, 4 Oct) the keyword can trigger the first reply automatically: the offer, the 5 questions and the price. Until then, reply by hand with script 1.
+
 ## Saman's daily routine (about 20 minutes)
 1. Open TikTok notifications. Reply to every comment within the hour (the routine notifies you when a post has comments).
 2. For each REVIEW comment: public reply "Sent you a DM 🎨", then DM script 1.
