@@ -39,6 +39,7 @@
 | 32 | Plum: which one is yours | 2026-10-11 21:00 · TikTok | social/post-32 |
 | 36 | Which grey is yours | 2026-10-12 21:00 · TikTok | social/post-36 |
 | 33 | Pistachio green: who it's for | 2026-10-13 21:00 · TikTok | social/post-33 |
+| 39 | Comment hair · eyes · skin, I'll guess your season (lead post) | 2026-10-04 22:30 · TikTok | social/post-39 |
 
 2026-10-04: 4th daily TikTok slot added (21:00 ET), posts 29–38.
 

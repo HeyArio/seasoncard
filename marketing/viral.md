@@ -11,6 +11,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 5. **Quiz** ("Guess the season from the palette", score /4): built for comments and replays.
 6. **Hot take** ("Stop wearing pure white", "Navy is the new black"): mild contrarian hook, built for saves.
 
+7. **Guess-my-season comment post** (post 39, 4 Oct): built for leads, since every comment gets a personal reply and the REVIEW offer. Test, then repeat weekly if it pulls comments.
+
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
 - 7 slides: hook → why → 4 value slides → CTA mock. CTA footer (render.mjs) reads "Free scan: link in bio · Personal review: comment REVIEW". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).

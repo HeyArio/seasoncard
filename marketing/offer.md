@@ -55,6 +55,26 @@ Owner: Saman (Nazarban Analytics FZCO). Honesty rules in rules.md apply: no inve
 ## DM keyword (works with automation later)
 Videos and pinned comments can say "DM me SEASON for a personal review". A DM is a warmer lead than a comment, and once ManyChat is connected (see LOG.md, 4 Oct) the keyword can trigger the first reply automatically: the offer, the 5 questions and the price. Until then, reply by hand with script 1.
 
+## "Guess my season" comment replies (post 39 and any hair · eyes · skin comment)
+Read the comment, find the closest row, reply with the template. Always say "might be", never "you are".
+
+| Hair | Eyes | Skin | You might be |
+|---|---|---|---|
+| Blonde / light golden | Blue, green, aqua | Fair-light, golden or peachy | Light Spring or True Spring |
+| Ash blonde / light ash brown | Soft blue, grey, grey-green | Fair-light, pink or neutral | Light Summer or True Summer |
+| Ash / mousy medium brown | Grey-blue, grey-green, soft hazel | Light-medium, neutral, calm | Soft Summer |
+| Golden / mousy medium brown | Hazel, soft green, grey-brown | Light-medium, golden-beige | Soft Autumn |
+| Red, copper, auburn, warm brown | Green, hazel, warm brown | Golden, freckles | True Autumn |
+| Dark brown / black-brown, warm | Dark brown, deep hazel | Medium-deep, golden | Deep Autumn |
+| Very dark brown / black | Dark brown, black-brown | Any depth, cool or neutral | Deep Winter |
+| Dark, cool | Icy blue, grey, cool brown | Fair-medium, pink or olive-cool | True Winter |
+| Dark hair, light bright eyes (high contrast) | Bright blue, green, clear | Fair-medium | Bright Winter (cooler) or Bright Spring (warmer) |
+
+Reply template (public):
+> From what you described you might be a **[season]** (runner-up [neighbour]) 🎨 [one line: "your best colours lean clay, honey and sage"]. Photos and light change a lot, so check with the free scan (link in bio). Want me to look properly? Comment REVIEW or DM me SEASON.
+
+Anyone who replies or comments REVIEW → DM script 1.
+
 ## Saman's daily routine (about 20 minutes)
 1. Pin this comment on each new post (comment icon → send → long-press → Pin): "🎨 Free colour scan: link in bio (seasoncard.app). Want a personal review? DM me SEASON"
 2. Open TikTok notifications. Reply to every comment within the hour (the routine notifies you when a post has comments).
