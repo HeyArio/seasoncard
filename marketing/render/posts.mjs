@@ -1,6 +1,9 @@
 // Slide content for posts 1–3 (from posts.md), using real palettes from seasons.json.
 export default (S) => {
   const hex = (id, name) => S[id].palette.find((c) => c.name.toLowerCase().includes(name))?.hex;
+  const X = (id, name) => { const c = S[id].palette.find((c) => c.name.toLowerCase() === name.toLowerCase()); if (!c) throw new Error(`no ${name} in ${id}`); return c.hex; };
+  const N = (id) => S[id].cardSwatches.map((c) => [c, S[id].palette.find((p) => p.hex.toLowerCase() === c.toLowerCase())?.name ?? ""]);
+  const R = "\n\nWant a personal colour review? Comment REVIEW 🎨\n\nFree scan at seasoncard.app\n\n";
   const cta = (title, hl) => ({ title, cta: true, v: { t: "mock", id: "soft-autumn", hl } });
   return [
     {
@@ -370,6 +373,146 @@ export default (S) => {
         { kicker: "C · Autumns", title: "**Rust and burnt orange**", v: { t: "swatches", list: [["#B7410E", "Rust"], ["#BC581C", "Burnt Orange"]] } },
         { kicker: "D · Bright Spring", title: "**Bright, clear orange**", v: { t: "swatches", list: [["#FF7A1A", "Bright Orange"], ["#F47C20", "Tangerine"]] } },
         cta("Comment your letter 👇 then find your orange free."),
+      ],
+    },
+    {
+      n: 29,
+      caption: "Mocha looks rich on some people and muddy on others ☕ It's all about which mocha. Which one is yours? A, B, C or D? 👇\n\nComment your letter." + R + "mocha brown outfit · which brown suits me",
+      tags: "#mochamousse #coloranalysis #colorseason #fallfashion #seasonclub",
+      slides: [
+        { hook: true, title: "Mocha looks rich on some people. Muddy on others. ☕", v: { t: "letters", list: [[X("light-spring", "café au lait"), "A"], [X("soft-summer", "cocoa"), "B"], [X("soft-autumn", "milk cocoa"), "C"], [X("deep-winter", "cool espresso"), "D"]] } },
+        { title: "Mocha is a **soft, medium brown.** Temperature and depth decide whether it glows or goes muddy.", v: { t: "gradient", pos: 55, lo: "Rosy cocoa", hi: "Golden mocha" } },
+        { kicker: "A · Springs", title: "Light, **milky and golden**: café au lait", v: { t: "swatches", list: [[X("light-spring", "café au lait"), "Café au Lait"], [X("light-spring", "light camel"), "Light Camel"]] } },
+        { kicker: "B · Summers", title: "**Rosy and greyed**: cocoa, rose taupe", v: { t: "swatches", list: [[X("soft-summer", "cocoa"), "Cocoa"], [X("soft-summer", "rose taupe"), "Rose Taupe"]] } },
+        { kicker: "C · Autumns", title: "**Warm and soft**: milk cocoa, toffee", v: { t: "swatches", list: [[X("soft-autumn", "milk cocoa"), "Milk Cocoa"], [X("true-autumn", "toffee"), "Toffee"]] } },
+        { kicker: "D · Winters", title: "Skip mid-mocha. Go **deep and cool**: cool espresso", v: { t: "swatches", list: [[X("deep-winter", "cool espresso"), "Cool Espresso"], [X("deep-winter", "charcoal"), "Charcoal"]] } },
+        cta("Season Club: comment your letter 👇 then find your exact brown free."),
+      ],
+    },
+    {
+      n: 30,
+      caption: "Olive green is everywhere this autumn, but olive isn't one colour 🫒 Which olive is yours? A, B, C or D? 👇\n\nComment your letter." + R + "olive green outfit · who can wear olive green",
+      tags: "#olivegreen #coloranalysis #colorseason #autumnpalette #seasonclub",
+      slides: [
+        { hook: true, title: "Olive green: 4 versions, only one is yours. 🫒", v: { t: "letters", list: [[X("light-spring", "pistachio"), "A"], [X("soft-summer", "sage"), "B"], [X("true-autumn", "olive"), "C"], [X("deep-winter", "pine"), "D"]] } },
+        { title: "Olive is **warm and muted.** Autumns own it. Everyone else needs a twist.", v: { t: "chroma", a: X("true-autumn", "olive"), b: X("soft-autumn", "warm sage"), la: "Olive (rich)", lb: "Warm sage (soft)" } },
+        { kicker: "A · Springs", title: "Go **lighter and clearer**: pistachio, fresh apple", v: { t: "swatches", list: [[X("light-spring", "pistachio"), "Pistachio"], [X("light-spring", "fresh apple"), "Fresh Apple"]] } },
+        { kicker: "B · Summers", title: "Go **grey-green**: sage, eucalyptus", v: { t: "swatches", list: [[X("soft-summer", "sage"), "Sage"], [X("soft-summer", "eucalyptus"), "Eucalyptus"]] } },
+        { kicker: "C · Autumns", title: "**True olive** is yours: olive, moss, golden olive", v: { t: "swatches", list: [[X("true-autumn", "olive"), "Olive"], [X("true-autumn", "moss"), "Moss"], [X("soft-autumn", "golden olive"), "Golden Olive"]] } },
+        { kicker: "D · Winters", title: "Swap olive for **cool pine and emerald**", v: { t: "swatches", list: [[X("deep-winter", "pine"), "Pine"], [X("deep-winter", "emerald"), "Emerald"]] } },
+        cta("Season Club: comment your letter 👇 then find your green free."),
+      ],
+    },
+    {
+      n: 31,
+      caption: "Cobalt blue makes some people glow and swallows others 💙 It's a clear, cool, high-energy colour. Did cobalt ever get you compliments? Yes or no? 👇\n\nComment yes or no." + R + "cobalt blue outfit · who can wear cobalt blue",
+      tags: "#cobaltblue #coloranalysis #colorseason #wintercolors #seasonclub",
+      slides: [
+        { hook: true, title: "Cobalt blue makes some people glow. Others it swallows.", v: { t: "single", c: X("bright-winter", "cobalt") } },
+        { title: "Cobalt is **cool, clear and saturated.** It needs colouring with some contrast and clarity.", v: { t: "chroma", a: X("bright-winter", "cobalt"), b: X("soft-summer", "storm blue"), la: "Cobalt (clear)", lb: "Storm blue (soft)" } },
+        { kicker: "Made for", title: "Bright Winter, True Winter and Bright Spring", v: { t: "palettes", ids: ["bright-winter", "true-winter", "bright-spring"] } },
+        { kicker: "Soft or light colouring?", title: "Summers: try **cornflower or denim** instead.", v: { t: "pair", a: [X("true-summer", "cornflower"), "Cornflower"], b: [X("true-summer", "denim blue"), "Denim Blue"] } },
+        { kicker: "Autumns?", title: "Cobalt can look harsh. Try **teal or petrol**.", v: { t: "pair", a: [X("true-autumn", "teal"), "Teal"], b: [X("deep-autumn", "petrol"), "Petrol"] } },
+        { kicker: "Quick check", title: "If cobalt makes your **eyes pop**, it's yours. If you see the blue before your face, it's too much.", v: { t: "pair", a: [X("bright-winter", "cobalt"), "Eyes pop → yours"], b: [X("light-summer", "chambray"), "Too much → go softer"] } },
+        cta("Your 36-colour palette shows your exact blue. Free scan first →"),
+      ],
+    },
+    {
+      n: 32,
+      caption: "Plum is the autumn colour almost nobody talks about 🍇 and there's a plum for most seasons. Which one is yours? A, B, C or D? 👇\n\nComment your letter." + R + "plum color outfit · which purple suits me",
+      tags: "#plum #coloranalysis #colorseason #fallfashion #seasonclub",
+      slides: [
+        { hook: true, title: "Plum is the fall colour nobody talks about. 🍇", v: { t: "letters", list: [[X("true-spring", "warm violet"), "A"], [X("true-summer", "soft plum"), "B"], [X("deep-autumn", "plum"), "C"], [X("true-winter", "plum"), "D"]] } },
+        { title: "Purple goes **warm (red-plum)** or **cool (blue-plum).** Depth decides how dark.", v: { t: "gradient", pos: 50, lo: "Blue-plum", hi: "Red-plum" } },
+        { kicker: "A · Springs", title: "Clear, **warm violet**", v: { t: "swatches", list: [[X("true-spring", "warm violet"), "Warm Violet"], [X("true-spring", "orchid"), "Orchid"]] } },
+        { kicker: "B · Summers", title: "Soft, **dusty plum**", v: { t: "swatches", list: [[X("true-summer", "soft plum"), "Soft Plum"], [X("true-summer", "soft grape"), "Soft Grape"]] } },
+        { kicker: "C · Autumns", title: "Warm, **brown-plum and mulberry**", v: { t: "swatches", list: [[X("deep-autumn", "plum"), "Plum"], [X("deep-autumn", "mulberry"), "Mulberry"], [X("deep-autumn", "aubergine"), "Aubergine"]] } },
+        { kicker: "D · Winters", title: "Deep, **cool blackberry plum**", v: { t: "swatches", list: [[X("true-winter", "plum"), "Plum"], [X("true-winter", "blackberry"), "Blackberry"]] } },
+        cta("Season Club: comment your letter 👇 then find your plum free."),
+      ],
+    },
+    {
+      n: 33,
+      caption: "Pistachio is the softest 'it' green, and it's not for everyone 🌱 It's made for warm, light colouring. Pistachio or mint: which do you reach for? 👇\n\nComment pistachio or mint." + R + "pistachio green outfit · who can wear pistachio",
+      tags: "#pistachiogreen #coloranalysis #colorseason #springcolors #seasonclub",
+      slides: [
+        { hook: true, title: "Pistachio green: who it's actually for. 🌱", v: { t: "single", c: X("light-spring", "pistachio") } },
+        { title: "Pistachio is **light, warm and slightly yellow.** It loves golden, light colouring.", v: { t: "chroma", a: X("light-spring", "pistachio"), b: X("light-summer", "mint"), la: "Pistachio (warm)", lb: "Mint (cool)" } },
+        { kicker: "Made for", title: "Light Spring and True Spring", v: { t: "palettes", ids: ["light-spring", "true-spring"] } },
+        { kicker: "Cool and light?", title: "Summers: **mint or celadon** instead.", v: { t: "pair", a: [X("light-summer", "mint"), "Mint"], b: [X("light-summer", "celadon"), "Celadon"] } },
+        { kicker: "Warm but soft?", title: "Soft Autumn: **lichen or warm sage.**", v: { t: "pair", a: [X("soft-autumn", "lichen"), "Lichen"], b: [X("soft-autumn", "warm sage"), "Warm Sage"] } },
+        { kicker: "Winters", title: "Skip pistachio. **Icy mint** or **emerald** works better.", v: { t: "pair", a: [X("true-winter", "icy mint"), "Icy Mint"], b: [X("true-winter", "emerald"), "Emerald"] } },
+        cta("Your 36-colour palette shows your exact green. Free scan first →"),
+      ],
+    },
+    {
+      n: 34,
+      caption: "Bright Spring and Bright Winter both wear clear, vivid colour. The split is warm vs cool. Coral or fuchsia: which one lights you up? 🌺💎\n\nComment coral or fuchsia." + R + "bright spring vs bright winter · am I a bright spring",
+      tags: "#brightspring #brightwinter #coloranalysis #colorseason #seasonclub",
+      slides: [
+        { hook: true, title: "Bright Spring or Bright Winter? The coral test.", v: { t: "fans", a: "bright-spring", b: "bright-winter" } },
+        { title: "Both are **clear, saturated, high-energy.** The split is **warm vs cool.**", v: { t: "palettes", ids: ["bright-spring", "bright-winter"] } },
+        { kicker: "Bright Spring", title: "**Warm and clear.** Hot coral, sunshine yellow, turquoise", v: { t: "swatches", list: N("bright-spring") } },
+        { kicker: "Bright Winter", title: "**Cool and clear.** Hot pink, cobalt, emerald, lemon", v: { t: "swatches", list: N("bright-winter") } },
+        { kicker: "Coral test", title: "Hot coral vs hot pink under your chin, by a window. Which makes your skin look **more even?**", v: { t: "pair", a: [X("bright-spring", "hot coral"), "Hot coral → Bright Spring"], b: [X("bright-winter", "hot pink"), "Hot pink → Bright Winter"] } },
+        { kicker: "Whites", title: "Clear ivory or optic white? Your white is another clue.", v: { t: "pair", a: [X("bright-spring", "clear ivory"), "Clear Ivory → Spring"], b: [X("bright-winter", "optic white"), "Optic White → Winter"] } },
+        cta("See your season **and your runner-up**, free."),
+      ],
+    },
+    {
+      n: 35,
+      caption: "Soft Summer is the season of dusty, misty colours that most people call 'boring', until they see them on the right face. If 4 of these 5 are you, you might be one. How many did you tick? 🌫️👇\n\nComment your number." + R + "soft summer color palette · am I a soft summer",
+      tags: "#softsummer #coloranalysis #colorseason #summercolors #seasonclub",
+      slides: [
+        { hook: true, title: "5 signs you're a Soft Summer 🌫️", v: { t: "swatches", list: S["soft-summer"].cardSwatches.map((c) => [c, ""]) } },
+        { kicker: "Sign 1 · Skin", title: "Cool-neutral skin that looks **calm, not golden or rosy-bright.**", v: { t: "gradient", pos: 40, lo: "Cool", hi: "Warm" } },
+        { kicker: "Sign 2 · Hair", title: "Hair is **ash, mousy or soft brown**, rarely very dark or very golden.", v: { t: "swatches", list: S["soft-summer"].hair.map((c) => [c.hex, c.name]) } },
+        { kicker: "Sign 3 · Eyes", title: "Eyes are **soft and blended**: grey-blue, grey-green, soft hazel.", v: { t: "swatches", list: [["#7D8FA3", "Grey-blue"], ["#8A9A8B", "Grey-green"], ["#8B7A55", "Soft hazel"]] } },
+        { kicker: "Sign 4 · What looks wrong", title: "**Bright white, black and bright orange** look loud on you.", v: { t: "swatches", list: S["soft-summer"].avoid.slice(0, 3).map((c) => [c.hex, c.name]) } },
+        { kicker: "Sign 5 · What looks right", title: "Misty colours like **dusty rose, sage and blue grey** make you look polished.", v: { t: "palettes", ids: ["soft-summer"] } },
+        cta("Ticked 4 or 5? Season Club: comment your season. Check it free →"),
+      ],
+    },
+    {
+      n: 36,
+      caption: "Grey is the 'safe' neutral that isn't safe for everyone 🩶 Warm grey, blue grey, charcoal or heather? Which one is yours? A, B, C or D? 👇\n\nComment your letter." + R + "which grey suits me · grey outfit color analysis",
+      tags: "#greyoutfit #coloranalysis #colorseason #capsulewardrobe #seasonclub",
+      slides: [
+        { hook: true, title: "Grey isn't neutral on everyone. Which grey is yours? 🩶", v: { t: "letters", list: [[X("true-spring", "warm grey"), "A"], [X("true-summer", "blue-grey"), "B"], [X("soft-autumn", "stone"), "C"], [X("true-winter", "charcoal"), "D"]] } },
+        { title: "Greys lean **warm (beige)** or **cool (blue)**, and come **light or deep.**", v: { t: "gradient", pos: 50, lo: "Blue grey", hi: "Warm grey" } },
+        { kicker: "A · Springs", title: "**Warm, light greys**: warm grey, warm pebble", v: { t: "swatches", list: [[X("true-spring", "warm grey"), "Warm Grey"], [X("light-spring", "warm pebble"), "Warm Pebble"]] } },
+        { kicker: "B · Summers", title: "**Cool, soft greys**: blue grey, dove, pewter", v: { t: "swatches", list: [[X("true-summer", "blue-grey"), "Blue-Grey"], [X("light-summer", "dove grey"), "Dove Grey"], [X("light-summer", "pewter"), "Pewter"]] } },
+        { kicker: "C · Autumns", title: "Barely grey: **stone and warm taupe**", v: { t: "swatches", list: [[X("soft-autumn", "stone"), "Stone"], [X("soft-autumn", "warm taupe"), "Warm Taupe"]] } },
+        { kicker: "D · Winters", title: "**Crisp, cool greys**: charcoal, icy grey", v: { t: "swatches", list: [[X("true-winter", "charcoal"), "Charcoal"], [X("true-winter", "icy grey"), "Icy Grey"]] } },
+        cta("Season Club: comment your letter 👇 then find your neutrals free."),
+      ],
+    },
+    {
+      n: 37,
+      caption: "Coat season 🧥 Camel is the classic, but a camel that's wrong for you sits right next to your face all winter. Which camel is yours? A, B, C or D? 👇\n\nComment your letter." + R + "camel coat color analysis · which camel suits me",
+      tags: "#camelcoat #coloranalysis #colorseason #fallfashion #seasonclub",
+      slides: [
+        { hook: true, title: "Buying a camel coat? Pick the right camel first. 🧥", v: { t: "letters", list: [[X("light-spring", "light camel"), "A"], [X("light-summer", "rose beige"), "B"], [X("true-autumn", "camel"), "C"], [X("true-winter", "charcoal"), "D"]] } },
+        { title: "A coat sits **right under your face.** It's the biggest colour you'll wear all winter.", v: { t: "bigtext", text: "🧥", sub: "Same coat, every day, for months." } },
+        { kicker: "A · Springs", title: "**Light, golden camel**", v: { t: "swatches", list: [[X("light-spring", "light camel"), "Light Camel"], [X("true-spring", "camel"), "Camel"]] } },
+        { kicker: "B · Summers", title: "Camel can look sallow. Try **rose beige or soft grey.**", v: { t: "swatches", list: [[X("light-summer", "rose beige"), "Rose Beige"], [X("true-summer", "light grey"), "Light Grey"]] } },
+        { kicker: "C · Autumns", title: "Classic **camel and deep camel** are yours.", v: { t: "swatches", list: [[X("true-autumn", "camel"), "Camel"], [X("deep-autumn", "deep camel"), "Deep Camel"], [X("soft-autumn", "soft camel"), "Soft Camel"]] } },
+        { kicker: "D · Winters", title: "Skip camel. **Charcoal, navy or black** coats win.", v: { t: "swatches", list: [[X("true-winter", "charcoal"), "Charcoal"], [X("true-winter", "true navy"), "True Navy"], [X("true-winter", "black"), "Black"]] } },
+        cta("Season Club: comment your letter 👇 then check your season free."),
+      ],
+    },
+    {
+      n: 38,
+      caption: "Deep Autumn and Deep Winter both look amazing in dark, rich colour. The split is warm vs cool. Rust or ruby: which one is you? 🍂❄️\n\nComment rust or ruby." + R + "deep autumn vs deep winter · am I a deep autumn",
+      tags: "#deepautumn #deepwinter #coloranalysis #colorseason #seasonclub",
+      slides: [
+        { hook: true, title: "Deep Autumn or Deep Winter? It's one question.", v: { t: "fans", a: "deep-autumn", b: "deep-winter" } },
+        { title: "Both are **deep and rich.** The split is **warm (golden) vs cool (blue).**", v: { t: "palettes", ids: ["deep-autumn", "deep-winter"] } },
+        { kicker: "Deep Autumn", title: "**Warm and earthy.** Oxblood, burnt orange, forest, deep teal", v: { t: "swatches", list: N("deep-autumn") } },
+        { kicker: "Deep Winter", title: "**Cool and jewel-toned.** Emerald, sapphire, true red", v: { t: "swatches", list: N("deep-winter") } },
+        { kicker: "Red test", title: "Chili vs true red under your chin. Which makes your skin look **more even?**", v: { t: "pair", a: [X("deep-autumn", "chili"), "Chili → Deep Autumn"], b: [X("deep-winter", "true red"), "True red → Deep Winter"] } },
+        { kicker: "Metal test", title: "Antique gold or polished silver?", v: { t: "pair", a: ["linear-gradient(135deg,#8C6A1E,#E9C766 45%,#B8902C 60%,#F3DC8A)", "Gold → Deep Autumn"], b: ["linear-gradient(135deg,#7D8086,#E6E8EB 45%,#A3A7AD 60%,#F2F3F5)", "Silver → Deep Winter"] } },
+        cta("See your season **and your runner-up**, free."),
       ],
     },
   ];
