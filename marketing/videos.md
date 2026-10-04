@@ -105,5 +105,100 @@ Matches the existing post-1 claim ("I'm a painter"). Saman records a voice-over;
 
 ---
 
+## Batch 2 (4 Oct 2026)
+
+### Video 4: Drape test, greens (format: drape test; follows the sage green post, our best performer so far)
+**Props:** white sheet by a window, 3 green swatches: grey-green sage, warm olive, bright emerald (fabric or paper). Your own hand only.
+
+**Shot list**
+1. 0-3s: Hand lays the three greens in a row on the white sheet.
+2. 3-8s: Hand lifts sage toward the camera (the camera is your "face"), holds.
+3. 8-13s: Same with olive.
+4. 13-18s: Same with emerald.
+5. 18-22s: Hand points at the camera: "which one looked best?" then screen recording of the free scan on an illustration (label it "illustration").
+
+**On-screen text per second**
+- 0-3s: "Sage green looks grey on some people"
+- 3-8s: "1. Sage (soft, grey-green)"
+- 8-13s: "2. Olive (warm, deep)"
+- 13-18s: "3. Emerald (clear, bright)"
+- 18-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Sage green looks grey on some people 🌿 Which green looked best by the window? Comment 1, 2 or 3.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> which green suits me · sage green color analysis
+> #sagegreen #coloranalysis #colorseason #drapetest #seasonclub
+
+---
+
+### Video 5: "Stop buying these colours if you might be a Light Summer" (format: stop buying)
+Based on data/seasons.json: check the "avoid" list for Light Summer before filming and swap the swatches if it differs from the ones below.
+
+**Props:** 3 swatches: black, orange-red, mustard. One soft powder blue or lavender swatch as the contrast.
+
+**Shot list**
+1. 0-3s: Hand slides the black swatch to centre.
+2. 3-6s: Orange-red next to it.
+3. 6-9s: Mustard next to it.
+4. 9-13s: Hand sweeps all three off the table.
+5. 13-18s: Hand places powder blue, lavender and soft rose in the empty space.
+6. 18-22s: Screen recording of the Light Summer card (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Light Summer"
+- 3-6s: "Black can overpower"
+- 6-9s: "Hot orange and mustard can fight your colouring"
+- 9-13s: "Try these instead:"
+- 13-18s: "Powder blue · lavender · soft rose"
+- 18-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these if you might be a Light Summer 🩵 Which colour do you own but never wear? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> light summer color palette · colours to avoid light summer
+> #lightsummer #coloranalysis #colorseason #summercolors #seasonclub
+
+---
+
+### Video 6: Reply-to-comment (format: reply; the sage green post has 2 comments as of 4 Oct)
+Saman: open the 2 comments on the sage green post, pick the one that is a question, and use TikTok's "reply with video" on it. Don't invent the question: answer what was actually asked, in the same swatch setup as Video 4. If neither is a question, use the fallback below.
+
+**Fallback hook (if no usable comment):** "Someone asked how to know if sage is their green."
+
+**Shot list**
+1. 0-3s: Screen recording of the comment sticker (hide the username unless they agree).
+2. 3-9s: Hand lifts sage, then olive, under the camera by the window.
+3. 9-15s: Hand points at each: "grey-green = softer colouring, olive = warmer and deeper".
+4. 15-20s: Hand holds the two swatches together: "your answer is in the light, not the filter".
+5. 20-24s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: the commenter's question
+- 3-9s: "Test both, daylight, no filter"
+- 9-15s: "Sage = soft · Olive = warm and deep"
+- 15-20s: "You might be a Soft Summer or Soft Autumn"
+- 20-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a comment: how do you know if sage is your green? 🌿 Which did you pick, sage or olive?
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> is sage green my color · sage vs olive color analysis
+> #sagegreen #coloranalysis #colorseason #softautumn #seasonclub
+
+---
+
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.

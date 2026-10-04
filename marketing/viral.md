@@ -4,8 +4,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 (no fake reviews, before/afters, accuracy %, or real faces).
 
 ## Formats, ranked by what has worked (update as data comes in)
-1. **Season vs season** ("Soft Autumn or True Autumn? The one difference"): best views so far (795).
-2. **Trend colour × season** ("Sage green looks grey on some people", "Which brown is yours?"): most likes per view.
+1. **Season vs season** ("Soft Autumn or True Autumn? The one difference"): 825 views, second best (4 Oct).
+2. **Trend colour × season** ("Sage green looks grey on some people"): best post so far, 1,404 views, 17 likes, 2 comments (4 Oct). Make this the top format; next: cherry red, mocha, olive, cobalt.
 3. **Pick-a-letter** (A/B/C/D on slide 1, answers on slides 3–6, "comment your letter"): built for comments.
 4. **"5 signs you're a ___"** identity series (one per season = 12 posts): built for shares ("this is so me") and search.
 5. **Quiz** ("Guess the season from the palette", score /4): built for comments and replays.

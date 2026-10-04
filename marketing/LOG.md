@@ -47,3 +47,12 @@
 - **SEO:** not a Monday and no format has clearly won, so no page this run. No site changes are waiting for a release.
 - **Site check:** not checked. The sandbox egress proxy blocks seasoncard.app (fourth run in a row).
 - **Notify:** no comments, no post above 2,000 views, no sale visible, no failure, so no notification.
+
+## 2026-10-04 (evening run)
+- **Metrics (Metricool, TikTok):** sage green trend post 1,404 views / 17 likes / 2 comments / 0 shares (best by views and engagement, first post with comments); Soft vs True Autumn 825 / 9 / 0; undertone-in-photos 715 / 4 / 0; black 413 / 3 / 0; painter post 366 / 1 / 0; a newer sage green post 259 / 2 / 0. About 3,980 views in total. No post at 2,000 yet.
+- **Ranking:** trend colour (sage) beats season-vs-season, which beats the explainers. viral.md ranking updated; trend colours are now the top format for the next batch.
+- **Queue:** TikTok runs to 10 Oct at all three slots (6 days), all posts from 5 Oct carry the REVIEW line. No new posts needed. The next batch is due about 7 Oct: trend colours first (cherry red, mocha, olive, cobalt), then comparisons.
+- **Sales mode:** 3 new video scripts added to videos.md (greens drape test, "stop buying if Light Summer", reply-to-comment on the sage green post). No palette cards needed.
+- **SEO:** not a Monday, so no page. Candidate for Monday: a "who can wear sage green" guide.
+- **Site check:** not checked, the egress proxy blocks seasoncard.app (fifth run in a row).
+- **Notify:** yes, comments on the sage green post.
