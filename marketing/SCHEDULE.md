@@ -32,4 +32,4 @@
 
 Focus (Saman, 3 Oct): TikTok + SEO/AEO/GEO only. Instagram off. 3 TikTok slots/day (12:00, 16:00, 19:00 ET). Playbook: marketing/viral.md.
 Rules: Facebook captions use the clickable link https://seasoncard.app/?ref=fb (sales show per source in the admin summary). TikTok caption says "seasoncard.app" (no bio link until 1k followers). Media = JPG in social/post-XX, served from
-raw.githubusercontent.com/samansalour93/seasoncard/<commit>/social/... Render new posts with marketing/render (node render.mjs).
+raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new posts with marketing/render (node render.mjs).

@@ -31,3 +31,11 @@
   - SEO release da68920 is live: 12 season pages, 14 comparison pages, 5 guides, /seasons and /guides indexes, structured data (WebApplication + Offer, FAQPage, Article, BreadcrumbList), llms.txt, a sitemap with 38 URLs and an IndexNow key file. Still to do: Google Search Console verification (needs Saman's code) and the IndexNow submission (run from the server; this sandbox can't reach api.indexnow.org).
   - Saman set the focus to TikTok + SEO/AEO/GEO and turned Instagram off. The two IG reels were set to draft, and posts 14–18 were moved to TikTok only.
   - Viral batch: posts 19–28 (the "5 signs" series for Soft Autumn, Deep Winter, Light Summer and True Spring; whites; navy; pick-a-colour; guess part 2; closet; orange). Added a third daily TikTok slot at 16:00 ET. The TikTok queue now runs to 10 Oct (2–3 posts a day). Playbook written to marketing/viral.md.
+
+## 2026-10-04
+- **Published so far:** posts 1, 2, 3, 5 (29 Sep to 2 Oct). Post 6 (3 Oct, 19:00) is not in Metricool analytics yet (still syncing).
+- **Metrics (Metricool, TikTok):** post 3 Soft vs True Autumn 795 views / 7 likes; post 5 sage green 762 / 10; post 2 black 399 / 2; post 1 four measurements 354 / 1. Total 2,310 views, 20 likes, 0 comments, 0 shares. Nothing near 2,000 on a single post. Best by views: season-vs-season. Best by engagement rate: sage green (1.3%).
+- **Queue:** TikTok runs to 10 Oct at all three slots (12:00, 16:00, 19:00), 6 days ahead, so no new posts were written. Next batch (due from ~7 Oct): more season-vs-season and trend colours from the viral.md queue.
+- **SEO:** not a Monday and no format has clearly won yet, so no new page this run.
+- **Repo:** links in deploy/native-install.sh, i.sh and marketing/SCHEDULE.md now point to HeyArio/seasoncard (one-time job).
+- **Site check:** could not run. The sandbox egress proxy blocks seasoncard.app (WebFetch and curl). Third run in a row without a site check.

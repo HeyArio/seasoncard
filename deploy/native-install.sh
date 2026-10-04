@@ -12,7 +12,7 @@
 # seasoncard.service, and ONE nginx file seasoncard.conf (after backing up /etc/nginx and passing nginx -t).
 set -euo pipefail
 
-REPO="https://github.com/samansalour93/seasoncard"
+REPO="https://github.com/HeyArio/seasoncard"
 BASE=/opt/seasoncard
 APP=/opt/seasoncard-app   # kept apart from the scripts checkout, which has its own app/ folder
 ENVF=/etc/seasoncard/env
