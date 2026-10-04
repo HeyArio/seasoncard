@@ -475,7 +475,7 @@ export default (S) => {
     },
     {
       n: 36,
-      caption: "Grey is the 'safe' neutral that isn't safe for everyone 🩶 Warm grey, blue grey, charcoal or heather? Which one is yours? A, B, C or D? 👇\n\nComment your letter." + R + "which grey suits me · grey outfit color analysis",
+      caption: "Grey is the 'safe' neutral that isn't safe for everyone 🩶 Warm grey, blue grey, stone or charcoal? Which one is yours? A, B, C or D? 👇\n\nComment your letter." + R + "which grey suits me · grey outfit color analysis",
       tags: "#greyoutfit #coloranalysis #colorseason #capsulewardrobe #seasonclub",
       slides: [
         { hook: true, title: "Grey isn't neutral on everyone. Which grey is yours? 🩶", v: { t: "letters", list: [[X("true-spring", "warm grey"), "A"], [X("true-summer", "blue-grey"), "B"], [X("soft-autumn", "stone"), "C"], [X("true-winter", "charcoal"), "D"]] } },
@@ -503,7 +503,7 @@ export default (S) => {
     },
     {
       n: 38,
-      caption: "Deep Autumn and Deep Winter both look amazing in dark, rich colour. The split is warm vs cool. Rust or ruby: which one is you? 🍂❄️\n\nComment rust or ruby." + R + "deep autumn vs deep winter · am I a deep autumn",
+      caption: "Deep Autumn and Deep Winter both look amazing in dark, rich colour. The split is warm vs cool. Chili red or true red: which one is you? 🍂❄️\n\nComment chili or true red." + R + "deep autumn vs deep winter · am I a deep autumn",
       tags: "#deepautumn #deepwinter #coloranalysis #colorseason #seasonclub",
       slides: [
         { hook: true, title: "Deep Autumn or Deep Winter? It's one question.", v: { t: "fans", a: "deep-autumn", b: "deep-winter" } },
