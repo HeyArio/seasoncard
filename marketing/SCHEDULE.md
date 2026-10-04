@@ -30,6 +30,8 @@
 | 27 | Your closet knows your season | 2026-10-10 16:00 · TikTok | social/post-27 |
 | 28 | Think you can't wear orange? | 2026-10-10 19:00 · TikTok | social/post-28 |
 
+2026-10-04: all queued TikTok posts from 5 Oct onward (18 posts: 15, 25, 8, 16, 20, 9, 17, 23, 11, 18, 21, 12, 26, 24, 13, 22, 27, 28) now carry the line "Want a personal colour review? Comment REVIEW 🎨". Posts 14, 19, 7 (4 Oct) left unchanged.
+
 Focus (Saman, 3 Oct): TikTok + SEO/AEO/GEO only. Instagram off. 3 TikTok slots/day (12:00, 16:00, 19:00 ET). Playbook: marketing/viral.md.
 Rules: Facebook captions use the clickable link https://seasoncard.app/?ref=fb (sales show per source in the admin summary). TikTok caption says "seasoncard.app" (no bio link until 1k followers). Media = JPG in social/post-XX, served from
 raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new posts with marketing/render (node render.mjs).

@@ -13,9 +13,9 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
-- 7 slides: hook → why → 4 value slides → CTA mock. Every value slide should be screenshot-worthy (save trigger).
+- 7 slides: hook → why → 4 value slides → CTA mock. CTA footer (render.mjs) reads "Free scan: seasoncard.app · Personal review: comment REVIEW". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
 - Caption: line 1 restates the hook, then one question that is easy to answer in a word or letter ("Comment your letter"),
-  then "Free scan at seasoncard.app", then a plain-text search line ("soft autumn color palette · am I a soft autumn"),
+  then "Want a personal colour review? Comment REVIEW 🎨" (sales mode, 4 Oct), then "Free scan at seasoncard.app", then a plain-text search line ("soft autumn color palette · am I a soft autumn"),
   then 4–5 hashtags (1 broad #coloranalysis, 1 #colorseason, 2–3 specific).
 - `autoAddMusic: true`, `commercialContentOwnBrand: true`, title = the hook.
 - Never claim accuracy, popularity numbers or trends we can't source. "you might be" not "you are".
@@ -32,3 +32,6 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 - Season vs: Bright Spring vs Bright Winter, True Summer vs True Winter, Deep Autumn vs Deep Winter, True Autumn vs True Spring
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals
 - Quiz: guess the season part 3 (all Autumns), "which palette is fake?"
+
+## Video track (sales mode)
+Faceless hand-only videos, scripts in marketing/videos.md (3 new per run). Offer, DM scripts and Saman's routine: marketing/offer.md.

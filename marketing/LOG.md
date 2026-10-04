@@ -39,3 +39,11 @@
 - **SEO:** not a Monday and no format has clearly won yet, so no new page this run.
 - **Repo:** links in deploy/native-install.sh, i.sh and marketing/SCHEDULE.md now point to HeyArio/seasoncard (one-time job).
 - **Site check:** could not run. The sandbox egress proxy blocks seasoncard.app (WebFetch and curl). Third run in a row without a site check.
+
+## 2026-10-04 (sales mode run)
+- **Metrics (Metricool, TikTok):** unchanged since the earlier 4 Oct entry: post 3 795 views / 7 likes, post 5 762 / 10, post 2 399 / 2, post 1 354 / 1, plus an older post at 682 views / 0 likes. 0 comments and 0 shares on every post. No post near 2,000 views. Best by views: season-vs-season (post 3). Best by engagement rate: sage green (post 5). Post 6 (3 Oct 19:00) not synced yet.
+- **Queue:** TikTok runs to 10 Oct at all three slots (6 days incl. today), so no new posts written. The next batch is due from about 7 Oct.
+- **Sales mode:** added marketing/offer.md (Personal Season Review $29 for the first 20 clients then $39, DM scripts, Saman's daily routine, review template, client tracker) and marketing/videos.md (3 scripts: drape test, "stop buying these if you might be a Soft Autumn", founder story). No palette cards were needed. Added the REVIEW line to all 18 queued TikTok posts from 5 Oct onward via updateScheduledPost (times and media unchanged). Posts of 6 Oct 12:00 and 8 Oct 19:00 had no comment question, so they only got the REVIEW line. The CTA slide footer in render.mjs now reads "Free scan: seasoncard.app · Personal review: comment REVIEW" for new posts. viral.md updated.
+- **SEO:** not a Monday and no format has clearly won, so no page this run. No site changes are waiting for a release.
+- **Site check:** not checked. The sandbox egress proxy blocks seasoncard.app (fourth run in a row).
+- **Notify:** no comments, no post above 2,000 views, no sale visible, no failure, so no notification.
