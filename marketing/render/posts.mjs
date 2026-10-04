@@ -3,7 +3,7 @@ export default (S) => {
   const hex = (id, name) => S[id].palette.find((c) => c.name.toLowerCase().includes(name))?.hex;
   const X = (id, name) => { const c = S[id].palette.find((c) => c.name.toLowerCase() === name.toLowerCase()); if (!c) throw new Error(`no ${name} in ${id}`); return c.hex; };
   const N = (id) => S[id].cardSwatches.map((c) => [c, S[id].palette.find((p) => p.hex.toLowerCase() === c.toLowerCase())?.name ?? ""]);
-  const R = "\n\nWant a personal colour review? Comment REVIEW 🎨\n\nFree scan at seasoncard.app\n\n";
+  const R = "\n\nWant a personal colour review? Comment REVIEW 🎨\n\nFree scan at seasoncard.app (link in bio)\n\n";
   const cta = (title, hl) => ({ title, cta: true, v: { t: "mock", id: "soft-autumn", hl } });
   return [
     {

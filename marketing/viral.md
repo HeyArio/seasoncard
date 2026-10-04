@@ -13,9 +13,9 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
-- 7 slides: hook → why → 4 value slides → CTA mock. CTA footer (render.mjs) reads "Free scan: seasoncard.app · Personal review: comment REVIEW". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
+- 7 slides: hook → why → 4 value slides → CTA mock. CTA footer (render.mjs) reads "Free scan: link in bio · Personal review: comment REVIEW". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
 - Caption: line 1 restates the hook, then one question that is easy to answer in a word or letter ("Comment your letter"),
-  then "Want a personal colour review? Comment REVIEW 🎨" (sales mode, 4 Oct), then "Free scan at seasoncard.app", then a plain-text search line ("soft autumn color palette · am I a soft autumn"),
+  then "Want a personal colour review? Comment REVIEW 🎨" (sales mode, 4 Oct), then "Free scan at seasoncard.app (link in bio)", then a plain-text search line ("soft autumn color palette · am I a soft autumn"),
   then 4–5 hashtags (1 broad #coloranalysis, 1 #colorseason, 2–3 specific).
 - `autoAddMusic: true`, `commercialContentOwnBrand: true`, title = the hook.
 - Never claim accuracy, popularity numbers or trends we can't source. "you might be" not "you are".
@@ -38,7 +38,7 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 - Ranking: completion/rewatches, then shares, saves and comments count more than likes. Design slide 1 to make people swipe and the last slide to make them comment.
 - TikTok search reads the first ~50 characters of the caption and the on-screen text: start captions with the exact search phrase ("Sage green…", "Soft Autumn color palette").
 - Carousel vs video: the studies disagree, so keep both. Carousels for "save this palette"; Saman's hand-swatch videos for reach.
-- Sales: no clickable link until 1,000 followers OR a registered Business account. Comment-to-DM automation (ManyChat) isn't available for most regions; the "DM me a keyword" trigger works. TikTok Shop doesn't allow digital products.
+- Sales: the account is a TikTok Business account with a website link in the bio (Saman, 4 Oct), so every caption says "link in bio". Comment-to-DM automation (ManyChat) isn't available for most regions; the "DM me a keyword" trigger works. TikTok Shop doesn't allow digital products.
 - Promote: about $3/day minimum. Only boost a post that is already winning organically, $20–50 total as a test.
 
 ## Video track (sales mode)

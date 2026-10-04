@@ -66,7 +66,7 @@ function slide(p, s, i, n) {
   return `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body><div class="s">
 ${s.kicker ? `<div class="k">${esc(s.kicker)}</div>` : ""}${title}${s.body ? `<p class="p">${rich(s.body)}</p>` : ""}
 <div class="vis">${s.v ? V[s.v.t](s.v) : ""}</div>
-<div class="foot"><div class="brand"><span class="dots"><i style="background:#B5705A"></i><i style="background:#8A8F5E"></i><i style="background:#5F7F82"></i></span>Season Card</div><span>${s.cta ? "Free scan: seasoncard.app · Personal review: comment REVIEW" : `${i + 1} / ${n}`}</span></div>
+<div class="foot"><div class="brand"><span class="dots"><i style="background:#B5705A"></i><i style="background:#8A8F5E"></i><i style="background:#5F7F82"></i></span>Season Card</div><span>${s.cta ? "Free scan: link in bio · Personal review: comment REVIEW" : `${i + 1} / ${n}`}</span></div>
 </div></body></html>`;
 }
 
