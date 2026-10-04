@@ -56,12 +56,13 @@ Owner: Saman (Nazarban Analytics FZCO). Honesty rules in rules.md apply: no inve
 Videos and pinned comments can say "DM me SEASON for a personal review". A DM is a warmer lead than a comment, and once ManyChat is connected (see LOG.md, 4 Oct) the keyword can trigger the first reply automatically: the offer, the 5 questions and the price. Until then, reply by hand with script 1.
 
 ## Saman's daily routine (about 20 minutes)
-1. Open TikTok notifications. Reply to every comment within the hour (the routine notifies you when a post has comments).
-2. For each REVIEW comment: public reply "Sent you a DM 🎨", then DM script 1.
-3. For anyone who sent a screenshot + 5 answers: send script 2 (PayPal.me link).
-4. When PayPal shows a payment: script 3, then write the review (template below) and record the 60-second voice note. Deliver within 24h with script 4.
-5. Add the client to the tracker below. Stop taking new clients for the week at 10.
-6. Film this week's videos from marketing/videos.md when you have daylight.
+1. Pin this comment on each new post (comment icon → send → long-press → Pin): "🎨 Free colour scan: link in bio (seasoncard.app). Want a personal review? DM me SEASON"
+2. Open TikTok notifications. Reply to every comment within the hour (the routine notifies you when a post has comments).
+3. For each REVIEW comment: public reply "Sent you a DM 🎨", then DM script 1.
+4. For anyone who sent a screenshot + 5 answers: send script 2 (PayPal.me link).
+5. When PayPal shows a payment: script 3, then write the review (template below) and record the 60-second voice note. Deliver within 24h with script 4.
+6. Add the client to the tracker below. Stop taking new clients for the week at 10.
+7. Film this week's videos from marketing/videos.md when you have daylight.
 
 ## Review template (fill in per client)
 1. **Season:** [season] (runner-up: [season]). Why, in 2 sentences, from their answers and screenshot.
