@@ -164,6 +164,43 @@ export const GUIDES: Guide[] = [
     ],
     related: ["light-summer", "true-autumn", "bright-spring"],
   },
+  {
+    slug: "who-can-wear-sage-green",
+    title: "Who can wear sage green? The season-by-season answer",
+    description: "Sage green flatters some colouring and washes out others. Which seasons suit it, which should pick a different green, and how to test it on your face.",
+    answer:
+      "Sage green, a soft grey-green, tends to suit the muted seasons best: Soft Summer and Soft Autumn. High-contrast, clear colouring (Bright Winter, True Winter, Bright Spring) often finds it dull or grey, and a clearer green such as emerald or leaf green usually works better. Every season has a green that suits it; sage is just the Soft one.",
+    sections: [
+      {
+        h: "Why sage green looks grey on some people",
+        p: [
+          "Sage is a low-chroma colour: green with a lot of grey mixed in. Against softly coloured skin, hair and eyes it blends in and looks calm. Against high-contrast or very clear colouring it can look flat, and some people look tired next to it.",
+        ],
+      },
+      {
+        h: "Which seasons it tends to suit",
+        p: ["These are tendencies, not rules. Your own skin in daylight is the final test."],
+        list: [
+          "Soft Summer: the cooler, greyer sage, with a blue-grey cast.",
+          "Soft Autumn: the warmer, slightly olive sage.",
+          "Light Summer and Light Spring: a lighter, fresher sage or mint instead.",
+          "Deep Autumn: a darker moss or olive instead of pale sage.",
+          "Winter seasons: an emerald, pine or teal instead.",
+        ],
+      },
+      {
+        h: "A quick test at home",
+        p: [
+          "Hold a sage green fabric under your chin by a window, no filter and no makeup. If your skin looks even and your eyes look brighter, it likely works. If shadows under your eyes look darker or your face looks greyer, try a clearer or deeper green.",
+        ],
+      },
+    ],
+    faq: [
+      { q: "Does sage green suit warm or cool undertones?", a: "Both can wear it, in different versions: a warmer olive-leaning sage for warm undertones and a cooler blue-grey sage for cool ones." },
+      { q: "What green should I wear instead if sage looks grey on me?", a: "Clear colouring usually does better in a more saturated green such as emerald or leaf green. Deeper colouring does better in moss, pine or olive." },
+    ],
+    related: ["soft-summer", "soft-autumn", "light-summer"],
+  },
 ];
 
 export function findGuide(slug: string): Guide | undefined {

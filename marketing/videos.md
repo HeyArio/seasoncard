@@ -198,6 +198,87 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > is sage green my color · sage vs olive color analysis
 > #sagegreen #coloranalysis #colorseason #softautumn #seasonclub
 
+## Batch 3 (5 Oct 2026)
+
+### Video 7: Drape test, whites (format: drape test)
+**Hook (on screen, 0-3s):** "Which white is yours?"
+
+**Shot list**
+1. 0-3s: Hand holds a bright white paper next to a window.
+2. 3-9s: Swap to cream, then soft grey-white paper, one every 2 seconds.
+3. 9-15s: Hand points at the one that looks most natural against the background wall.
+4. 15-20s: Hand holds all three fanned out: "pure white is the hardest one".
+5. 20-24s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Which white is yours?"
+- 3-9s: "Bright white · cream · soft white"
+- 9-15s: "Test in daylight, no filter"
+- 15-20s: "Soft colouring often prefers cream"
+- 20-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Pure white is the hardest colour to wear. Which of the three looks best to you, 1, 2 or 3? ⚪ 
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> is pure white bad for me · best white for color season
+> #coloranalysis #colorseason #whitecolors #seasonclub #stylehacks
+
+### Video 8: "Stop buying these colours if you might be a Deep Winter" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Deep Winter"
+
+**Shot list**
+1. 0-3s: Hand drops a pale dusty-peach swatch into a bin (paper only).
+2. 3-8s: Hand drops a muted khaki swatch.
+3. 8-13s: Hand lifts a deep emerald, then a true red swatch: "buy these instead".
+4. 13-19s: Hand holds black and white together: "high contrast is your friend".
+5. 19-24s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Might be a Deep Winter? Skip these"
+- 3-8s: "Dusty peach · muted khaki"
+- 8-13s: "Try deep emerald and true red"
+- 13-19s: "Deep, cool, high contrast"
+- 19-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these if you might be a Deep Winter 🖤 Which colour in your closet never works for you? 
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> deep winter colors to avoid · am I a deep winter
+> #coloranalysis #deepwinter #colorseason #seasonclub #wintercolors
+
+### Video 9: Founder story (format: founder story, short cut)
+**Hook (on screen, 0-3s):** "I'm a painter. I built a free colour app."
+
+**Shot list**
+1. 0-4s: Hand mixing paint on a palette by the window (no face).
+2. 4-10s: Hand points at four paint swatches: temperature, value, contrast, saturation.
+3. 10-16s: Screen recording of the scan (label "illustration").
+4. 16-22s: Hand holds a swatch next to the screen.
+
+**On-screen text per second**
+- 0-4s: "I'm a painter."
+- 4-10s: "Warm or cool · light or deep · soft or clear"
+- 10-16s: "So I built a free app that measures colour"
+- 16-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Which of the four do you think is your strongest trait? 
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app
+>
+> free color analysis app · color season quiz
+> #coloranalysis #colorseason #painter #seasonclub #smallbusiness
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)

@@ -65,3 +65,10 @@
 - **Later 4 Oct:** Saman confirmed @seasoncard.app is a Business account with a bio link (Metricool can't show the bio and the sandbox blocks tiktok.com, so it wasn't checked directly). All 31 queued TikTok captions now say "seasoncard.app (link in bio)", and today's 3 posts also got the REVIEW line. New slides' CTA footer reads "Free scan: link in bio". Account data from Metricool: 36 followers (+4 since 2 Oct), 17 profile views, sage green post best at 1,404 views. Average watch time is 7–15s on the carousels.
 - **4 Oct:** Saman pinned the CTA comment (free scan link in bio + DM SEASON) and replied to the 2 comments on the sage green post. Pinning is now step 1 of his daily routine in offer.md.
 - **4 Oct 20:00 ET (Saman: "get a lead"):** today's posts not synced to Metricool yet, so no new comments visible. Made post 39, a lead post ("Comment your hair, eyes and skin, I'll guess your season"), scheduled 22:30 ET tonight. Every comment is a lead Saman replies to; reply table and template in offer.md. If it pulls comments, make it a weekly format.
+
+## 2026-10-05 (Monday run)
+- **Metrics (Metricool, TikTok):** unchanged from the 4 Oct evening entry: sage green 1,404 views / 17 likes / 2 comments (already replied to), Soft vs True Autumn 825 / 9, undertone-in-photos 715 / 4, black 413 / 3, painter 366 / 1, newer sage post 259 / 2. About 3,980 views in total; no new comments, no post near 2,000. Today's posts had not gone out yet at run time (06:20 UTC).
+- **Queue:** 4 posts a day at 12:00, 16:00, 19:00, 21:00 ET through 10 Oct, plus 21:00 only on 11–13 Oct; all carry the REVIEW line. No new posts needed.
+- **SEO (Monday):** added guide /guides/who-can-wear-sage-green (answers the best-performing post's question). tsc and vitest pass (50 tests). On main, not released: needs a release.
+- **Sales mode:** videos 7–9 added to videos.md (drape test whites, stop buying if Deep Winter, founder short cut). No palette cards needed.
+- **Site check:** not checked, egress proxy blocks seasoncard.app.
