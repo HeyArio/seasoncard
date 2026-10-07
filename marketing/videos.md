@@ -281,5 +281,84 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 
 ---
 
+## Batch 4 (7 Oct 2026)
+
+### Video 10: Drape test, rust vs tomato (format: drape test; follows the rust carousel, post 40)
+**Hook (on screen, 0-3s):** "Rust or tomato? One of these is your orange."
+
+**Shot list**
+1. 0-3s: Hand holds a rust fabric swatch and a tomato-red swatch side by side by the window (no face).
+2. 3-9s: Hand lays the rust swatch on a white sheet of paper, then the tomato swatch. Slow, steady.
+3. 9-15s: Hand holds each swatch next to a small hand mirror edge (no face in frame) to show the light.
+4. 15-20s: Screen recording of the free scan result card (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Rust or tomato?"
+- 3-9s: "Rust = warm + earthy · Tomato = warm + bright"
+- 9-15s: "Hold yours under your chin by a window"
+- 15-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Rust or tomato: which orange-red looks better on you? 🧡 Comment rust or tomato.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> rust vs tomato color · which red suits me
+> #rustcolor #coloranalysis #colorseason #fallfashion #seasonclub
+
+### Video 11: "Stop buying these colours if you might be a Soft Summer" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Soft Summer."
+
+**Shot list**
+1. 0-3s: Hand drops three loud swatches (optic white, bright orange, black) into a bin-style shoebox.
+2. 3-8s: Hand holds each one up, label on screen.
+3. 8-14s: Hand lays out three replacements: dusty rose, sage, blue grey.
+4. 14-20s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Soft Summer? Stop buying:"
+- 3-8s: "Bright white · Bright orange · Pure black"
+- 8-14s: "Buy instead: dusty rose · sage · blue grey"
+- 14-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> If you might be a Soft Summer, these three look loud on you 🌫️ Which one is in your wardrobe right now? Comment white, orange or black.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft summer colors to avoid · am I a soft summer
+> #softsummer #coloranalysis #colorseason #summercolors #seasonclub
+
+### Video 12: Reply-to-comment (format: reply; the hair · eyes · skin post (post 39) has the most comments of any post, 8 as of 7 Oct)
+**Hook (on screen, 0-3s):** the commenter's question, as a screen recording of the comment (no usernames).
+
+**Shot list**
+1. 0-4s: Screen recording of one real comment from post 39 (Saman picks one with the commenter's OK, or paraphrases it on screen).
+2. 4-12s: Hand lays three swatches: the colours for the hair, eye and skin they described.
+3. 12-18s: Hand holds the one swatch to try this week against a white sheet, by the window.
+4. 18-22s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-4s: the comment text
+- 4-12s: "Hair = depth · Eyes = clarity · Skin = undertone"
+- 12-18s: "You might be a ___. Try this colour this week."
+- 18-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> You asked, so here is how I read hair, eyes and skin 🎨 Comment yours and I'll reply with the season you might be.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> what season am I · guess my color season
+> #whatseasonami #coloranalysis #colorseason #seasonclub #guessmyseason
+
+---
+
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.

@@ -48,3 +48,14 @@
 Focus (Saman, 3 Oct): TikTok + SEO/AEO/GEO only. Instagram off. 3 TikTok slots/day (12:00, 16:00, 19:00 ET). Playbook: marketing/viral.md.
 Rules: Facebook captions use the clickable link https://seasoncard.app/?ref=fb (sales show per source in the admin summary). TikTok caption says "seasoncard.app" (no bio link until 1k followers). Media = JPG in social/post-XX, served from
 raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new posts with marketing/render (node render.mjs).
+
+2026-10-07: posts 40-48 scheduled on TikTok to fill 11-13 Oct (12:00, 16:00, 19:00 ET; 21:00 already filled for those days).
+| 40 | Rust looks amazing on some people | 2026-10-11 12:00 · TikTok | social/post-40 |
+| 41 | True Summer vs True Winter | 2026-10-11 16:00 · TikTok | social/post-41 |
+| 42 | Comment the colour you get compliments in (lead post) | 2026-10-11 19:00 · TikTok | social/post-42 |
+| 43 | Emerald green: who it's for | 2026-10-12 12:00 · TikTok | social/post-43 |
+| 44 | 5 signs you're a True Summer | 2026-10-12 16:00 · TikTok | social/post-44 |
+| 45 | Lavender: fresh or washed out | 2026-10-12 19:00 · TikTok | social/post-45 |
+| 46 | True Autumn vs True Spring | 2026-10-13 12:00 · TikTok | social/post-46 |
+| 47 | Denim wash: which is yours | 2026-10-13 16:00 · TikTok | social/post-47 |
+| 48 | 5 signs you're a Deep Autumn | 2026-10-13 19:00 · TikTok | social/post-48 |

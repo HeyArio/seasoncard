@@ -72,3 +72,12 @@
 - **SEO (Monday):** added guide /guides/who-can-wear-sage-green (answers the best-performing post's question). tsc and vitest pass (50 tests). On main, not released: needs a release.
 - **Sales mode:** videos 7–9 added to videos.md (drape test whites, stop buying if Deep Winter, founder short cut). No palette cards needed.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
+
+## 2026-10-07 (run)
+- **Metrics (Metricool, TikTok; columns are views, likes, comments, shares):** sage green trend 1,551 views / 21 likes / 8 comments (best by views and engagement); Soft vs True Autumn 872 / 10 / 3 / 39 shares; chocolate brown 855 / 7 / 2; Soft Autumn 5 signs 848 / 7 / 3; Bright Spring vs Bright Winter 791 / 5 / 3; mocha 780 / 5 / 3; True vs Deep Winter 766 / 4 / 1; quiz 761 / 3 / 2; undertone-in-photos 753 / 6 / 3; guess-palette quiz 772 / 4 / 2; hair-eyes-skin lead post 689 / 1 / 8 comments; pink 435 / 5 / 3; black 429 / 4 / 4; butter yellow 385 / 6 / 2; painter 377 / 5 / 5 / 15 shares; sage green repost 296 / 3 / 3; Deep Winter 5 signs 228 / 2 / 1. No post at 2,000 views. Correction: earlier entries read the comments column as 0; many posts have comments.
+- **Ranking:** trend colour (sage) first, season-vs-season steady, comment-bait lead post best for comments, 5 signs weakest on views.
+- **Queue:** 11-13 Oct had only the 21:00 slot, so wrote, rendered, checked (contact sheets; fixed 8 title/label mismatches and 2 over-claims before scheduling) and scheduled posts 40-48 for 12:00, 16:00, 19:00 on 11, 12, 13 Oct. All 4 slots are filled through 13 Oct (7 days).
+- **Sales mode:** videos 10-12 added to videos.md (rust vs tomato drape test, stop buying if Soft Summer, reply to post-39 comments). All new captions carry the REVIEW line. No palette cards needed.
+- **SEO:** not a Monday; no new page. Candidate for Monday 12 Oct: "who can wear emerald/rust" or a True Summer vs True Winter compare page. The sage green guide from 5 Oct is still waiting for a release.
+- **Site check:** not checked, egress proxy blocks seasoncard.app.
+- **Notify:** yes, comments on several posts (hair-eyes-skin post has 8).

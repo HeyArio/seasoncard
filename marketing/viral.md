@@ -11,6 +11,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 5. **Quiz** ("Guess the season from the palette", score /4): built for comments and replays.
 6. **Hot take** ("Stop wearing pure white", "Navy is the new black"): mild contrarian hook, built for saves.
 
+**Data, 7 Oct (Metricool columns are views, likes, comments, shares; earlier log entries wrongly read comments as 0):** sage green trend 1,551 views / 21 likes / 8 comments is still #1; guess-my-season lead post (post 39) 689 / 1 / 8 is the best for comments; season-vs-season 760-870 views / 3-7 likes / 1-3 comments is steady; "5 signs" 230-850; painter founder post 377 / 5 / 5 comments / 15 shares; Soft vs True Autumn has 39 shares (best shared). Next batch used: rust, emerald, lavender, denim (trend colours), 3 season-vs-season, compliments lead post.
+
 7. **Guess-my-season comment post** (post 39, 4 Oct): built for leads, since every comment gets a personal reply and the REVIEW offer. Test, then repeat weekly if it pulls comments.
 
 ## Rules for every post
@@ -30,9 +32,9 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
   40% new experiments. Retire a format after 3 posts below the median.
 
 ## Next ideas queue
-- 5 signs: Bright Winter, True Summer, Deep Autumn, Light Spring, Bright Spring, True Winter, True Autumn
-- Trend colours: cherry red, rust, emerald, lavender, chocolate vs black, denim wash (done 4 Oct: mocha, olive, cobalt, pistachio, plum, grey, camel coat)
-- Season vs: True Summer vs True Winter, True Autumn vs True Spring, Light Spring vs Bright Spring, Soft Summer vs True Summer
+- 5 signs: Bright Winter, Light Spring, Bright Spring, True Winter, True Autumn (True Summer and Deep Autumn queued 12-13 Oct)
+- Trend colours: cherry red, chocolate vs black, mustard, teal, coral, mint (done: mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
+- Season vs: Light Spring vs Bright Spring, Soft Summer vs True Summer, Soft Autumn vs Soft Summer (True Summer vs True Winter and True Autumn vs True Spring queued 11 and 13 Oct)
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals
 - Quiz: guess the season part 3 (all Autumns), "which palette is fake?"
 
