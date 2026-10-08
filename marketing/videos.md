@@ -360,5 +360,88 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 
 ---
 
+## Batch 5 (8 Oct 2026)
+
+### Video 13: Drape test (format: drape test; mustard vs lemon yellow, by a window)
+**Hook (on screen, 0-3s):** "Mustard or lemon? One of them is stealing your glow."
+
+**Shot list**
+1. 0-3s: Hand holds a mustard swatch and a lemon-yellow swatch side by side against a white sheet, window light.
+2. 3-9s: Hand lays the mustard swatch under the chin line of a mirror-free "neck" shape (a plain white tee on a hanger), then the lemon one. No face in frame.
+3. 9-15s: Hand points to the edge where each colour meets the white: warm and golden vs cool and sharp.
+4. 15-20s: Hand holds up a card: "Warm and golden = lean Autumn or Spring. Cool and sharp = lean Summer or Winter."
+5. 20-24s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Mustard or lemon? One of them is stealing your glow."
+- 3-9s: "Test both by a window. Same light, same distance."
+- 9-15s: "Warm and golden, or cool and sharp?"
+- 15-20s: "You might lean warm or cool. Comment which one you reach for."
+- 20-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Mustard yellow vs lemon yellow: which one do you reach for? Comment mustard or lemon.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> mustard yellow outfit · who can wear mustard
+> #mustardyellow #coloranalysis #colorseason #drapetest #seasonclub
+
+### Video 14: "Stop buying these colours if you're a ___" (Bright Spring)
+**Hook (on screen, 0-3s):** "Stop buying these 3 colours if you might be a Bright Spring."
+
+**Shot list**
+1. 0-3s: Hand drops three dusty swatches (muted taupe, dusty rose, sage) onto a table by a window.
+2. 3-7s: Hand slides each swatch into a "no" pile, one per beat.
+3. 7-13s: Hand lays three clear swatches (coral, turquoise, bright warm green) on top: "Try these instead".
+4. 13-18s: Hand holds the clear swatches next to the dusty ones to show the difference in clarity.
+5. 18-22s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 if you might be a Bright Spring"
+- 3-7s: "Dusty taupe · dusty rose · sage"
+- 7-13s: "Try clear instead: coral · turquoise · bright green"
+- 13-18s: "Bright Spring looks best in clear, not muted, colour."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Bright Spring 🌺 Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bright spring color palette · am I a bright spring
+> #brightspring #coloranalysis #colorseason #springcolors #seasonclub
+
+### Video 15: Founder story (format: founder; painter angle, second cut)
+**Hook (on screen, 0-3s):** "I'm a painter. I got tired of guessing which colours suit people."
+
+**Shot list**
+1. 0-4s: Hand mixes two paint blobs on a palette (any two colours) by the window.
+2. 4-10s: Hand holds a swatch card with four words written on it: temperature, value, contrast, saturation.
+3. 10-16s: Screen recording of the scan on an illustration (label "illustration"), no real face.
+4. 16-21s: Hand lays the result palette cards in a fan.
+
+**On-screen text per second**
+- 0-4s: "I'm a painter. I got tired of guessing."
+- 4-10s: "Temperature · value · contrast · saturation"
+- 10-16s: "So I built a free scan that measures them in your browser."
+- 16-21s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Which of the four do you think is your strongest: temperature, value, contrast or saturation? Comment one.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> color analysis by a painter · how color analysis works
+> #coloranalysis #colorseason #painter #colortheory #seasonclub
+
+---
+
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.

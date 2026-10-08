@@ -13,6 +13,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 **Data, 7 Oct (Metricool columns are views, likes, comments, shares; earlier log entries wrongly read comments as 0):** sage green trend 1,551 views / 21 likes / 8 comments is still #1; guess-my-season lead post (post 39) 689 / 1 / 8 is the best for comments; season-vs-season 760-870 views / 3-7 likes / 1-3 comments is steady; "5 signs" 230-850; painter founder post 377 / 5 / 5 comments / 15 shares; Soft vs True Autumn has 39 shares (best shared). Next batch used: rust, emerald, lavender, denim (trend colours), 3 season-vs-season, compliments lead post.
 
+**Data, 8 Oct (17 posts, 11.6k views total; 7 Oct posts not yet synced):** nothing new above 1,551 (sage green). By engagement rate (likes+comments+shares / views) the leaders are the painter founder post (6.6%, 15 shares) and Soft vs True Autumn (6.0%, 39 shares): shares are what the audience gives, so keep season-vs-season and founder content (videos 13-15). 5 signs remain weakest on views (228-850).
+
 7. **Guess-my-season comment post** (post 39, 4 Oct): built for leads, since every comment gets a personal reply and the REVIEW offer. Test, then repeat weekly if it pulls comments.
 
 ## Rules for every post

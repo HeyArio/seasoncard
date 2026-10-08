@@ -81,3 +81,11 @@
 - **SEO:** not a Monday; no new page. Candidate for Monday 12 Oct: "who can wear emerald/rust" or a True Summer vs True Winter compare page. The sage green guide from 5 Oct is still waiting for a release.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
 - **Notify:** yes, comments on several posts (hair-eyes-skin post has 8).
+
+## 2026-10-08 (run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 17 posts, 11,588 views in total, identical to the 7 Oct read (posts from 7 Oct onward are not in analytics yet). Best by views: sage green trend 1,551 / 21 / 8 / 0. Best by engagement rate: painter founder post 6.6% (377 / 5 / 5 / 15) and Soft vs True Autumn 6.0% (872 / 10 / 3 / 39 shares). No post near 2,000 views. No new comments since yesterday's read.
+- **Queue:** TikTok runs to 13 Oct at all 4 slots (6 days incl. today), so no new posts written. Next batch due about 10 Oct: cherry red, mustard, teal trend colours, then 5 signs for Bright Winter / Light Spring.
+- **Sales mode:** videos 13-15 added to videos.md (mustard vs lemon drape test, stop buying if Bright Spring, painter founder cut 2). No palette cards needed. No sale visible (Gmail search for PayPal/Season Card mail: nothing).
+- **SEO:** not a Monday and no format has clearly won; no page this run. Sage green guide from 5 Oct still waiting for a release.
+- **Site check:** not checked, egress proxy blocks seasoncard.app.
+- **Notify:** none (no new comments, no 2k post, no sale, no failure).
