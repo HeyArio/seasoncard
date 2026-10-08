@@ -89,3 +89,12 @@
 - **SEO:** not a Monday and no format has clearly won; no page this run. Sage green guide from 5 Oct still waiting for a release.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
 - **Notify:** none (no new comments, no 2k post, no sale, no failure).
+
+## 2026-10-08 (second run, 13:30 ET)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 15 posts, 12,038 views in total. Sage green trend 1,583 / 20 / 9 (best by views); Soft vs True Autumn 881 / 10 / 3 / 39 shares (best shared); chocolate brown 856 / 7 / 2; Soft Autumn 5 signs 854 / 7 / 3; Bright Spring vs Winter 795 / 5 / 4; hair-eyes-skin lead post 691 / 1 / 9 (most comments). Butter yellow 409 / 7 / 3. No post near 2,000 views. Comments went up since the last read: sage green 8 to 9, lead post 8 to 9, mocha 3 to 4, Bright Spring vs Winter 4.
+- **Failure found:** the 8 Oct 12:00 ET post (Light Spring vs Light Summer, TikTok) failed with "You have reached your Metricool account limit." Rescheduled it once to 22:30 ET tonight; the other queued posts show Pending, but if the limit is real they may fail too.
+- **Queue:** 4 slots a day filled through 13 Oct (5 full days after today), so no new posts written.
+- **Sales mode:** videos 16-18 added to videos.md (cherry vs brick drape test, stop buying if True Winter, reply to post-39 comments). No palette cards needed.
+- **SEO:** not a Monday, no new page. Sage green guide from 5 Oct still waiting for a release.
+- **Site check:** not checked, egress proxy blocks seasoncard.app.
+- **Notify:** yes, Metricool account limit error and new comments.

@@ -59,3 +59,5 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 46 | True Autumn vs True Spring | 2026-10-13 12:00 · TikTok | social/post-46 |
 | 47 | Denim wash: which is yours | 2026-10-13 16:00 · TikTok | social/post-47 |
 | 48 | 5 signs you're a Deep Autumn | 2026-10-13 19:00 · TikTok | social/post-48 |
+
+2026-10-08: post 8 Oct 12:00 (Light Spring vs Light Summer) failed in Metricool ("account limit"); rescheduled to 2026-10-08 22:30 ET.

@@ -443,5 +443,88 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 
 ---
 
+## Batch 6 (8 Oct 2026, second run)
+
+### Video 16: Drape test (cherry red vs brick red)
+**Hook (on screen, 0-3s):** "Cherry red or brick red? One of them is wrong for you."
+
+**Shot list**
+1. 0-3s: Hand holds a cherry-red fabric swatch (blue-based) up to the camera by a window.
+2. 3-8s: Hand swaps to a brick-red swatch. Same window, same distance, same framing.
+3. 8-14s: Hand lays both side by side on a white sheet of paper so the temperature difference is visible.
+4. 14-19s: Hand points at the cool one ("blue underneath") then the warm one ("orange underneath").
+5. 19-23s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Cherry red or brick red?"
+- 3-8s: "Same light. Same distance."
+- 8-14s: "Cherry = blue underneath. Brick = orange underneath."
+- 14-19s: "Cool colouring tends to love cherry. Warm tends to love brick."
+- 19-23s: "Season Club: comment cherry or brick. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Cherry red or brick red? One of them is usually yours 🍒🧱 Comment cherry or brick.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> cherry red outfit · which red suits me
+> #cherryred #coloranalysis #colorseason #drapetest #seasonclub
+
+### Video 17: "Stop buying these colours if you're a ___" (True Winter)
+**Hook (on screen, 0-3s):** "Stop buying these 3 colours if you might be a True Winter."
+
+**Shot list**
+1. 0-3s: Hand drops three muddy swatches (camel, olive, warm beige) onto a table by a window.
+2. 3-7s: Hand slides each into a "no" pile, one per beat.
+3. 7-13s: Hand lays three crisp cool swatches (icy grey, true red, royal blue) on top: "Try these instead".
+4. 13-18s: Hand holds a cool swatch next to a warm one to show the difference.
+5. 18-22s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 if you might be a True Winter"
+- 3-7s: "Camel · olive · warm beige"
+- 7-13s: "Try cool and crisp: icy grey · true red · royal blue"
+- 13-18s: "True Winter tends to look best in cool, clear colour."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a True Winter ❄️ Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true winter color palette · am I a true winter
+> #truewinter #coloranalysis #colorseason #wintercolors #seasonclub
+
+### Video 18: Reply-to-comment (post 39 "hair · eyes · skin", 9 comments)
+**Hook (on screen, 0-3s):** the commenter's text (no username), e.g. "dark hair, brown eyes, golden skin. What season?"
+
+**Shot list**
+1. 0-3s: Screen recording of the comment on TikTok (username hidden).
+2. 3-9s: Hand lays three swatches that fit the description (warm deep brown, rust, olive) and says "Warm and deep: look at Deep Autumn or True Autumn first."
+3. 9-15s: Hand holds one swatch to show the runner-up and why.
+4. 15-20s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: the comment
+- 3-9s: "You might be a Deep Autumn or True Autumn."
+- 9-15s: "Runner-up to check: Deep Winter. The test is warm vs cool."
+- 15-20s: "Season Club: comment yours. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a Season Club comment 💬 Dark hair, brown eyes, golden skin: warm and deep. Comment yours and I'll reply the same way.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> what season am I · deep autumn or true autumn
+> #whatseasonami #coloranalysis #colorseason #deepautumn #seasonclub
+
+---
+
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.
