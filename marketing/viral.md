@@ -19,7 +19,7 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
-- 7 slides: hook → why → 4 value slides → CTA mock. CTA footer (render.mjs) reads "Free scan: link in bio · Personal review: comment REVIEW". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
+- 7 slides: hook → why → 4 value slides → CTA mock. Slide 7 is a price ladder (free scan, $9.99 report, $29 Personal Review, button "Comment REVIEW"), rendered by render.mjs; footer "Season Club: comment your season". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
 - Caption: line 1 restates the hook, then one question that is easy to answer in a word or letter ("Comment your letter"),
   then "Want a personal colour review? Comment REVIEW 🎨" (sales mode, 4 Oct), then "Free scan at seasoncard.app (link in bio)", then a plain-text search line ("soft autumn color palette · am I a soft autumn"),
   then 4–5 hashtags (1 broad #coloranalysis, 1 #colorseason, 2–3 specific).

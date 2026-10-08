@@ -89,3 +89,7 @@
 - **SEO:** not a Monday and no format has clearly won; no page this run. Sage green guide from 5 Oct still waiting for a release.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
 - **Notify:** none (no new comments, no 2k post, no sale, no failure).
+
+## 2026-10-08 (Saman: "more interesting slides, better CTA to buy")
+- **New slide design (render.mjs):** slide 1 gets a "Swipe →" pill; the CTA slide is now a price ladder: Step 1 free scan ($0, link in bio), Step 2 full report ($9.99, 36 colours), Personal Season Review ($29 launch price, voice note, shop-this-week list, back in 24h, refund if it doesn't help pick a better piece) and a button "Comment REVIEW 🎨 and I'll DM you". Footer reads "Season Club: comment your season". Only true facts from offer.md (no scarcity claims).
+- **Applied to the 20 queued posts from 9 Oct to 13 Oct** (26, 24, 13, 38, 22, 27, 28, 37, 40-48 except none missing, 32, 36, 33): slides 1 and 7 replaced via updateScheduledPost, times, captions and other slides unchanged. Today's posts (8 Oct) left alone. All new posts use the new design automatically.
