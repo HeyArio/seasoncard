@@ -59,3 +59,13 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 46 | True Autumn vs True Spring | 2026-10-13 12:00 · TikTok | social/post-46 |
 | 47 | Denim wash: which is yours | 2026-10-13 16:00 · TikTok | social/post-47 |
 | 48 | 5 signs you're a Deep Autumn | 2026-10-13 19:00 · TikTok | social/post-48 |
+
+2026-10-09: posts 49-56 scheduled on TikTok to fill 14-15 Oct (all 4 slots).
+| 49 | Cherry red: which red is yours | 2026-10-14 12:00 · TikTok | social/post-49 |
+| 50 | Light Spring vs Bright Spring | 2026-10-14 16:00 · TikTok | social/post-50 |
+| 51 | Mustard: who it's for | 2026-10-14 19:00 · TikTok | social/post-51 |
+| 52 | 5 signs you're a Bright Winter | 2026-10-14 21:00 · TikTok | social/post-52 |
+| 53 | Teal: which teal is yours | 2026-10-15 12:00 · TikTok | social/post-53 |
+| 54 | Soft Summer vs True Summer | 2026-10-15 16:00 · TikTok | social/post-54 |
+| 55 | Coral: which coral is yours | 2026-10-15 19:00 · TikTok | social/post-55 |
+| 56 | 5 signs you're a Light Spring | 2026-10-15 21:00 · TikTok | social/post-56 |

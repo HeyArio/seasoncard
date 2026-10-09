@@ -17,6 +17,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 7. **Guess-my-season comment post** (post 39, 4 Oct): built for leads, since every comment gets a personal reply and the REVIEW offer. Test, then repeat weekly if it pulls comments.
 
+**Data, 9 Oct (Metricool still stops at 6 Oct posts):** sage green 1,583 / 20 / 9 stays #1; hair-eyes-skin lead post 9 comments (joint best with sage); no post near 2,000. Posts 49-56 (cherry red, mustard, teal, coral = trend colour; Light vs Bright Spring, Soft vs True Summer; 5 signs Bright Winter, Light Spring) queued for 14-15 Oct.
+
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
 - 7 slides: hook → why → 4 value slides → CTA mock. Slide 7 is a price ladder (free scan, $9.99 report, $29 Personal Review, button "Comment REVIEW"), rendered by render.mjs; footer "Season Club: comment your season". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
@@ -35,7 +37,7 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 ## Next ideas queue
 - 5 signs: Bright Winter, Light Spring, Bright Spring, True Winter, True Autumn (True Summer and Deep Autumn queued 12-13 Oct)
-- Trend colours: cherry red, chocolate vs black, mustard, teal, coral, mint (done: mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
+- Trend colours: chocolate vs black, mint, burgundy, mauve, khaki (done: cherry red, mustard, teal, coral, mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
 - Season vs: Light Spring vs Bright Spring, Soft Summer vs True Summer, Soft Autumn vs Soft Summer (True Summer vs True Winter and True Autumn vs True Spring queued 11 and 13 Oct)
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals
 - Quiz: guess the season part 3 (all Autumns), "which palette is fake?"
