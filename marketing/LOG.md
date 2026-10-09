@@ -100,3 +100,4 @@
 - **Sales mode:** videos 16-18 added to videos.md (cherry vs tomato drape test, stop buying if Soft Autumn, reply to comment). All new captions carry the REVIEW line. No palette cards needed.
 - **SEO:** not a Monday and no format clearly newly winning; no page this run. Sage green guide from 5 Oct still waiting for a release.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
+- **9 Oct, 17:00 ET correction:** today's 12:00 (guess the season part 2) and 16:00 (navy) TikTok posts FAILED in Metricool with "You have reached your Metricool account limit." (status ERROR). 19:00 and 21:00 still showed Pending and are at risk of the same error. My morning check only saw "Pending", so I missed it. Fix needs Saman: upgrade the Metricool plan or free quota; all queued posts (to 15 Oct) are at risk until then.
