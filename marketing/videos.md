@@ -441,6 +441,85 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > color analysis by a painter · how color analysis works
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
 
+### Video 16: Drape test (format: drape test; cherry red vs tomato)
+**Hook (on screen, 0-3s):** "Cherry red or tomato red? Hold it under your chin."
+
+**Shot list**
+1. 0-3s: Hand holds a cool cherry-red fabric swatch and a warm tomato-red swatch side by side by a window.
+2. 3-8s: Hand lifts the cherry swatch toward the camera, then lowers it.
+3. 8-13s: Same with the tomato swatch.
+4. 13-18s: Hand shows the two swatches again, fingers pointing to the blue-based vs orange-based edge.
+5. 18-22s: Screen recording of the scan on an illustration (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Cherry red or tomato? Which one is yours?"
+- 3-8s: "Cherry: cool, blue-based"
+- 8-13s: "Tomato: warm, orange-based"
+- 13-18s: "Your skin looks more even in one of them."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Cherry red or tomato red? Hold both under your chin and one wins 🍒 Comment cherry or tomato.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> cherry red vs tomato red · which red suits me
+> #cherryred #coloranalysis #colorseason #drapetest #seasonclub
+
+### Video 17: "Stop buying these colours if you're a ___" (Soft Autumn)
+**Hook (on screen, 0-3s):** "Stop buying these 3 colours if you might be a Soft Autumn."
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (stark white, icy pink, jet black) on a table by a window.
+2. 3-7s: Hand slides each into a "no" pile, one per beat.
+3. 7-13s: Hand lays three muted warm swatches (oatmeal, warm sage, clay) on top: "Try these instead".
+4. 13-18s: Hand holds clay next to jet black to show the harshness difference.
+5. 18-22s: Screen recording of the scan (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 if you might be a Soft Autumn"
+- 3-7s: "Stark white · icy pink · jet black"
+- 7-13s: "Try soft and warm: oatmeal · warm sage · clay"
+- 13-18s: "Soft Autumn looks best in muted, warm colour."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Soft Autumn 🍂 Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft autumn color palette · am I a soft autumn
+> #softautumn #coloranalysis #colorseason #autumnpalette #seasonclub
+
+### Video 18: Reply to comment (format: reply; use the "Mocha" or "hair · eyes · skin" comments)
+**Hook (on screen, 0-3s):** the commenter's question as a screenshot (no username unless they agree), e.g. "Which mocha is mine?"
+
+**Shot list**
+1. 0-3s: Screen recording of the comment on TikTok.
+2. 3-9s: Hand lays four brown swatches (golden chocolate, rosy cocoa, grey taupe, espresso) by the window.
+3. 9-16s: Hand holds the two the commenter's hair/eye answers point toward next to a sheet of white paper.
+4. 16-21s: Hand points to the free scan on a phone screen (label "illustration").
+
+**On-screen text per second**
+- 0-3s: The comment.
+- 3-9s: "Four browns, four seasons"
+- 9-16s: "From your answer, you might be a ___. Try this one first."
+- 16-21s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a comment 🎨 Four browns, and the one that suits you depends on your colouring. Comment your hair and eye colour and I'll guess.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> which brown suits me · color analysis
+> #coloranalysis #colorseason #mochamousse #seasonclub #guessmyseason
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)
