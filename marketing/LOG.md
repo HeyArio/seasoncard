@@ -101,3 +101,11 @@
 - **SEO:** not a Monday and no format clearly newly winning; no page this run. Sage green guide from 5 Oct still waiting for a release.
 - **Site check:** not checked, egress proxy blocks seasoncard.app.
 - **9 Oct, 17:00 ET correction:** today's 12:00 (guess the season part 2) and 16:00 (navy) TikTok posts FAILED in Metricool with "You have reached your Metricool account limit." (status ERROR). 19:00 and 21:00 still showed Pending and are at risk of the same error. My morning check only saw "Pending", so I missed it. Fix needs Saman: upgrade the Metricool plan or free quota; all queued posts (to 15 Oct) are at risk until then.
+
+## 2026-10-10 (run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** analytics still stop at 6 Oct posts (7 Oct onward not synced), 17 posts, about 11.6k views in total. Best by views: sage green trend 1,632 / 20 / 9 (no post at 2,000). Best by engagement: painter founder 1.3% likes but 15 shares, Soft vs True Autumn 888 / 10 / 3 / 39 shares. Comments: sage green 9, hair-eyes-skin lead post 9, no new comments on any other post since 9 Oct.
+- **Problem:** getScheduledPosts shows all 9 TikTok posts from 8 Oct 16:00 to 9 Oct 21:00 (plus 8 Oct 22:30) with status ERROR "You have reached your Metricool account limit." The 10 Oct to 15 Oct posts (20) are Pending and at risk of the same error. Nothing seems to have published since the limit was hit. Needs Saman: upgrade the Metricool plan or free quota.
+- **Queue:** 4 slots filled through 15 Oct, so no new posts written (more would only pile up behind the account limit).
+- **Sales mode:** videos 19-21 added to videos.md (burgundy vs brick drape test, stop buying if Deep Autumn, painter founder story). No palette cards needed. No sale visible.
+- **SEO:** not a Monday, no new format winning, no page this run. Sage green guide from 5 Oct still waiting for a release.
+- **Site check:** not checked, sandbox cannot resolve seasoncard.app.

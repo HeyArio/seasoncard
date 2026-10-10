@@ -520,6 +520,82 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > which brown suits me · color analysis
 > #coloranalysis #colorseason #mochamousse #seasonclub #guessmyseason
 
+### Video 19: Drape test, burgundy vs brick (format: drape test)
+**Hook (on screen, 0-3s):** "Burgundy or brick? Watch what happens"
+
+**Shot list**
+1. 0-3s: Window light, white paper flat on a table.
+2. 3-9s: Hand lays a burgundy fabric swatch on the paper, then a brick-red swatch beside it.
+3. 9-16s: Hand holds each swatch up to the camera on a plain grey card, slowly, same light.
+4. 16-21s: Screen recording of the free scan result (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Burgundy or brick? Watch what happens"
+- 3-9s: "Cool, deep red vs warm, earthy red"
+- 9-16s: "One lifts some faces and dulls others. Which one is yours?"
+- 16-21s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Burgundy and brick are both "autumn reds", but they sit on opposite sides of warm and cool 🍷 Which would you pick? Comment burgundy or brick.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> burgundy vs brick red · which red suits me
+> #coloranalysis #colorseason #burgundy #autumnpalette #seasonclub
+
+### Video 20: Stop buying these if you might be a Deep Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these 3 if you might be a Deep Autumn"
+
+**Shot list**
+1. 0-3s: Hand holds three swatches fanned out by the window.
+2. 3-7s: Hand drops the three "stop" swatches one by one (icy grey, pastel pink, silver-blue).
+3. 7-13s: Hand lays three "try" swatches (dark olive, rust, chocolate) on white paper.
+4. 13-22s: Hand points to the free scan on a phone (label "illustration").
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 if you might be a Deep Autumn"
+- 3-7s: "Icy grey · pastel pink · silver-blue"
+- 7-13s: "Try deep and warm: dark olive · rust · chocolate"
+- 13-18s: "Deep Autumn looks best in rich, warm colour."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Deep Autumn 🍂 Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> deep autumn color palette · am I a deep autumn
+> #deepautumn #coloranalysis #colorseason #autumnpalette #seasonclub
+
+### Video 21: Founder story, why a painter built this (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter, so I built a free app that measures colour"
+
+**Shot list**
+1. 0-3s: Hand mixing two paint colours on a palette by the window.
+2. 3-10s: Close-up of a brush blending warm and cool on paper.
+3. 10-17s: Screen recording of the free scan (label "illustration").
+4. 17-22s: Hand holds a swatch against white paper.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter, so I built a free app that measures colour"
+- 3-10s: "Painters judge colour by 4 things: temperature, value, contrast, saturation"
+- 10-17s: "Season Card measures those from a selfie, in your browser"
+- 17-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Which of the four do you think is your strongest trait? Comment temperature, value, contrast or saturation.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> painter color analysis · free color season test
+> #coloranalysis #colorseason #colortheory #seasonclub #seasonalcoloranalysis
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)
