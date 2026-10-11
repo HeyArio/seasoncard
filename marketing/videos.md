@@ -596,6 +596,82 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > painter color analysis · free color season test
 > #coloranalysis #colorseason #colortheory #seasonclub #seasonalcoloranalysis
 
+### Video 22: Drape test, emerald vs kelly green (format: drape test)
+**Hook (on screen, 0-3s):** "Same green family. Two very different faces."
+
+**Shot list**
+1. 0-3s: Hand holds a white paper next to the window, then lays two green fabric swatches on it.
+2. 3-9s: Hand slides the emerald swatch under the "face" (a mirror edge, no face visible), then the kelly green.
+3. 9-16s: Close-up of each swatch against the same white paper, showing the cool blue-green vs the warm yellow-green.
+4. 16-22s: Hand points to a text card.
+
+**On-screen text per second**
+- 0-3s: "Same green family. Two very different faces."
+- 3-9s: "Emerald leans cool and deep. Kelly leans warm and bright."
+- 9-16s: "Cool seasons often glow in emerald. Warm seasons often glow in kelly."
+- 16-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Emerald or kelly green: which one is yours? 💚 Comment emerald or kelly.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> emerald green color season · which green suits me
+> #emeraldgreen #coloranalysis #colorseason #drapetest #seasonclub
+
+### Video 23: Stop buying these colours if you're a Soft Summer (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these 3 if you might be a Soft Summer"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches on a table by the window: neon coral, pure black, bright orange.
+2. 3-7s: Hand pushes each swatch away one by one.
+3. 7-14s: Hand pulls in three replacements: dusty rose, slate blue, soft plum.
+4. 14-22s: Hand holds a muted swatch next to a vivid one to show the difference.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 if you might be a Soft Summer"
+- 3-7s: "Neon coral · pure black · bright orange"
+- 7-14s: "Try cool and muted: dusty rose · slate blue · soft plum"
+- 14-18s: "Soft Summer looks best in cool, gentle colour."
+- 18-22s: "Season Club: comment your season. Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Soft Summer 🌫️ Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft summer color palette · am I a soft summer
+> #softsummer #coloranalysis #colorseason #summercolors #seasonclub
+
+### Video 24: Reply to a comment, "Is my season really that different from my friend's?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** Screen recording of a real comment on a Season Card post (use a real one, with the commenter's OK if the username shows).
+
+**Shot list**
+1. 0-3s: Screen recording of the comment.
+2. 3-10s: Hand lays two palettes (Soft Autumn and True Autumn swatches) side by side by the window.
+3. 10-18s: Hand moves one swatch from each palette onto white paper to show chroma (muted vs rich).
+4. 18-22s: Text card.
+
+**On-screen text per second**
+- 0-3s: the commenter's question, verbatim
+- 3-10s: "Close seasons share colours. The difference is how soft or rich they are."
+- 10-18s: "Muted = Soft. Rich = True."
+- 18-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a comment 💬 Close seasons share colours, the difference is how soft or rich. Which side are you on? Comment soft or rich.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft autumn vs true autumn · which season am I
+> #coloranalysis #colorseason #softautumn #trueautumn #seasonclub
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)
