@@ -201,6 +201,44 @@ export const GUIDES: Guide[] = [
     ],
     related: ["soft-summer", "soft-autumn", "light-summer"],
   },
+  {
+    slug: "who-can-wear-emerald-green",
+    title: "Who can wear emerald green? The season-by-season answer",
+    description: "Emerald green is a jewel tone that flatters some colouring and overwhelms others. Which seasons suit it, which should pick a softer green, and how to test it on your face.",
+    answer:
+      "Emerald green, a deep, clear, slightly cool green, tends to suit the Winter seasons best: Deep Winter, True Winter and Bright Winter. Bright Spring can wear a warmer, clearer version. Soft and muted colouring (Soft Summer, Soft Autumn) often finds it too strong, and a dusty sage or olive usually works better.",
+    sections: [
+      {
+        h: "Why emerald overwhelms some people",
+        p: [
+          "Emerald is a high-chroma, fairly deep colour. Next to clear, high-contrast colouring it looks balanced. Next to soft, low-contrast colouring it can take over the face, so you notice the colour before the person.",
+        ],
+      },
+      {
+        h: "Which seasons it tends to suit",
+        p: ["These are tendencies, not rules. Your own skin in daylight is the final test."],
+        list: [
+          "Deep Winter: deep emerald and pine, at full strength.",
+          "True Winter: a pure, cool emerald.",
+          "Bright Winter: the brightest, most vivid emerald.",
+          "Bright Spring: a clearer, slightly warmer emerald or leaf green.",
+          "Soft Summer and Soft Autumn: a dusty sage, olive or muted teal instead.",
+          "Light seasons: a fresher mint or leaf green instead.",
+        ],
+      },
+      {
+        h: "A quick test at home",
+        p: [
+          "Hold an emerald fabric under your chin by a window, no filter and no makeup. If your skin looks clear and your eyes look brighter, it likely works. If the colour looks louder than you do, or your skin looks sallow, try a softer or deeper green.",
+        ],
+      },
+    ],
+    faq: [
+      { q: "Does emerald green suit warm or cool undertones?", a: "It leans cool, so cool and neutral-cool colouring usually wears it best. Warm, clear colouring can wear a slightly yellower emerald." },
+      { q: "What green should I wear instead if emerald is too strong?", a: "Soft colouring usually does better in sage, olive or a muted teal. Light colouring does better in mint or a fresh leaf green." },
+    ],
+    related: ["deep-winter", "true-winter", "bright-winter"],
+  },
 ];
 
 export function findGuide(slug: string): Guide | undefined {

@@ -674,5 +674,84 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 
 ---
 
+## Batch 7 (12 Oct 2026)
+
+### Video 25: Drape test, sage vs mint (format: drape test)
+**Hook (on screen, 0-3s):** "Sage or mint? One of these makes you look tired."
+
+**Shot list**
+1. 0-3s: Hand holds a sage green fabric swatch and a mint swatch side by side by a window.
+2. 3-9s: Hand slides the sage swatch up to the camera, then the mint swatch (no face, just the fabric against a white sheet).
+3. 9-16s: Hand places each swatch on a white sheet: sage reads grey and muted, mint reads fresh and light.
+4. 16-20s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Sage or mint? One of these makes you look tired."
+- 3-9s: "Same family. Different chroma."
+- 9-16s: "Sage = soft and grey. Mint = light and fresh."
+- 16-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Sage or mint? Hold both under your chin by a window and see which one wakes your face up 🌿 Comment sage or mint.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> sage green vs mint · which green suits me
+> #sagegreen #coloranalysis #colorseason #softsummer #seasonclub
+
+### Video 26: Stop buying these colours if you might be a Bright Winter (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a Bright Winter."
+
+**Shot list**
+1. 0-3s: Hand drops a dusty beige swatch and a muted olive swatch into a bin (paper swatches, no real clothes thrown away).
+2. 3-9s: Hand fans out dusty colours: camel, khaki, dusty rose.
+3. 9-16s: Hand fans out the swap: fuchsia, icy pink, true red, cobalt.
+4. 16-20s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Bright Winter"
+- 3-9s: "Dusty = camel, khaki, dusty rose"
+- 9-16s: "Try clear instead: fuchsia, true red, cobalt"
+- 16-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Bright Winter ❄️ Clear and vivid beats dusty on you. Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bright winter color palette · am I a bright winter
+> #brightwinter #coloranalysis #colorseason #wintercolors #seasonclub
+
+### Video 27: Founder story, "I'm a painter, so I built a free app that measures colour" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. So I built a free app that measures colour."
+
+**Shot list**
+1. 0-3s: Hand mixes two paint colours on a palette by a window.
+2. 3-9s: Hand holds a paint swatch next to a phone showing the scan screen (screen recording labelled "illustration").
+3. 9-16s: Hand lays four paint chips in a row: temperature, value, contrast, saturation written on paper under each.
+4. 16-22s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter. So I built a free app that measures colour."
+- 3-9s: "A selfie scan, right in your browser (illustration)"
+- 9-16s: "Temperature · value · contrast · saturation"
+- 16-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 It looks at temperature, value, contrast and saturation. Which one do you think is your strongest? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> color analysis app free · how to find my color season
+> #coloranalysis #colorseason #painter #colortheory #seasonclub
+
+---
+
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.

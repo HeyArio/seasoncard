@@ -117,3 +117,11 @@
 - **Sales mode:** videos 22-24 added to videos.md (emerald vs kelly drape test, stop buying if Soft Summer, reply to comment). No palette cards needed. offer.md unchanged. No sale visible (Gmail: nothing from PayPal or Season Card).
 - **SEO:** Sunday, no page. Monday 12 Oct candidate: "who can wear emerald green" guide. Sage green guide from 5 Oct still waiting for a release.
 - **Site check:** not checked, sandbox cannot resolve seasoncard.app.
+
+## 2026-10-12 (Monday run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 19 posts, about 13.4k views in total (analytics reach 10 Oct). Best by views: sage green trend 1,668 / 20 / 9 / 0 (no post near 2,000). Best by engagement: Soft vs True Autumn 900 / 10 / 3 / 39 shares and the painter founder post 380 / 5 / 5 / 15 shares. New: Light Summer 5 signs 786 / 5 / 0, Bright Winter + Light Spring post 735 / 3 / 2. 5 signs still weakest on views.
+- **Problem (unchanged):** all 16 TikTok posts from 8 Oct 16:00 to 11 Oct 21:00 are ERROR "You have reached your Metricool account limit." The 12-15 Oct queue (16 posts, all with the REVIEW line) is Pending and likely to fail the same way. Needs Saman: upgrade the Metricool plan or free quota.
+- **Queue:** 4 slots filled through 15 Oct (4 days incl. today). No new posts written: more would only pile up behind the account limit.
+- **SEO (Monday):** added guide /guides/who-can-wear-emerald-green (follows the winning trend-colour format). tsc and vitest pass (50 tests). On main, not released: needs a release (sage guide from 5 Oct also waiting).
+- **Sales mode:** videos 25-27 added to videos.md (sage vs mint drape test, stop buying if Bright Winter, painter founder story). No palette cards needed. offer.md unchanged.
+- **Site check:** not checked, sandbox cannot reach seasoncard.app.
