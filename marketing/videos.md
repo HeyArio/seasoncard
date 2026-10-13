@@ -751,6 +751,81 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > color analysis app free · how to find my color season
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
 
+### Video 28: Drape test, olive vs khaki (format: drape test)
+**Hook (on screen, 0-3s):** "Olive or khaki? One of these flatters you."
+
+**Shot list**
+1. 0-3s: Hand holds an olive fabric swatch next to a white sheet of paper by a window.
+2. 3-8s: Hand swaps to a khaki swatch, same spot, same light.
+3. 8-14s: Both swatches side by side, slow pan.
+4. 14-20s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Olive or khaki? One of these flatters you."
+- 3-8s: "Olive: deeper, greener, a little dark"
+- 8-14s: "Khaki: lighter, yellower, sandy"
+- 14-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Olive or khaki? The one that flatters you depends on your colouring 🫒 Comment olive or khaki.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> olive vs khaki · which green suits me
+> #olivegreen #coloranalysis #colorseason #drapetest #seasonclub
+
+### Video 29: Stop buying these colours if you might be a Light Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Light Spring"
+
+**Shot list**
+1. 0-3s: Hand drops three dark swatches (charcoal, burgundy, navy) into a box.
+2. 3-9s: Hand holds up each one, text under it.
+3. 9-16s: Hand lays out light warm swatches (peach, light aqua, warm ivory).
+4. 16-20s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Light Spring"
+- 3-9s: "Heavy dark = charcoal, burgundy, navy"
+- 9-16s: "Try light and warm instead: peach, light aqua, ivory"
+- 16-20s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Light Spring 🌼 Light and warm beats heavy and dark on you. Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light spring color palette · am I a light spring
+> #lightspring #coloranalysis #colorseason #springcolors #seasonclub
+
+### Video 30: Reply to comment, "which season is runner-up?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Reply: what does a runner-up season mean?"
+
+**Shot list**
+1. 0-3s: Screen recording of a viewer's question (only with their OK to show it; otherwise type it as text).
+2. 3-10s: Hand lays two palette swatch strips side by side (illustration cards).
+3. 10-17s: Hand points to the colours they share.
+4. 17-22s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Reply: what does a runner-up season mean?"
+- 3-10s: "Your result can sit between two seasons"
+- 10-17s: "The runner-up shows which colours you share"
+- 17-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Reply: what does a runner-up season mean? It's the neighbouring season whose colours also work for you 🎨 What's your result? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> runner up color season · what is my secondary season
+> #coloranalysis #colorseason #colouranalysis #seasonalcoloranalysis #seasonclub
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)
