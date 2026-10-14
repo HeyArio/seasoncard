@@ -751,6 +751,81 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 > color analysis app free · how to find my color season
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
 
+### Video 28: Drape test, olive vs khaki (format: drape test)
+**Hook (on screen, 0-3s):** "Olive or khaki? One of them is wrong for you."
+
+**Shot list**
+1. 0-3s: Hand lays an olive fabric swatch and a khaki swatch side by side by a window.
+2. 3-9s: Hand holds the olive swatch up to a white sheet of paper, then the khaki.
+3. 9-16s: Hand slides each swatch under a printed "illustration" face-less palette card (warm vs cool tag).
+4. 16-22s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Olive or khaki? One of them is wrong for you."
+- 3-9s: "Same family, different undertone"
+- 9-16s: "Warm, muted colouring often suits olive. Cooler, clearer colouring often suits khaki's grey cousin."
+- 16-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Olive and khaki look similar on a hanger and very different near your face 🫒 Which do you reach for? Comment olive or khaki.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> olive green outfit · which green suits me
+> #olivegreen #coloranalysis #colorseason #fallfashion #seasonclub
+
+### Video 29: Stop buying these colours if you might be a True Winter (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a True Winter."
+
+**Shot list**
+1. 0-3s: Hand drops a beige, a mustard and a dusty peach swatch into a bin-shaped box.
+2. 3-10s: Hand lifts out one at a time with the text of why.
+3. 10-17s: Hand places icy blue, true red and pure white swatches on a clean sheet.
+4. 17-22s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a True Winter"
+- 3-10s: "Beige · mustard · dusty peach can look flat on you"
+- 10-17s: "Try: icy blue · true red · pure white"
+- 17-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a True Winter ❄️ Clear and cool beats dusty and warm. Comment your season and I'll tell you what to try first.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true winter color palette · am I a true winter
+> #truewinter #coloranalysis #colorseason #wintercolors #seasonclub
+
+### Video 30: Reply to comment, "Can I be two seasons?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to a comment: can I be two seasons?"
+
+**Shot list**
+1. 0-3s: Screen recording of a comment (no username unless they agree).
+2. 3-10s: Hand holds two swatches, one per season, close together.
+3. 10-18s: Hand points at a paper card: "season + runner-up".
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Can I be two seasons?"
+- 3-10s: "Often you sit between two. That's your runner-up."
+- 10-18s: "Your result shows a season and a runner-up"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a comment: you might sit between two seasons, and that's normal 🎨 Which two do you think you are? Comment them.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> can you be two color seasons · color season runner up
+> #coloranalysis #colorseason #seasonalcoloranalysis #colourtips #seasonclub
+
 ---
 
 ## Reply-to-comment videos (use as soon as comments appear)
