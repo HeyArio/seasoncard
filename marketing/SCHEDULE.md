@@ -69,3 +69,5 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 54 | Soft Summer vs True Summer | 2026-10-15 16:00 · TikTok | social/post-54 |
 | 55 | Coral: which coral is yours | 2026-10-15 19:00 · TikTok | social/post-55 |
 | 56 | 5 signs you're a Light Spring | 2026-10-15 21:00 · TikTok | social/post-56 |
+
+2026-10-14 (Saman): while Metricool is blocked by its account limit, every post's design and caption are sent to Saman in the chat (zip per post: slide-01..07.jpg + caption.txt, via SendUserFile) so he can post by hand in the TikTok app. Keep doing this each run for each new post and for any queued post that failed with ERROR. Still schedule in Metricool when it works.
