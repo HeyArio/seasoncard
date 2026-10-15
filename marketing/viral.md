@@ -37,7 +37,7 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 ## Next ideas queue
 - 5 signs: Bright Winter, Light Spring, Bright Spring, True Winter, True Autumn (True Summer and Deep Autumn queued 12-13 Oct)
-- Trend colours: chocolate vs black, mint, burgundy, mauve, khaki (done: cherry red, mustard, teal, coral, mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
+- Trend colours: chocolate vs black, mauve, khaki (done: burgundy, mint, cherry red, mustard, teal, coral, mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
 - Season vs: Light Spring vs Bright Spring, Soft Summer vs True Summer, Soft Autumn vs Soft Summer (True Summer vs True Winter and True Autumn vs True Spring queued 11 and 13 Oct)
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals
 - Quiz: guess the season part 3 (all Autumns), "which palette is fake?"

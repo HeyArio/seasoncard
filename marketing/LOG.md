@@ -133,3 +133,10 @@
 - **Sales mode:** videos 28-30 added to videos.md (olive vs khaki drape test, stop buying if True Winter, reply "can I be two seasons"). No palette cards needed. offer.md unchanged.
 - **SEO:** Wednesday, no page. Sage and emerald guides still wait for a release on main.
 - **Site check:** not checked, egress proxy returns 403 for seasoncard.app.
+
+## 2026-10-15 (run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 19 posts 1-14 Oct, about 12.9k views in total. Best by views: sage green trend 1,708 / 20 / 10. Best by engagement: Soft vs True Autumn 917 / 11 / 4 / 39 shares. The two posts of 14 Oct (teal 90 / 2 / 0, Bright Winter 5 signs 85 / 1 / 0) look hand-posted by Saman. Comment changes since 14 Oct: Light Summer 5 signs +1 (now 1), Bright Winter + Light Spring post +1 (now 3); sage green and hair-eyes-skin still 10 each. No post near 2,000.
+- **Queue:** Metricool still holds only 15 Oct (4 Pending posts); the account limit still blocks publishing. Wrote and rendered posts 57-60 for 16 Oct (burgundy and mint = trend colour, top format; 5 signs True Winter; Soft Autumn vs Soft Summer). Contact sheet checked, all swatches match their titles. Not scheduled in Metricool because of the limit; to be posted by hand.
+- **Sales mode:** videos 31-33 added to videos.md (burgundy vs oxblood drape test, stop buying if Light Spring, painter founder story). No palette cards needed.
+- **SEO:** Thursday, no page. Sage and emerald guides still wait for a release on main.
+- **Site check:** not checked, sandbox cannot reach seasoncard.app.

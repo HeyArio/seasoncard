@@ -830,3 +830,84 @@ Saman: open the 2 comments on the sage green post, pick the one that is a questi
 
 ## Reply-to-comment videos (use as soon as comments appear)
 Template: screen-record the comment on TikTok, then film the answer with swatches. Text: the commenter's question, then your answer. Don't show usernames unless they agree. Caption keeps the same CTA lines.
+
+### Video 31: Drape test, burgundy vs oxblood (format: drape test)
+**Hook (on screen, 0-3s):** "Same red family, two different faces"
+
+**Shot list**
+1. 0-3s: Hand holds a burgundy swatch (cool, blue-leaning) and an oxblood swatch (brown-red) side by side, by a window.
+2. 3-10s: Hand slides the burgundy swatch under a mirror edge, then the oxblood. No face, just the swatch and the window light.
+3. 10-18s: Hand holds a paper card with two words: "cool red" and "warm red".
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Burgundy or oxblood?"
+- 3-10s: "One leans blue. One leans brown."
+- 10-18s: "Which one makes your skin look even?"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Burgundy or oxblood: which one looks better on you? 🍷 Comment 1 for burgundy, 2 for oxblood.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> burgundy vs oxblood · which red suits me
+> #burgundy #coloranalysis #colorseason #fallfashion #seasonclub
+
+---
+
+### Video 32: Stop buying these colours if you might be a Light Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a Light Spring"
+
+**Shot list**
+1. 0-3s: Hand drops three dark swatches (black, espresso, burgundy) into a small bin.
+2. 3-10s: Hand lays out three light warm swatches (peach, mint cream, buttercream) in a row.
+3. 10-18s: Hand points at the free scan result on a phone screen, labelled "illustration".
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Light Spring? Stop buying these"
+- 3-10s: "Heavy and dark can look harsh. Light and warm feels easy."
+- 10-18s: "Your result shows a season and a runner-up (illustration)"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> If you might be a Light Spring, these colours can fight your face 🌼 Heavy and dark ones, that is. Which colour do you own and never wear? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light spring colors to avoid · am I a light spring
+> #lightspring #coloranalysis #colorseason #springcolors #seasonclub
+
+---
+
+### Video 33: Founder story, why I measure colour (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter, so I built a free app that measures colour"
+
+**Shot list**
+1. 0-3s: Hand holds a paintbrush over a mixed paint swatch by a window.
+2. 3-10s: Hand mixes two paints on a palette (no face), then dabs one on paper.
+3. 10-18s: Screen recording of the scan on an illustration, labelled "illustration".
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter"
+- 3-10s: "I check temperature, depth, contrast and softness"
+- 10-18s: "So I built a free app that does the same (illustration)"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Four checks: temperature, depth, contrast and softness. What's the colour you get complimented in? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> color season app made by a painter · free color analysis
+> #coloranalysis #colorseason #painter #colourtheory #seasonclub
+
+---

@@ -71,3 +71,9 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 56 | 5 signs you're a Light Spring | 2026-10-15 21:00 · TikTok | social/post-56 |
 
 2026-10-14 (Saman): while Metricool is blocked by its account limit, every post's design and caption are sent to Saman in the chat (zip per post: slide-01..07.jpg + caption.txt, via SendUserFile) so he can post by hand in the TikTok app. Keep doing this each run for each new post and for any queued post that failed with ERROR. Still schedule in Metricool when it works.
+
+2026-10-15: posts 57-60 rendered for 16 Oct (not in Metricool: account limit still blocks, see LOG). Design + caption in social/post-57..60.
+| 57 | Burgundy: which burgundy is yours | 2026-10-16 12:00 · TikTok | social/post-57 |
+| 58 | Mint: which mint is yours | 2026-10-16 16:00 · TikTok | social/post-58 |
+| 59 | 5 signs you're a True Winter | 2026-10-16 19:00 · TikTok | social/post-59 |
+| 60 | Soft Autumn vs Soft Summer | 2026-10-16 21:00 · TikTok | social/post-60 |
