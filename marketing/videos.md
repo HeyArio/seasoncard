@@ -911,3 +911,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #painter #colourtheory #seasonclub
 
 ---
+
+### Video 34: Drape test, khaki vs olive (format: drape test)
+**Hook (on screen, 0-3s):** "Same green-brown. Two very different faces."
+
+**Shot list**
+1. 0-3s: Hand lays a khaki fabric swatch next to an olive one on white paper by a window.
+2. 3-10s: Hand slides each swatch slowly across a printed palette card (no face), pausing on each.
+3. 10-18s: Hand holds both up to the window light, then flips to the back of one to show the true colour.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Khaki or olive?"
+- 3-10s: "Warm khaki = golden. Olive = deeper and greener"
+- 10-18s: "Which one would you grab? (khaki or olive)"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Khaki or olive: which would you grab? 🪖 One is golden, one is deep and green. Comment khaki or olive.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> khaki vs olive color · which green suits me
+> #coloranalysis #colorseason #khaki #olivegreen #seasonclub
+
+---
+
+### Video 35: Stop buying these colours if you're a Light Summer (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you're a Light Summer"
+
+**Shot list**
+1. 0-3s: Hand drops three heavy fabric swatches (black, rust, mustard) into a bin by a window.
+2. 3-12s: Hand lays each swatch down one at a time with its name written on paper.
+3. 12-20s: Hand lays three soft swatches (powder blue, rose pink, lavender) in a row: "wear these instead".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Light Summer? Stop buying these 👇"
+- 3-12s: "Black. Rust. Mustard. (too heavy or too warm)"
+- 12-20s: "Try powder blue, rose pink, lavender"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Light Summer? These three might be weighing you down 🩵 Black, rust, mustard. Try soft, cool, light colours instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light summer colors to avoid · light summer color palette
+> #coloranalysis #colorseason #lightsummer #summercolors #seasonclub
+
+---
+
+### Video 36: Reply to comment, "my season keeps changing" (format: reply to comment)
+**Hook (on screen, 0-3s):** Reply to a real comment (Saman picks one from the post comments): "why do I get a different season every time?"
+
+**Shot list**
+1. 0-3s: TikTok reply sticker on a plain background, comment text visible.
+2. 3-12s: Hand holds a white sheet and a cream sheet side by side by a window, then moves them into shade.
+3. 12-20s: Screen recording of the free scan on an illustration (labelled "illustration").
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: (reply sticker with the comment)
+- 3-12s: "Light changes the result. Window light, no filters"
+- 12-20s: "Do the free scan by a window (illustration)"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Replying to a comment: why does your season change between quizzes? Mostly light and filters 💡 Do it by a window, no filters. What result did you get last time? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> why do I get a different color season · color analysis lighting
+> #coloranalysis #colorseason #colourtheory #seasonalcoloranalysis #seasonclub
+
+---
