@@ -143,7 +143,7 @@
 
 ## 2026-10-16 (run)
 - **Metrics (Metricool, TikTok; views / likes / comments / shares):** 21 posts 28 Sep-14 Oct, about 14.1k views. Best by views: sage green trend 1,719 / 20 / 10. Best by engagement: Soft vs True Autumn 922 / 11 / 4 / 39 shares. Comments unchanged since 15 Oct (sage 10, hair-eyes-skin 10, mocha 5, painter 5, Deep Winter 4); no post near 2,000. 14 Oct hand-posted ones: Bright Winter 5 signs 333 / 3 / 0, teal 241 / 3 / 0. Still no data for posts after 14 Oct.
-- **Queue:** getScheduledPosts for 16-22 Oct returns nothing: Metricool holds no queued posts. Wrote and rendered posts 61-64 for 17 Oct (mauve and khaki = trend colour, top format; 5 signs True Autumn; Deep Autumn vs Deep Winter). Contact sheet checked, fixed post 64 (slide titles now match swatches, replaced a near-identical espresso pair with bronze vs silver grey).
+- **Queue:** getScheduledPosts for 16-22 Oct returned nothing. Wrote, rendered and scheduled in Metricool (accepted, Pending; may still fail at publish time with the account limit) posts 61-64 for 17 Oct (mauve and khaki = trend colour, top format; 5 signs True Autumn; Deep Autumn vs Deep Winter). Contact sheet checked, fixed post 64 (slide titles now match swatches, replaced a near-identical espresso pair with bronze vs silver grey).
 - **Sales mode:** videos 34-36 added to videos.md (khaki vs olive drape test, stop buying if Light Summer, reply "my season changes"). No palette cards needed. offer.md unchanged. No sale visible.
 - **SEO:** Friday, no page. Sage and emerald guides still wait for a release on main.
 - **Site check:** not run this session; earlier runs could not reach seasoncard.app from the sandbox.

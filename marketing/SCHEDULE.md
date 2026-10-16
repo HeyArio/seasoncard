@@ -78,7 +78,7 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 59 | 5 signs you're a True Winter | 2026-10-16 19:00 · TikTok | social/post-59 |
 | 60 | Soft Autumn vs Soft Summer | 2026-10-16 21:00 · TikTok | social/post-60 |
 
-2026-10-16: posts 61-64 rendered for 17 Oct (not in Metricool: nothing is queued there; account limit). Design + caption in social/post-61..64.
+2026-10-16: posts 61-64 scheduled in Metricool for 17 Oct (status Pending; earlier posts with this status later failed with the account limit, so zips were also sent to Saman). Design + caption in social/post-61..64.
 | 61 | Mauve: which mauve is yours | 2026-10-17 12:00 · TikTok | social/post-61 |
 | 62 | Khaki: which khaki is yours | 2026-10-17 16:00 · TikTok | social/post-62 |
 | 63 | 5 signs you're a True Autumn | 2026-10-17 19:00 · TikTok | social/post-63 |
