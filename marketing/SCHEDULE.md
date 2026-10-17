@@ -83,3 +83,13 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 62 | Khaki: which khaki is yours | 2026-10-17 16:00 · TikTok | social/post-62 |
 | 63 | 5 signs you're a True Autumn | 2026-10-17 19:00 · TikTok | social/post-63 |
 | 64 | Deep Autumn vs Deep Winter | 2026-10-17 21:00 · TikTok | social/post-64 |
+
+2026-10-17: posts 65-72 rendered for 18-19 Oct, scheduled in Metricool (see LOG). Design + caption in social/post-65..72.
+| 65 | Terracotta: which terracotta is yours | 2026-10-18 12:00 · TikTok | social/post-65 |
+| 66 | Bright Spring vs True Spring | 2026-10-18 16:00 · TikTok | social/post-66 |
+| 67 | 5 signs you're a Bright Spring | 2026-10-18 19:00 · TikTok | social/post-67 |
+| 68 | Navy: which navy is yours | 2026-10-18 21:00 · TikTok | social/post-68 |
+| 69 | Forest green: which forest is yours | 2026-10-19 12:00 · TikTok | social/post-69 |
+| 70 | Light Summer vs Light Spring | 2026-10-19 16:00 · TikTok | social/post-70 |
+| 71 | 5 signs you're a True Spring | 2026-10-19 19:00 · TikTok | social/post-71 |
+| 72 | Guess my season: colour you own but never wear | 2026-10-19 21:00 · TikTok | social/post-72 |

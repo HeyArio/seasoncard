@@ -992,3 +992,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #colourtheory #seasonalcoloranalysis #seasonclub
 
 ---
+
+### Video 37: Drape test, terracotta vs brick (format: drape test)
+**Hook (on screen, 0-3s):** "Two oranges-browns. One makes skin glow."
+
+**Shot list**
+1. 0-3s: Hand holds a terracotta fabric swatch and a deep brick swatch side by side by a window.
+2. 3-12s: Hand lays the terracotta swatch on a white sheet, then the brick one, names written on paper under each.
+3. 12-20s: Hand slides a soft clay swatch in between: "the muted version".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Terracotta or brick? Same family, different glow"
+- 3-12s: "Terracotta = warm and rich. Brick = warm and deep"
+- 12-20s: "Muted clay = Soft Autumn"
+- 20-26s: "Which one is you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Terracotta, brick or clay? Same family, three different faces 🧱 Warm and rich, warm and deep, warm and muted. Which one do you reach for? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> terracotta vs brick color · which terracotta suits me
+> #coloranalysis #colorseason #terracotta #autumnpalette #seasonclub
+
+---
+
+### Video 38: Stop buying these colours if you're a Deep Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "Deep Autumn? Stop buying these 👇"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (icy pink, pastel lilac, light grey) into a bin by a window.
+2. 3-12s: Hand lays each swatch down one at a time with its name written on paper.
+3. 12-20s: Hand lays three rich swatches (oxblood, bottle green, burnt orange) in a row: "wear these instead".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Deep Autumn? Stop buying these 👇"
+- 3-12s: "Icy pink. Pastel lilac. Light grey. (too cool and too light)"
+- 12-20s: "Try oxblood, bottle green, burnt orange"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Deep Autumn? These three might be washing you out 🍂 Icy pink, pastel lilac, light grey. Try rich, warm, deep colours instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> deep autumn colors to avoid · deep autumn color palette
+> #coloranalysis #colorseason #deepautumn #autumnpalette #seasonclub
+
+---
+
+### Video 39: Founder story, the four checks (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter, so I built a free app that measures colour"
+
+**Shot list**
+1. 0-3s: Hand holds a brush over a mixed paint swatch by a window.
+2. 3-10s: Hand places four paint dabs in a row on paper, labelled warm, deep, clear, soft.
+3. 10-18s: Screen recording of the scan on an illustration, labelled "illustration".
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter"
+- 3-10s: "Painters mix colour by temperature, value and saturation"
+- 10-18s: "So I built a free app that checks those on a selfie (illustration)"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 It looks at temperature, depth, contrast and softness. Which of those four do you think is your strongest? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> free color analysis app · color season made by a painter
+> #coloranalysis #colorseason #painter #colourtheory #seasonclub
+
+---
