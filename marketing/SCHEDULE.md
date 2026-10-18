@@ -93,3 +93,17 @@ raw.githubusercontent.com/HeyArio/seasoncard/<commit>/social/... Render new post
 | 70 | Light Summer vs Light Spring | 2026-10-19 16:00 · TikTok | social/post-70 |
 | 71 | 5 signs you're a True Spring | 2026-10-19 19:00 · TikTok | social/post-71 |
 | 72 | Guess my season: colour you own but never wear | 2026-10-19 21:00 · TikTok | social/post-72 |
+
+2026-10-18: posts 73-84 rendered and scheduled in Metricool for 20-22 Oct (status Pending). Design + caption in social/post-73..84.
+| 73 | Dusty rose: which rose is yours | 2026-10-20 12:00 · TikTok | social/post-73 |
+| 74 | Soft Summer vs Light Summer | 2026-10-20 16:00 · TikTok | social/post-74 |
+| 75 | Cranberry: which cranberry is yours | 2026-10-20 19:00 · TikTok | social/post-75 |
+| 76 | Nude: which nude is yours | 2026-10-20 21:00 · TikTok | social/post-76 |
+| 77 | White: which white is yours | 2026-10-21 12:00 · TikTok | social/post-77 |
+| 78 | True Winter vs Bright Winter | 2026-10-21 16:00 · TikTok | social/post-78 |
+| 79 | Burnt orange: which orange is yours | 2026-10-21 19:00 · TikTok | social/post-79 |
+| 80 | Gold or silver: which metal is yours | 2026-10-21 21:00 · TikTok | social/post-80 |
+| 81 | Powder blue: which blue is yours | 2026-10-22 12:00 · TikTok | social/post-81 |
+| 82 | Soft Autumn vs Deep Autumn | 2026-10-22 16:00 · TikTok | social/post-82 |
+| 83 | Peach: which peach is yours | 2026-10-22 19:00 · TikTok | social/post-83 |
+| 84 | Guess my season: gold or silver + eyes | 2026-10-22 21:00 · TikTok | social/post-84 |

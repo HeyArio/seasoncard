@@ -1073,3 +1073,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #painter #colourtheory #seasonclub
 
 ---
+
+### Video 40: Drape test, dusty rose vs warm rose (format: drape test)
+**Hook (on screen, 0-3s):** "Same pink family. Two roses. Which one is yours?"
+
+**Shot list**
+1. 0-3s: Hand holds a dusty rose fabric swatch by a window, then swaps it for a warm rose swatch.
+2. 3-12s: Hand drapes each swatch over a white sheet of paper, labelled "cool, greyed" and "warm, earthy".
+3. 12-20s: Hand lays the two swatches side by side next to a neutral grey card.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Same pink family. Two roses."
+- 3-12s: "Dusty rose: cool and greyed. Warm rose: earthy and golden."
+- 12-20s: "Which one looks calmer next to your skin?"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Dusty rose or warm rose? One looks calm next to your skin, the other can look flat 🌹 Which one would you reach for? Comment rose or warm.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> dusty rose vs warm rose · which pink suits me
+> #dustyrose #coloranalysis #colorseason #drapetest #seasonclub
+
+---
+
+### Video 41: Stop buying these colours if you're a Soft Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "Soft Autumn? Stop buying these 👇"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (pure white, bright fuchsia, icy blue) into a bin by a window.
+2. 3-12s: Hand lays each swatch down one at a time with its name written on paper.
+3. 12-20s: Hand lays three muted swatches (clay, honey, warm sage) in a row: "wear these instead".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Soft Autumn? Stop buying these 👇"
+- 3-12s: "Pure white. Bright fuchsia. Icy blue. (too sharp and too cool)"
+- 12-20s: "Try clay, honey, warm sage"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Soft Autumn? These three might be too sharp for you 🍂 Pure white, bright fuchsia, icy blue. Try warm, muted colours instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft autumn colors to avoid · soft autumn color palette
+> #coloranalysis #colorseason #softautumn #autumnpalette #seasonclub
+
+---
+
+### Video 42: Reply to comment, "gold or silver, which is mine?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: gold or silver, which is mine?"
+
+**Shot list**
+1. 0-3s: Phone screen with the comment text (type it as a mock comment, no real username).
+2. 3-12s: Hand holds a gold foil square and a silver foil square under a window, one at a time, over a plain paper card.
+3. 12-20s: Hand points at which one makes the paper look warmer or cooler.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: gold or silver, which is mine?"
+- 3-12s: "Hold both next to your face by a window"
+- 12-20s: "The one that makes your skin look even and rested often points to your undertone"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Gold or silver? Try both next to your face by a window and see which one looks calmer 🪙 Which one did you pick? Comment gold or silver.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> gold or silver jewelry · which metal suits me
+> #goldorsilver #coloranalysis #colorseason #jewelry #seasonclub
+
+---

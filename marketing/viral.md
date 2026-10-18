@@ -19,6 +19,8 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
 
 **Data, 9 Oct (Metricool still stops at 6 Oct posts):** sage green 1,583 / 20 / 9 stays #1; hair-eyes-skin lead post 9 comments (joint best with sage); no post near 2,000. Posts 49-56 (cherry red, mustard, teal, coral = trend colour; Light vs Bright Spring, Soft vs True Summer; 5 signs Bright Winter, Light Spring) queued for 14-15 Oct.
 
+**Data, 18 Oct (analytics stop at 14 Oct):** sage green 1,730 / 20 / 10 still #1; Soft vs True Autumn 932 / 39 shares best shared. All 12 "5 signs" posts are done: retired. Next batches: trend colours (dusty rose, cranberry, nude, white, burnt orange, powder blue, peach done 20-22 Oct), season-vs-season (Soft vs Light Summer, True vs Bright Winter, Soft vs Deep Autumn), metals pick-a-letter and gold/silver lead post.
+
 ## Rules for every post
 - Slide 1 = the whole hook in under 10 words, with a curiosity gap or a direct "you". The visual alone must make sense.
 - 7 slides: hook → why → 4 value slides → CTA mock. Slide 7 is a price ladder (free scan, $9.99 report, $29 Personal Review, button "Comment REVIEW"), rendered by render.mjs; footer "Season Club: comment your season". Call the community "Season Club" ("Season Club: comment your season"); TikTok only until 1,000 followers. Every value slide should be screenshot-worthy (save trigger).
@@ -36,7 +38,7 @@ Goal: views → profile visits → typed "seasoncard.app" → free scan → $9.9
   40% new experiments. Retire a format after 3 posts below the median.
 
 ## Next ideas queue
-- 5 signs: Bright Winter, Light Spring, Bright Spring, True Winter, True Autumn (True Summer and Deep Autumn queued 12-13 Oct)
+- 5 signs: retired (all 12 seasons done)
 - Trend colours: chocolate vs black, mauve, khaki (done: burgundy, mint, cherry red, mustard, teal, coral, mocha, olive, cobalt, pistachio, plum, grey, camel coat, rust, emerald, lavender, denim)
 - Season vs: Light Spring vs Bright Spring, Soft Summer vs True Summer, Soft Autumn vs Soft Summer (True Summer vs True Winter and True Autumn vs True Spring queued 11 and 13 Oct)
 - Pick-a-letter: denim wash, lipstick nude, hair colour, eyeshadow, metals

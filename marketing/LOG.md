@@ -147,3 +147,10 @@
 - **Sales mode:** videos 34-36 added to videos.md (khaki vs olive drape test, stop buying if Light Summer, reply "my season changes"). No palette cards needed. offer.md unchanged. No sale visible.
 - **SEO:** Friday, no page. Sage and emerald guides still wait for a release on main.
 - **Site check:** not run this session; earlier runs could not reach seasoncard.app from the sandbox.
+
+## 2026-10-18 (Sunday run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 19 posts 1-14 Oct, about 13.4k views. Best by views: sage green trend 1,730 / 20 / 10 (no post near 2,000). Best by engagement: Soft vs True Autumn 932 / 11 / 4 / 39 shares. Comments now: Light Summer 5 signs 2 (was 1), Bright Winter + Light Spring post 4 (was 3), Deep Winter 5 signs 5 (was 4), teal 2 and Bright Winter 5 signs 1 (new, hand-posted 14 Oct). Still no data after 14 Oct.
+- **Queue:** Metricool held posts through 19 Oct. Wrote posts 73-84 (6 trend-colour, 3 season-vs-season, 2 pick-a-letter/lead, 1 pick-a-letter metals), rendered, contact sheet checked, pushed, scheduled for 20-22 Oct at all 4 slots (accepted, Pending). Queue now covers 18-22 Oct. "5 signs" is retired: all 12 seasons are done and it stays weakest on views.
+- **Sales mode:** all queued posts already carry the REVIEW line. videos 40-42 added to videos.md (dusty rose vs warm rose drape test, stop buying if Soft Autumn, reply "gold or silver"). No palette cards needed. No sale visible (Gmail: nothing).
+- **SEO:** Sunday, no page. Sage and emerald guides still wait for a release on main.
+- **Site check:** not checked, sandbox cannot resolve seasoncard.app.
