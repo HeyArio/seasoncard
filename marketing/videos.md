@@ -1154,3 +1154,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #goldorsilver #coloranalysis #colorseason #jewelry #seasonclub
 
 ---
+
+### Video 43: Drape test, burgundy vs oxblood (format: drape test)
+**Hook (on screen, 0-3s):** "Two reds, one of them might be yours"
+
+**Shot list**
+1. 0-3s: Hand holds a plum-leaning burgundy fabric swatch and a brown-leaning oxblood swatch side by side by a window.
+2. 3-12s: Hand lays each swatch on a plain white paper card, one at a time, name written under each.
+3. 12-20s: Hand lays both on a grey card to show the cool vs warm lean.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Burgundy or oxblood? 🍷"
+- 3-12s: "Burgundy leans purple (cool). Oxblood leans brown (warm)."
+- 12-20s: "Hold the one you like next to your face by a window"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Burgundy or oxblood? One leans cool and purple, one leans warm and brown 🍷 Which one do you reach for? Comment burgundy or oxblood.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> burgundy vs oxblood · who can wear burgundy
+> #burgundy #coloranalysis #colorseason #fallfashion #seasonclub
+
+---
+
+### Video 44: Stop buying these colours if you're a Light Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Light Spring? Stop buying these 👇"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (black, dark burgundy, dusty grey-green) into a bin by a window.
+2. 3-12s: Hand lays each swatch down one at a time with its name on paper.
+3. 12-20s: Hand lays three fresh swatches (peach, warm aqua, buttercream) in a row: "wear these instead".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Light Spring? Stop buying these 👇"
+- 3-12s: "Black. Dark burgundy. Dusty grey-green. (too heavy and too dull)"
+- 12-20s: "Try peach, warm aqua, buttercream"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Light Spring? These three might be too heavy for you 🌼 Black, dark burgundy, dusty grey-green. Try light, warm, clear colours instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light spring colors to avoid · light spring color palette
+> #coloranalysis #colorseason #lightspring #springcolors #seasonclub
+
+---
+
+### Video 45: Founder story, "I'm a painter, so I built a free app that measures colour" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. Here's why I built this."
+
+**Shot list**
+1. 0-3s: Hand holds a paint-mixing palette with warm and cool blobs by a window.
+2. 3-12s: Hand mixes a warm and a cool red on the palette and lays both on paper.
+3. 12-20s: Screen recording of the free scan result screen (label it "illustration").
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter. Here's why I built this."
+- 3-12s: "Warm or cool, light or deep, clear or soft: I mix these every day"
+- 12-20s: "So I built a free scan that looks at the same things (illustration)"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that looks at colour the way I mix it 🎨 Warm or cool, light or deep, clear or soft. Which of those do you think is your strongest? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> color analysis app · free color season analysis
+> #coloranalysis #colorseason #painter #colortheory #seasonclub
+
+---

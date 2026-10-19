@@ -239,6 +239,44 @@ export const GUIDES: Guide[] = [
     ],
     related: ["deep-winter", "true-winter", "bright-winter"],
   },
+  {
+    slug: "who-can-wear-burgundy",
+    title: "Who can wear burgundy? The season-by-season answer",
+    description: "Burgundy is a fall favourite that looks rich on some colouring and heavy on others. Which seasons suit it, which version to pick, and how to test it on your face.",
+    answer:
+      "Burgundy, a deep red with purple or brown in it, tends to suit the deeper seasons best: Deep Winter, Deep Autumn and True Winter. Which burgundy matters: a cool wine-purple version suits Winter, a warm brown-red version suits Autumn. Light and soft colouring (Light Summer, Light Spring, Soft Summer) often finds it heavy, and a softer raspberry, rose or muted berry usually works better.",
+    sections: [
+      {
+        h: "Why burgundy looks heavy on some people",
+        p: [
+          "Burgundy is dark and saturated. Next to deep or high-contrast colouring it looks balanced. Next to light, low-contrast colouring it can pull attention away from your face and make skin look paler.",
+        ],
+      },
+      {
+        h: "Which seasons it tends to suit",
+        p: ["These are tendencies, not rules. Your own skin in daylight is the final test."],
+        list: [
+          "Deep Winter: deep wine and blackberry burgundy, at full strength.",
+          "True Winter: a cool, blue-leaning burgundy.",
+          "Deep Autumn: a warm, brown-leaning oxblood or mahogany burgundy.",
+          "True Autumn: a warm brick-leaning burgundy, in smaller amounts.",
+          "Soft Summer and Soft Autumn: a muted berry, plum or dusty rosewood instead.",
+          "Light seasons: a raspberry, rose or soft cranberry instead.",
+        ],
+      },
+      {
+        h: "A quick test at home",
+        p: [
+          "Hold a burgundy fabric under your chin by a window, no filter and no makeup. If your skin looks even and your eyes look clearer, it likely works. If the colour looks heavy or your face looks paler, try a warmer, softer or lighter red.",
+        ],
+      },
+    ],
+    faq: [
+      { q: "Does burgundy suit warm or cool undertones?", a: "Both, in different versions. Cool undertones tend to do best in a purple-leaning wine burgundy. Warm undertones tend to do best in a brown-leaning oxblood." },
+      { q: "What should I wear instead if burgundy is too heavy?", a: "Light colouring usually does better in raspberry or rose. Soft colouring usually does better in a muted berry, plum or rosewood." },
+    ],
+    related: ["deep-winter", "deep-autumn", "true-winter"],
+  },
 ];
 
 export function findGuide(slug: string): Guide | undefined {
