@@ -1235,3 +1235,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
 
 ---
+
+### Video 46: Drape test, terracotta vs brick (format: drape test)
+**Hook (on screen, 0-3s):** "Terracotta or brick? One of these is yours."
+
+**Shot list**
+1. 0-3s: Hand holds a terracotta fabric swatch next to a brick-red one by a window.
+2. 3-10s: Hand lays the terracotta swatch on a white sheet: "warm, soft, orange-leaning".
+3. 10-18s: Hand swaps in the brick swatch: "deeper, redder, heavier".
+4. 18-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Terracotta or brick? One of these is yours."
+- 3-10s: "Terracotta: soft, warm, orange-leaning"
+- 10-18s: "Brick: deeper and redder. Same family, different face."
+- 18-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Terracotta or brick? They look close on a hanger and very different next to your face 🧱 Which do you reach for? Comment terracotta or brick.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> terracotta vs brick · which red-orange suits me
+> #terracotta #coloranalysis #colorseason #fallfashion #seasonclub
+
+---
+
+### Video 47: Stop buying these colours if you're a Deep Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "Deep Autumn? Stop buying these 👇"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (icy pink, pale grey, cool lavender) into a bin by a window.
+2. 3-12s: Hand lays each swatch down with its name on paper.
+3. 12-20s: Hand lays three fresh swatches (dark teal, rust, olive) in a row: "wear these instead".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Deep Autumn? Stop buying these 👇"
+- 3-12s: "Icy pink. Pale grey. Cool lavender. (too light and too cool)"
+- 12-20s: "Try dark teal, rust, olive"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Deep Autumn? These three might be too light and cool for you 🍂 Icy pink, pale grey, cool lavender. Try deep, warm, rich colours instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> deep autumn colors to avoid · deep autumn color palette
+> #coloranalysis #colorseason #deepautumn #autumnpalette #seasonclub
+
+---
+
+### Video 48: Reply to comment, "my colours look different in every light" (format: reply to comment)
+**Hook (on screen, 0-3s):** "Why do my colours change in every light?"
+
+**Shot list**
+1. 0-3s: Text card styled as a comment: "my colours look different in every light" (paraphrased, no username).
+2. 3-12s: Hand holds a swatch by a window, then under a yellow lamp: the swatch reads differently.
+3. 12-20s: Hand points at the window: "daylight by a window, no filter".
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Why do my colours change in every light?"
+- 3-12s: "Warm bulbs add yellow. Cool bulbs add blue. Same swatch."
+- 12-20s: "For the scan: daylight by a window, no filter"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Same colour, different light, different answer. That's why colour quizzes disagree 💡 Window daylight, no filter, is the fix. Where do you take your selfies? Comment window or lamp.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> colour analysis lighting · why do I look different in every light
+> #coloranalysis #colorseason #undertone #colortheory #seasonclub
+
+---

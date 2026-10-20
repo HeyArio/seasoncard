@@ -162,3 +162,11 @@
 - **SEO (Monday):** added guide /guides/who-can-wear-burgundy (follows the winning trend-colour format). tsc and vitest pass (50 tests). On main, not released: needs a release (sage and emerald guides also waiting).
 - **Sales mode:** videos 43-45 added to videos.md (burgundy vs oxblood drape test, stop buying if Light Spring, painter founder story). No palette cards needed. offer.md unchanged. No sale visible.
 - **Site check:** not checked, egress proxy returns 403 for seasoncard.app.
+
+## 2026-10-20 (Tuesday run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 21 posts 28 Sep-14 Oct, about 14.3k views. Best by views: sage green trend 1,748 / 20 / 10 (no post near 2,000). Best by engagement: Soft vs True Autumn 943 / 12 / 4 / 39 shares and painter founder 387 / 5 / 5 / 15 shares. No comment changes since 19 Oct; still no data after 14 Oct.
+- **Problem (unchanged):** every post from 17 Oct 12:00 to 19 Oct 21:00 is ERROR "You have reached your Metricool account limit." 20-22 Oct (12 posts, all with the REVIEW line) still Pending. Needs Saman: upgrade the Metricool plan or free quota, or post by hand.
+- **Queue:** covers 20-22 Oct at all 4 slots. No new posts written: more would pile up behind the account limit.
+- **Sales mode:** videos 46-48 added to videos.md (terracotta vs brick drape test, stop buying if Deep Autumn, reply "colours change in every light"). No palette cards needed. offer.md unchanged. No sale visible.
+- **SEO:** Tuesday, no page. Sage, emerald and burgundy guides still wait for a release on main.
+- **Site check:** not run, earlier runs got 403 from the egress proxy for seasoncard.app.
