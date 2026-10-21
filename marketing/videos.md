@@ -1235,3 +1235,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
 
 ---
+
+### Video 46: Drape test, mustard vs gold (format: drape test)
+**Hook (on screen, 0-3s):** "Mustard or gold? One of them might be yours"
+
+**Shot list**
+1. 0-3s: Hand holds a green-leaning mustard fabric swatch and a warm, bright gold swatch side by side by a window.
+2. 3-12s: Hand lays each swatch on a plain white paper card, one at a time, name written under each.
+3. 12-20s: Hand lays both on a grey card to show the muted vs clear lean.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Mustard or gold? 💛"
+- 3-12s: "Mustard is muted and a bit green. Gold is clear and sunny."
+- 12-20s: "Hold the one you like next to your face by a window"
+- 20-26s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Mustard or gold? One is muted and earthy, one is clear and sunny 💛 Which one do you reach for? Comment mustard or gold.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> mustard vs gold · who can wear mustard yellow
+> #mustardyellow #coloranalysis #colorseason #fallfashion #seasonclub
+
+---
+
+### Video 47: Stop buying these colours if you're a True Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "True Autumn? Stop buying these 3"
+
+**Shot list**
+1. 0-3s: Hand holds up three swatches: icy grey-blue, cool fuchsia, stark white.
+2. 3-14s: Hand slides each swatch away one by one, name written on a paper card above each.
+3. 14-22s: Hand lays down three warm swatches instead: rust, olive, camel.
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "True Autumn? Stop buying these 3"
+- 3-14s: "Icy grey-blue · cool fuchsia · stark white (they might fight your warmth)"
+- 14-22s: "Try rust, olive, camel instead"
+- 22-28s: "Might be you? Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> True Autumn? These three might be fighting your colouring: icy grey-blue, cool fuchsia, stark white 🍂 Try rust, olive and camel instead. Which one do you own too many of? Comment it.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true autumn colors to avoid · true autumn color palette
+> #coloranalysis #colorseason #trueautumn #autumnpalette #seasonclub
+
+---
+
+### Video 48: Reply to comment, "can I wear black if I'm a Soft Summer?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: can I wear black if I'm a Soft Summer?"
+
+**Shot list**
+1. 0-3s: Phone screen with the comment text (type it as a mock comment, no real username).
+2. 3-12s: Hand holds a black swatch and a charcoal-grey swatch over a plain paper card by a window.
+3. 12-20s: Hand holds a soft navy swatch beside them.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: can I wear black if I'm a Soft Summer?"
+- 3-12s: "Pure black can be heavy on soft, muted colouring"
+- 12-20s: "Charcoal or soft navy often feel gentler. Test by a window."
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Soft Summer and black? Pure black can look heavy on soft colouring, charcoal or soft navy often feel gentler 🖤 Which one do you reach for? Comment black, charcoal or navy.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft summer black clothes · soft summer color palette
+> #coloranalysis #colorseason #softsummer #summercolors #seasonclub
+
+---
