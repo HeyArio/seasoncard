@@ -1316,3 +1316,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 > #coloranalysis #colorseason #softsummer #summercolors #seasonclub
 
 ---
+
+---
+
+### Video 49: Drape test, teal vs petrol (format: drape test)
+**Hook (on screen, 0-3s):** "Teal or petrol? One of them flatters you more"
+
+**Shot list**
+1. 0-3s: Hand holds a bright teal fabric swatch next to a deep petrol swatch on a plain paper card by a window.
+2. 3-12s: Hand lifts the teal swatch alone, then the petrol one, same window light.
+3. 12-20s: Hand holds both against a grey card to show the difference in depth.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Teal or petrol? One of them flatters you more"
+- 3-12s: "Teal is clearer and brighter. Petrol is deeper and quieter."
+- 12-20s: "Hold each up by a window and watch your skin, not the colour"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Teal or petrol? Same family, very different effect next to your face 🩵 Which one do you reach for? Comment teal or petrol.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> teal vs petrol color · which teal suits me
+> #coloranalysis #colorseason #teal #fallfashion #seasonclub
+
+---
+
+### Video 50: Stop buying these colours if you're a Bright Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a Bright Spring"
+
+**Shot list**
+1. 0-3s: Hand fans out three muted swatches (dusty beige, grey-green, soft taupe) on a paper card by a window.
+2. 3-12s: Hand puts each swatch aside one by one.
+3. 12-20s: Hand brings in three clear swatches (coral, bright turquoise, warm pink).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Bright Spring"
+- 3-12s: "Dusty beige, grey-green, soft taupe: they can look dull on clear, warm colouring"
+- 12-20s: "Try clear coral, bright turquoise, warm pink instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Bright Spring: muted shades can dull clear, warm colouring 🌺 Which one is in your wardrobe? Comment beige, grey-green or taupe.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bright spring colors to avoid · am I a bright spring
+> #coloranalysis #colorseason #brightspring #springcolors #seasonclub
+
+---
+
+### Video 51: Reply to comment, "why did two apps give me two different seasons?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: why did two apps give me two different seasons?"
+
+**Shot list**
+1. 0-3s: Phone screen with the comment text (typed mock comment, no real username).
+2. 3-12s: Hand holds a paper card under a window, then under a warm lamp, showing the same swatch looking different.
+3. 12-20s: Hand holds the free result screen (illustration, labelled "illustration") showing a season and a runner-up.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: why did two apps give me two different seasons?"
+- 3-12s: "Light changes colour. Same swatch, two lights, two looks."
+- 12-20s: "Many people sit between two seasons. That's why we show a runner-up."
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Two apps, two different seasons? Light is a big reason, and lots of people sit between two seasons 💡 Which two did you get? Comment your two.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> different color season results · am I between two seasons
+> #coloranalysis #colorseason #seasonalcoloranalysis #whatseasonami #seasonclub
