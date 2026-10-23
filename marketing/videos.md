@@ -1397,3 +1397,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > different color season results · am I between two seasons
 > #coloranalysis #colorseason #seasonalcoloranalysis #whatseasonami #seasonclub
+
+---
+
+### Video 52: Drape test, navy vs black (format: drape test)
+**Hook (on screen, 0-3s):** "Navy or black next to your face? Watch the shadow."
+
+**Shot list**
+1. 0-3s: Window light, hand holds a white card.
+2. 3-10s: Hand slides a black fabric swatch under the card edge, then a navy one (label "illustration" is not needed, real swatches).
+3. 10-18s: Side by side, hand points to how each changes the white card's tone.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Navy or black? Watch the shadow"
+- 3-10s: "Black: deepest, highest contrast"
+- 10-18s: "Navy: same depth, softer edge. Some colouring prefers it"
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Navy or black next to the face? Same depth, different edge 🖤 Which do you reach for? Comment navy or black.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> navy vs black color analysis · is black my color
+> #coloranalysis #colorseason #navyvsblack #wintercolors #seasonclub
+
+---
+
+### Video 53: Stop buying if Deep Winter (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Deep Winter"
+
+**Shot list**
+1. 0-3s: Hand drops three muted swatches (beige, dusty peach, soft olive) in a bin.
+2. 3-12s: Hand holds each by the window, text names why it can look flat on deep, cool colouring.
+3. 12-20s: Hand brings in three strong swatches (emerald, true red, icy white).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Deep Winter"
+- 3-12s: "Beige, dusty peach, soft olive: they can look washed out on deep, cool colouring"
+- 12-20s: "Try emerald, true red, icy white instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Deep Winter: soft, dusty shades can wash out deep, cool colouring ❄️ Which one is in your wardrobe? Comment beige, peach or olive.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> deep winter colors to avoid · am I a deep winter
+> #coloranalysis #colorseason #deepwinter #wintercolors #seasonclub
+
+---
+
+### Video 54: Founder story, why a painter built a colour app (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. I got tired of 'you're an autumn' with no reason."
+
+**Shot list**
+1. 0-3s: Hand mixing paint on a palette by the window.
+2. 3-12s: Hand lays four paint dabs in a row: warm, cool, light, dark.
+3. 12-20s: Screen recording of the free scan on an illustration (label "illustration").
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter. 'You're an autumn' never told me why."
+- 3-12s: "Painters judge colour by temperature, depth, clarity, contrast"
+- 12-20s: "So I built a free app that measures those from a selfie in your browser (illustration)"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Which do you notice first in your own colouring: warm, cool, light or dark? Comment one word.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> color analysis app by a painter · free color season test
+> #coloranalysis #colorseason #painter #seasonalcoloranalysis #seasonclub

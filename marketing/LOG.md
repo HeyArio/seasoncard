@@ -178,3 +178,11 @@
 - **Sales mode:** videos 49-51 added to videos.md (teal vs petrol drape test, stop buying if Bright Spring, reply "two apps, two seasons"). No palette cards needed. offer.md unchanged. No sale visible (Gmail: nothing from PayPal or Season Card).
 - **SEO:** Thursday, no page. Sage, emerald and burgundy guides still wait for a release on main.
 - **Site check:** not checked, sandbox cannot resolve seasoncard.app.
+
+## 2026-10-23 (Friday run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 20 posts 29 Sep-14 Oct, analytics still stop at 14 Oct. Best by views: sage green trend 1,756 / 20 / 10 (no post near 2,000). Best by engagement: Soft vs True Autumn 952 / 12 / 4 / 39 shares and painter founder 387 / 5 / 5 / 15 shares. No comment changes since 22 Oct.
+- **Problem (unchanged):** all posts 21 and 22 Oct are now ERROR "You have reached your Metricool account limit." Nothing is queued from 23 Oct (0 days ahead, target 5). Needs Saman: upgrade Metricool or post by hand.
+- **Queue:** no new posts written, they would fail the same way.
+- **Sales mode:** videos 52-54 added to videos.md (navy vs black drape test, stop buying if Deep Winter, painter founder story). No sale visible (Gmail: nothing).
+- **SEO:** Friday, no page. Sage, emerald and burgundy guides still wait for a release on main.
+- **Site check:** not checked, sandbox cannot resolve seasoncard.app.
