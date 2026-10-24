@@ -1478,3 +1478,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > color analysis app by a painter · free color season test
 > #coloranalysis #colorseason #painter #seasonalcoloranalysis #seasonclub
+
+---
+
+### Video 55: Drape test, olive vs khaki (format: drape test)
+**Hook (on screen, 0-3s):** "Olive or khaki? One of these might be your green"
+
+**Shot list**
+1. 0-3s: Hand holds an olive fabric swatch and a khaki swatch side by side by the window.
+2. 3-10s: Hand lifts the olive swatch to the edge of the frame, slowly, then swaps to khaki.
+3. 10-18s: Hand points to each in turn, text says what each does next to warm vs cool colouring.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Olive or khaki? One of these might be your green"
+- 3-10s: "Olive is deeper and greener. Khaki is lighter and sandier."
+- 10-18s: "Warm, muted colouring often likes both. Cool colouring often finds khaki dull."
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Olive or khaki? They look close on a hanger and very different next to a face 🌿 Which one do you reach for? Comment olive or khaki.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> olive vs khaki · which green suits me
+> #coloranalysis #colorseason #olivegreen #fallfashion #seasonclub
+
+---
+
+### Video 56: Stop buying if you might be a Light Summer (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Light Summer"
+
+**Shot list**
+1. 0-3s: Hand drops three heavy swatches (black, rust, mustard) in a bin.
+2. 3-12s: Hand holds each by the window, text says why it can overpower light, cool, gentle colouring.
+3. 12-20s: Hand brings in three soft swatches (powder blue, lavender, rose pink).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Light Summer"
+- 3-12s: "Black, rust, mustard: they can overpower light, cool colouring"
+- 12-20s: "Try powder blue, lavender, rose pink instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Light Summer: heavy, dark or hot shades can overpower soft, cool colouring 🩵 Which one is in your wardrobe? Comment black, rust or mustard.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light summer colors to avoid · am I a light summer
+> #coloranalysis #colorseason #lightsummer #summercolors #seasonclub
+
+---
+
+### Video 57: Reply-to-comment, "gold or silver, I can't tell" (format: reply to comment)
+**Hook (on screen, 0-3s):** "Reply to: 'I can't tell if I'm gold or silver'"
+
+**Shot list**
+1. 0-3s: Screen recording of a comment bubble reading the line above (typed as a made-up example, label "example comment").
+2. 3-12s: Hand holds a gold foil and a silver foil under the window, one at a time, near a white sheet of paper.
+3. 12-20s: Hand lifts a plain white card to show the check: which foil makes the paper look cleaner?
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Reply to: 'I can't tell if I'm gold or silver' (example comment)"
+- 3-12s: "Hold each metal near your face in daylight, no filter"
+- 12-20s: "Which one makes your skin look clearer, not just brighter? Some people look good in both."
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Can't tell if gold or silver suits you? Try it by a window with no filter ✨ Which one looks better on you? Comment gold or silver.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> gold or silver jewelry · which metal suits me
+> #coloranalysis #colorseason #goldorsilver #jewelry #seasonclub
