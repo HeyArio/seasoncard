@@ -194,3 +194,11 @@
 - **Sales mode:** videos 55-57 added to videos.md (olive vs khaki drape test, stop buying if Light Summer, reply "gold or silver, can't tell"). No palette cards needed. No sale visible (Gmail: nothing).
 - **SEO:** Saturday, no page. Sage, emerald and burgundy guides still wait for a release on main.
 - **Site check:** not checked, sandbox cannot resolve seasoncard.app.
+
+## 2026-10-26 (Monday run)
+- **Metrics (Metricool, TikTok; views / likes / comments / shares):** 20 posts 29 Sep-14 Oct, analytics still stop at 14 Oct. Best by views: sage green trend 1,757 / 20 / 10 (no post near 2,000). Best by engagement: Soft vs True Autumn 953 / 12 / 4 / 39 shares and painter founder 387 / 5 / 5 / 15 shares. No comment changes since 24 Oct.
+- **Problem (unchanged, 2.5+ weeks):** getScheduledPosts returns nothing for 26 Oct-5 Nov. Queue is empty (0 days ahead, target 5). Earlier posts failed with "You have reached your Metricool account limit." Needs Saman: upgrade Metricool or post by hand.
+- **Queue:** no new posts written, they would fail the same way.
+- **Sales mode:** videos 58-60 added to videos.md (rust vs brick drape test, stop buying if Bright Winter, painter founder story). No sale visible (Gmail: nothing from PayPal or Season Card in 3 days).
+- **SEO:** Monday, no new page: no TikTok format has a new clear win and the sage, emerald and burgundy guides still wait for a release on main.
+- **Site check:** not checked, sandbox cannot resolve seasoncard.app.

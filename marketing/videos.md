@@ -1559,3 +1559,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > gold or silver jewelry · which metal suits me
 > #coloranalysis #colorseason #goldorsilver #jewelry #seasonclub
+
+---
+
+### Video 58: Drape test, rust vs brick (format: drape test)
+**Hook (on screen, 0-3s):** "Rust or brick? One of these might be your red"
+
+**Shot list**
+1. 0-3s: Hand holds a rust swatch and a brick swatch side by side by the window.
+2. 3-10s: Hand lifts the rust swatch to the edge of the frame, slowly, then swaps to brick.
+3. 10-18s: Hand points to each in turn, text says what each does next to warm vs cool colouring.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Rust or brick? One of these might be your red"
+- 3-10s: "Rust is orange-leaning and warm. Brick is deeper and a little browner-red."
+- 10-18s: "Warm colouring often glows in rust. Cooler colouring can find it harsh."
+- 18-24s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Rust or brick? They look close on a hanger and different next to a face 🍂 Which one do you reach for? Comment rust or brick.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> rust vs brick · which red suits me
+> #coloranalysis #colorseason #rustcolor #fallfashion #seasonclub
+
+---
+
+### Video 59: Stop buying if you might be a Bright Winter (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Bright Winter"
+
+**Shot list**
+1. 0-3s: Hand drops three muted swatches (beige, khaki, dusty rose) in a bin.
+2. 3-12s: Hand holds each by the window, text says why they can look flat next to clear, high-contrast colouring.
+3. 12-20s: Hand brings in three clear swatches (cobalt, fuchsia, emerald).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Bright Winter"
+- 3-12s: "Beige, khaki, dusty rose: they can look flat on clear, high-contrast colouring"
+- 12-20s: "Try cobalt, fuchsia, emerald instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Bright Winter: muted, dusty shades can look flat next to clear, vivid colouring 💎 Which one is in your wardrobe? Comment beige, khaki or dusty rose.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bright winter colors to avoid · am I a bright winter
+> #coloranalysis #colorseason #brightwinter #wintercolors #seasonclub
+
+---
+
+### Video 60: Founder story, how the scan measures colour (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter, so I built an app that measures colour"
+
+**Shot list**
+1. 0-3s: Hand mixes two paint colours on a palette by the window.
+2. 3-12s: Hand points to the four words written on paper: temperature, value, contrast, saturation.
+3. 12-22s: Screen recording of the free scan on an illustration (label "illustration"), no real face.
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter, so I built an app that measures colour"
+- 3-12s: "Temperature. Value. Contrast. Saturation. Those four decide your season."
+- 12-22s: "The free scan runs in your browser (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour 🎨 Which of the four do you think is your strongest? Comment temperature, value, contrast or saturation.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> how does color analysis work · free color season test
+> #coloranalysis #colorseason #painter #colortheory #seasonclub
