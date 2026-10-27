@@ -1640,3 +1640,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > how does color analysis work · free color season test
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
+
+---
+
+### Video 61: Drape test, mustard vs ochre (format: drape test)
+**Hook (on screen, 0-3s):** "Same yellow family. Only one is yours."
+
+**Shot list**
+1. 0-3s: Window light, hand lays a mustard fabric swatch and an ochre fabric swatch side by side on a white table.
+2. 3-12s: Hand holds each swatch up to a blank card (no face), slowly, same angle.
+3. 12-20s: Hand slides a paper strip labelled "warm / golden" under one and "cool / olive" under the other.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Same yellow family. Only one is yours."
+- 3-12s: "Mustard leans green. Ochre leans orange."
+- 12-20s: "Warm and golden, or olive and muted? Your colouring picks."
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Mustard vs ochre: same family, different undertone 💛 Which one lives in your wardrobe? Comment mustard or ochre.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> mustard vs ochre · which yellow suits me
+> #coloranalysis #colorseason #mustardyellow #autumnpalette #seasonclub
+
+---
+
+### Video 62: Stop buying these if you might be a Soft Summer (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Soft Summer"
+
+**Shot list**
+1. 0-3s: Hand drops three swatches (orange, bright red, black) into a pile by the window.
+2. 3-12s: Hand holds the pile against a grey card; text appears.
+3. 12-20s: Hand brings in three soft swatches (dusty blue, rose, sage).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Soft Summer"
+- 3-12s: "Bright orange, pure red, jet black: they can overpower soft, cool-neutral colouring"
+- 12-20s: "Try dusty blue, rose, sage instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Soft Summer: loud, saturated shades can overpower soft colouring 🩶 Which one is in your wardrobe? Comment orange, red or black.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft summer colors to avoid · am I a soft summer
+> #coloranalysis #colorseason #softsummer #summercolors #seasonclub
+
+---
+
+### Video 63: Founder story, why a free scan (format: founder story)
+**Hook (on screen, 0-3s):** "A painter's trick for finding your colours"
+
+**Shot list**
+1. 0-3s: Hand squeezes two paint colours onto a palette by the window.
+2. 3-12s: Hand holds a grey card beside a coloured swatch to show how neighbours change a colour.
+3. 12-22s: Screen recording of the free scan on an illustration (label "illustration"), no real face.
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "A painter's trick for finding your colours"
+- 3-12s: "A colour always changes next to its neighbour. Your face is the neighbour."
+- 12-22s: "The free scan compares colours against your colouring (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> A colour always changes next to its neighbour, and your face is the neighbour 🎨 Do you wear colours because you like them or because they suit you? Comment like or suit.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> how to find colors that suit you · free color season test
+> #coloranalysis #colorseason #painter #colortheory #seasonclub
