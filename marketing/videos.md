@@ -1721,3 +1721,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > how to find colors that suit you · free color season test
 > #coloranalysis #colorseason #painter #colortheory #seasonclub
+
+---
+
+### Video 64: Drape test, camel vs tan (format: drape test)
+**Hook (on screen, 0-3s):** "Camel or tan? One makes you glow"
+
+**Shot list**
+1. 0-3s: Hand holds a camel fabric swatch up to a window, no face.
+2. 3-12s: Hand swaps to a tan swatch beside it, same light, same angle.
+3. 12-20s: Hand lays both over a white sheet of paper to compare the undertone.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Camel or tan? One makes you glow"
+- 3-12s: "Warm golden camel vs cooler, greyer tan"
+- 12-20s: "Hold both next to your face by a window"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Camel or tan: one of them can flatter you more 🧥 Which one do you reach for? Comment camel or tan.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> camel vs tan color analysis · which neutral suits me
+> #coloranalysis #colorseason #camel #neutrals #seasonclub
+
+---
+
+### Video 65: Stop buying these colours if you're a Deep Autumn (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a Deep Autumn"
+
+**Shot list**
+1. 0-3s: Hand drops three pastel swatches onto a table by the window.
+2. 3-12s: Hand sets them aside one by one.
+3. 12-20s: Hand brings in three rich swatches (olive, rust, chocolate).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a Deep Autumn"
+- 3-12s: "Icy pastels and cool pink can look washed out on deep, warm colouring"
+- 12-20s: "Try olive, rust, chocolate instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Deep Autumn: icy pastels can wash out rich, warm colouring 🍂 Which pastel is in your wardrobe? Comment pink, blue or lilac.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> deep autumn colors to avoid · am I a deep autumn
+> #coloranalysis #colorseason #deepautumn #autumncolors #seasonclub
+
+---
+
+### Video 66: Reply to comment, "I'm between two seasons" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: I got two seasons, which one?"
+
+**Shot list**
+1. 0-3s: Screen recording of a comment bubble (use a real comment if one exists, otherwise a typed question labelled "example question").
+2. 3-14s: Hand holds the two seasons' key swatches against the window, one in each hand.
+3. 14-22s: Screen recording of the scan result on an illustration (label "illustration").
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: I got two seasons, which one?"
+- 3-14s: "Closest neighbours share colours. Check which swatches you feel better in."
+- 14-22s: "A personal review explains your season and runner-up (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Between two seasons? It happens a lot with neighbours like Soft Autumn and Soft Summer 🎨 Which two did you get? Comment them below.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> got two color seasons · am I between seasons
+> #coloranalysis #colorseason #seasonclub #softautumn #softsummer

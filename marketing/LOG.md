@@ -210,3 +210,11 @@
 - **Sales mode:** videos 61-63 added to videos.md (mustard vs ochre drape test, stop buying if Soft Summer, painter founder story). No sale visible (Gmail: nothing from PayPal or Season Card in 3 days).
 - **SEO:** Tuesday, no page. Sage, emerald and burgundy guides still wait for a release on main.
 - **Site check:** not checked, sandbox cannot resolve seasoncard.app.
+
+## 2026-10-28 (Wednesday run)
+- **Metrics:** not refreshed. The Metricool analytics calls failed (parameter errors, then a response over the size limit), and earlier runs showed analytics frozen at 14 Oct. Last known best: sage green trend 1,757 views, Soft vs True Autumn 953 / 39 shares.
+- **Problem (unchanged, 3.5 weeks):** getScheduledPosts returns nothing for 28 Oct-12 Nov. Queue is empty (0 days ahead, target 5). Earlier posts failed with "You have reached your Metricool account limit." Needs Saman: upgrade Metricool or post by hand.
+- **Queue:** no new posts written, they would fail the same way.
+- **Sales mode:** videos 64-66 added to videos.md (camel vs tan drape test, stop buying if Deep Autumn, reply "two seasons"). No sale checked beyond earlier runs.
+- **SEO:** Wednesday, no page. Sage, emerald and burgundy guides still wait for a release on main.
+- **Site check:** not checked, seasoncard.app does not resolve from the sandbox.
