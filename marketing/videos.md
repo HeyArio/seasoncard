@@ -1802,3 +1802,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > got two color seasons · am I between seasons
 > #coloranalysis #colorseason #seasonclub #softautumn #softsummer
+
+---
+
+### Video 67: Drape test, bubblegum pink vs dusty rose (format: drape test)
+**Hook (on screen, 0-3s):** "Same pink family. Very different effect."
+
+**Shot list**
+1. 0-3s: Hand holds a bubblegum pink fabric swatch up to a window, then a dusty rose one.
+2. 3-14s: Hand slides each swatch across a white sheet of paper, so the brightness difference shows.
+3. 14-22s: Hand lays both on a neutral grey card, labelled "bright" and "soft".
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Same pink family. Very different effect."
+- 3-14s: "Bright pinks are clear and vivid. Dusty rose is muted."
+- 14-22s: "Clear colours often suit Springs and Winters. Muted ones suit Summers and Autumns."
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Bubblegum pink vs dusty rose: bright or soft, which one do you reach for? Comment bright or soft.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bubblegum pink vs dusty rose · which pink suits me
+> #coloranalysis #colorseason #pink #seasonclub #colorpalette
+
+---
+
+### Video 68: Stop buying these colours if you're a True Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a True Spring"
+
+**Shot list**
+1. 0-3s: Hand drops three dull grey-toned swatches onto a table by the window.
+2. 3-12s: Hand sets them aside one by one.
+3. 12-20s: Hand brings in three warm, clear swatches (coral, warm green, golden yellow).
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these if you might be a True Spring"
+- 3-12s: "Dusty, greyed-down colours can dull clear, warm colouring"
+- 12-20s: "Try coral, warm green, golden yellow instead"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a True Spring: greyed-down shades can dull warm, clear colouring 🌼 Which dusty colour is in your wardrobe? Comment it below.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true spring colors to avoid · am I a true spring
+> #coloranalysis #colorseason #truespring #springcolors #seasonclub
+
+---
+
+### Video 69: Founder story, why a painter built this (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter, so I built a free app that measures colour"
+
+**Shot list**
+1. 0-3s: Hand mixes two paint colours on a palette by the window.
+2. 3-14s: Close-up of the brush mixing a muted colour, then a clear one.
+3. 14-22s: Screen recording of the scan on an illustration (label "illustration").
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "I'm a painter, so I built a free app that measures colour"
+- 3-14s: "Painters mix colours by warmth, depth and softness. Colour seasons use the same ideas."
+- 14-22s: "The free scan shows your result and a runner-up (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour. It looks at warmth, depth and softness 🎨 What colour do you never wear but own? Comment it below.
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> painter color analysis app · free color season test
+> #coloranalysis #colorseason #painter #seasonclub #colorpalette
