@@ -1802,3 +1802,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > got two color seasons · am I between seasons
 > #coloranalysis #colorseason #seasonclub #softautumn #softsummer
+
+---
+
+### Video 67: Drape test, coral vs salmon (format: drape test)
+**Hook (on screen, 0-3s):** "Coral or salmon? One of them dulls you"
+
+**Shot list**
+1. 0-3s: Hand holds a coral fabric swatch and a salmon swatch side by side by a window.
+2. 3-12s: Hand slides each swatch under a white card edge, then back, slowly (no face).
+3. 12-22s: Hand points to the swatch that looks cleaner against the white card.
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Coral or salmon? One of them dulls you"
+- 3-12s: "Warm and clear vs warm and soft. Watch which one looks cleaner."
+- 12-22s: "Clear colours suit bright seasons, soft ones suit soft seasons"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Coral or salmon? Which one would you wear? Comment C or S 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> coral vs salmon color analysis · which pink orange suits me
+> #coloranalysis #colorseason #seasonclub #coral #drapetest
+
+---
+
+### Video 68: Stop buying these colours if you're a True Spring (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you're a True Spring"
+
+**Shot list**
+1. 0-3s: Text card with the hook.
+2. 3-20s: Hand drops three muted swatches (dusty mauve, grey-taupe, slate) into a "no" pile, one per ~5s.
+3. 20-26s: Hand fans out three clear warm swatches (warm yellow-green, bright coral, turquoise).
+4. 26-30s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these colours if you're a True Spring"
+- 3-20s: "Dusty mauve · grey-taupe · slate. Too muted, they might flatten you."
+- 20-26s: "Try clear, warm colours instead"
+- 26-30s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a True Spring. Are you? Comment YES or NO 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true spring colors to avoid · am I a true spring
+> #coloranalysis #colorseason #seasonclub #truespring #springcolors
+
+---
+
+### Video 69: Reply to comment, "Does lighting change my season?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: does lighting change my result?"
+
+**Shot list**
+1. 0-3s: Comment bubble (real comment if one exists, otherwise typed and labelled "example question").
+2. 3-14s: Same swatch shown by the window, then under a yellow lamp, hand only.
+3. 14-22s: Screen recording of the scan on an illustration (label "illustration").
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: does lighting change my result?"
+- 3-14s: "Colour looks different under a lamp. Use daylight by a window."
+- 14-22s: "Scan in daylight for the best read (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Lighting changes how colour looks, so scan by a window in daylight. Where do you usually take selfies? Comment WINDOW or LAMP 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> does lighting affect color analysis · best light for color season
+> #coloranalysis #colorseason #seasonclub #naturallight #colorpalette
