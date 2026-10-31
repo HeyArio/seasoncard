@@ -1883,3 +1883,86 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > does lighting affect color analysis · best light for color season
 > #coloranalysis #colorseason #seasonclub #naturallight #colorpalette
+
+---
+
+### Video 70: Drape test, lilac vs periwinkle (format: drape test)
+**Hook (on screen, 0-3s):** "Same purple family. One of these washes you out."
+
+**Shot list**
+1. 0-3s: Two paper swatches (lilac, periwinkle) held side by side by a window, hand only.
+2. 3-14s: Each swatch slowly moved under a white sheet of paper edge, then back, so the undertone difference shows.
+3. 14-22s: Screen recording of the scan on an illustration (label "illustration").
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Same purple family. One of these washes you out."
+- 3-8s: "Lilac leans warm-pink. Periwinkle leans cool-blue."
+- 8-14s: "Hold each one up in daylight and notice which feels calmer."
+- 14-22s: "Free scan measures this for you (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Lilac vs periwinkle: which purple suits you? Comment LILAC or PERI 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> lilac vs periwinkle color season · which purple suits me
+> #coloranalysis #colorseason #seasonclub #lilac #colorpalette
+
+---
+
+### Video 71: "Stop buying these colours if you're a Cool Summer-leaning type" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these 3 colours if you might be a True Summer"
+
+**Shot list**
+1. 0-3s: Hand drops three warm swatches (orange, mustard, tomato red) into a bin, one per second.
+2. 3-15s: Hand lays three cool swatches (rose, soft navy, cool grey-blue) on the table, "wear instead".
+3. 15-23s: Screen recording of the scan on an illustration (label "illustration").
+4. 23-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 colours if you might be a True Summer"
+- 3-9s: "Orange · mustard · tomato red can look harsh on cool, muted colouring"
+- 9-15s: "Try dusty rose · soft navy · cool grey-blue"
+- 15-23s: "Not sure? Free scan (illustration shown)"
+- 23-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these 3 colours if you might be a True Summer. Which one do you own? Comment ORANGE, MUSTARD or RED 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true summer colors to avoid · am I a true summer
+> #coloranalysis #colorseason #seasonclub #truesummer #summercolors
+
+---
+
+### Video 72: Founder story, "I'm a painter" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. I got annoyed that colour advice is guesswork."
+
+**Shot list**
+1. 0-4s: Hand mixing two paint colours on a palette by a window.
+2. 4-15s: Hand lays the mix next to fabric swatches, comparing.
+3. 15-23s: Screen recording of the free scan on an illustration (label "illustration").
+4. 23-28s: Text card.
+
+**On-screen text per second**
+- 0-4s: "I'm a painter. I got annoyed that colour advice is guesswork."
+- 4-15s: "So I built a free app that measures colour, not vibes."
+- 15-23s: "Scan in daylight, get your season (illustration shown)"
+- 23-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour. What should I explain next? Comment a season 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> free color analysis app · how to find my color season
+> #coloranalysis #colorseason #seasonclub #painter #colorpalette
