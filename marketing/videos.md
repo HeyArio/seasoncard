@@ -1966,3 +1966,86 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > free color analysis app · how to find my color season
 > #coloranalysis #colorseason #seasonclub #painter #colorpalette
+
+---
+
+### Video 73: Drape test, olive vs khaki (format: drape test)
+**Hook (on screen, 0-3s):** "Olive or khaki? One of them makes skin look tired."
+
+**Shot list**
+1. 0-3s: Two fabric swatches (olive, khaki) held side by side by a window, hand only.
+2. 3-14s: Each swatch slid under a white paper edge, then back, to show the yellow vs green lean.
+3. 14-22s: Screen recording of the scan on an illustration (label "illustration").
+4. 22-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Olive or khaki? One of them makes skin look tired."
+- 3-8s: "Olive leans green. Khaki leans yellow-beige."
+- 8-14s: "Hold each one up in daylight and notice which feels calmer."
+- 14-22s: "Free scan measures this for you (illustration shown)"
+- 22-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Olive vs khaki: which one is yours? Comment OLIVE or KHAKI 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> olive vs khaki color season · which green suits me
+> #coloranalysis #colorseason #seasonclub #olive #colorpalette
+
+---
+
+### Video 74: "Stop buying these colours if you might be a Light Spring" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these 3 colours if you might be a Light Spring"
+
+**Shot list**
+1. 0-3s: Hand drops three heavy swatches (black, charcoal, dark burgundy) into a bin, one per second.
+2. 3-15s: Hand lays three light warm swatches (peach, light aqua, soft yellow-green) on the table, "wear instead".
+3. 15-23s: Screen recording of the scan on an illustration (label "illustration").
+4. 23-28s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these 3 colours if you might be a Light Spring"
+- 3-9s: "Black · charcoal · dark burgundy can overpower light, warm colouring"
+- 9-15s: "Try peach · light aqua · soft yellow-green"
+- 15-23s: "Not sure? Free scan (illustration shown)"
+- 23-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these 3 colours if you might be a Light Spring. Which one do you own? Comment BLACK, CHARCOAL or BURGUNDY 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> light spring colors to avoid · am I a light spring
+> #coloranalysis #colorseason #seasonclub #lightspring #springcolors
+
+---
+
+### Video 75: Founder story, "Why I trust swatches over filters" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. Filters lie about colour. Paint doesn't."
+
+**Shot list**
+1. 0-4s: Hand mixing a paint colour on a palette by a window.
+2. 4-15s: Hand holds the same swatch under window light, then a lamp, showing the shift.
+3. 15-23s: Screen recording of the free scan on an illustration (label "illustration").
+4. 23-28s: Text card.
+
+**On-screen text per second**
+- 0-4s: "I'm a painter. Filters lie about colour. Paint doesn't."
+- 4-15s: "Same colour, different light. That's why I built the scan to ask for daylight."
+- 15-23s: "Free scan (illustration shown)"
+- 23-28s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour in daylight. What should I test next? Comment a colour 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> free color analysis app · does lighting change my color season
+> #coloranalysis #colorseason #seasonclub #painter #colorpalette
