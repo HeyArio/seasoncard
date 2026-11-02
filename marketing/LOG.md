@@ -242,3 +242,11 @@
 - **Sales mode:** videos 73-75 added to videos.md (olive vs khaki drape test, stop buying if Light Spring, painter founder story on lighting). No sale checked.
 - **SEO:** Sunday, no page. Sage, emerald and burgundy guides still wait for a release on main.
 - **Site check:** not checked, seasoncard.app does not resolve from the sandbox.
+
+## 2026-11-02 (Monday run)
+- **Metrics:** analytics query returns no rows for 15 Oct-2 Nov; last known best remains sage green trend 1,757 / 20 / 10. No post near 2,000. No comment changes visible.
+- **Problem (unchanged, 4+ weeks):** getScheduledPosts returns nothing for 2-20 Nov. Queue is empty (0 days ahead, target 5). Earlier posts failed with the Metricool account limit error. Needs Saman: upgrade Metricool or post by hand.
+- **Queue:** no new posts written, they would fail the same way.
+- **Sales mode:** videos 76-78 added to videos.md (rust vs terracotta drape test, stop buying if Bright Spring, reply on dyed hair). No sale checked.
+- **SEO:** Monday, but no new page this run: sage, emerald and burgundy guides still wait for a release on main.
+- **Site check:** not checked, seasoncard.app does not resolve from the sandbox.

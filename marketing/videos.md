@@ -2049,3 +2049,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > free color analysis app · does lighting change my color season
 > #coloranalysis #colorseason #seasonclub #painter #colorpalette
+
+---
+
+### Video 76: Drape test, "Rust vs terracotta" (format: drape test)
+**Hook (on screen, 0-3s):** "Rust or terracotta? One of these flatters you."
+
+**Shot list**
+1. 0-4s: Hand holds a rust fabric swatch by a window.
+2. 4-9s: Hand swaps to a terracotta swatch, same spot, same light.
+3. 9-16s: Both side by side on white paper, hand points at the undertone difference.
+4. 16-22s: Text card.
+
+**On-screen text per second**
+- 0-4s: "Rust or terracotta? One of these flatters you."
+- 4-9s: "Same window, same light."
+- 9-16s: "Rust leans deeper and browner. Terracotta leans pinker and softer."
+- 16-22s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Rust or terracotta, which would you wear? Comment 1 or 2 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> rust vs terracotta color season · warm autumn colors
+> #coloranalysis #colorseason #seasonclub #autumncolors #colorpalette
+
+---
+
+### Video 77: "Stop buying these colours if you might be a Bright Spring" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a Bright Spring."
+
+**Shot list**
+1. 0-5s: Hand holds a dusty grey-beige swatch, tosses it aside.
+2. 5-12s: Hand holds a muddy olive swatch, tosses it aside.
+3. 12-20s: Hand holds a clear coral and turquoise swatch, keeps them.
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-5s: "Dusty grey-beige can look flat on high-contrast, clear colouring."
+- 5-12s: "Muddy olive can dull you down."
+- 12-20s: "Clear, bright colours like coral and turquoise often work better."
+- 20-26s: "Season Club: comment your season · Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Bright Spring. Which one do you own? Comment a colour 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> bright spring colors to avoid · am I a bright spring
+> #coloranalysis #colorseason #seasonclub #brightspring #springcolors
+
+---
+
+### Video 78: Reply to comment, "Does my hair colour change my season?" (format: reply-to-comment)
+**Hook (on screen, 0-3s):** "Replying to: does dyed hair change my season?"
+
+**Shot list**
+1. 0-3s: Screenshot of the comment (names blurred).
+2. 3-14s: Hand holds a swatch near a hair-colour chart, then near a plain white card.
+3. 14-22s: Screen recording of the free scan on an illustration (label "illustration").
+4. 22-27s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Replying to: does dyed hair change my season?"
+- 3-14s: "Your season is based on skin, eyes and natural hair. Dye changes what looks good next to your face today, not your base."
+- 14-22s: "Free scan (illustration shown)"
+- 22-27s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Does dyed hair change your colour season? Natural colouring is the base. What's your natural hair colour? Comment it 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> does hair dye change color season · color analysis hair
+> #coloranalysis #colorseason #seasonclub #haircolor #colorpalette
