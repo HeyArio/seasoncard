@@ -2130,3 +2130,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > does hair dye change color season · color analysis hair
 > #coloranalysis #colorseason #seasonclub #haircolor #colorpalette
+
+---
+
+### Video 79: Drape test, "Mustard vs butter yellow" (format: drape test)
+**Hook (on screen, 0-3s):** "Mustard or butter yellow? One lifts you, one drains you."
+
+**Shot list**
+1. 0-3s: Window light, hand holds a mustard fabric swatch.
+2. 3-10s: Same hand swaps to a butter-yellow swatch against a white card.
+3. 10-18s: Both swatches side by side, slow pan.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Mustard or butter yellow? One lifts you, one drains you."
+- 3-10s: "Warm, deep colouring often suits mustard. Cool or light colouring often suits butter."
+- 10-18s: "Hold both under your chin by a window."
+- 18-24s: "Season Club: comment your season · Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Mustard vs butter yellow: which one suits you? Comment M or B 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> best yellow for my skin tone · mustard vs butter yellow color analysis
+> #coloranalysis #colorseason #seasonclub #yellow #drapetest
+
+---
+
+### Video 80: "Stop buying these colours if you might be a Soft Summer" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these colours if you might be a Soft Summer."
+
+**Shot list**
+1. 0-3s: Hand holds a bright orange swatch.
+2. 3-9s: Hand drops it, holds stark black.
+3. 9-18s: Hand keeps dusty rose and soft blue-grey swatches.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Stop buying these colours if you might be a Soft Summer."
+- 3-9s: "Bright orange and stark black can overpower soft, muted colouring."
+- 9-18s: "Dusty rose and soft blue-grey often blend better."
+- 18-24s: "Season Club: comment your season · Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a Soft Summer. Which do you own? Comment a colour 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> soft summer colors to avoid · am I a soft summer
+> #coloranalysis #colorseason #seasonclub #softsummer #summercolors
+
+---
+
+### Video 81: Founder story, "I'm a painter, so I built an app that measures colour" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. This is why I built a free colour app."
+
+**Shot list**
+1. 0-4s: Hand mixes paint on a palette by a window.
+2. 4-12s: Hand holds paint swatches next to a blank white card.
+3. 12-20s: Screen recording of the free scan on an illustration (label "illustration").
+4. 20-26s: Text card.
+
+**On-screen text per second**
+- 0-4s: "I'm a painter. This is why I built a free colour app."
+- 4-12s: "Painters learn that the same colour looks different next to different colours. Skin works the same way."
+- 12-20s: "Free scan (illustration shown)"
+- 20-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour. What colour do people compliment you in? Comment it 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> free color analysis app · how to find my color season
+> #coloranalysis #colorseason #seasonclub #painter #colorpalette
