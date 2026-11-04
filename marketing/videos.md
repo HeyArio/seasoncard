@@ -2130,3 +2130,84 @@ Template: screen-record the comment on TikTok, then film the answer with swatche
 >
 > does hair dye change color season · color analysis hair
 > #coloranalysis #colorseason #seasonclub #haircolor #colorpalette
+
+---
+
+### Video 79: Drape test, "Mustard vs butter yellow" (format: drape test)
+**Hook (on screen, 0-3s):** "Two yellows. Only one is yours."
+
+**Shot list**
+1. 0-3s: Hand holds a mustard fabric swatch up by a window, plain white wall behind.
+2. 3-10s: Same hand swaps to a butter-yellow swatch in the same spot.
+3. 10-18s: Both side by side on a neutral card, hand taps each.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-3s: "Two yellows. Only one is yours."
+- 3-10s: "Mustard is warm and deep. Butter is soft and light."
+- 10-18s: "Warm, deeper colouring often suits mustard. Lighter, softer colouring often suits butter."
+- 18-24s: "Season Club: comment your season · Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Mustard vs butter yellow: which one might be yours? Comment M or B 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> mustard vs butter yellow color season · which yellow suits me
+> #coloranalysis #colorseason #seasonclub #yellow #colorpalette
+
+---
+
+### Video 80: "Stop buying these colours if you might be a True Winter" (format: stop buying)
+**Hook (on screen, 0-3s):** "Stop buying these if you might be a True Winter."
+
+**Shot list**
+1. 0-4s: Hand holds a muted camel swatch by a window.
+2. 4-10s: Hand holds a dusty peach swatch.
+3. 10-18s: Hand swaps to a pure cool red and a royal blue swatch, keeps them.
+4. 18-24s: Text card.
+
+**On-screen text per second**
+- 0-4s: "Stop buying these if you might be a True Winter."
+- 4-10s: "Muddy camel and dusty peach can look washed out on cool, high-contrast colouring."
+- 10-18s: "Clear, cool colours like true red and royal blue often work better."
+- 18-24s: "Season Club: comment your season · Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> Stop buying these colours if you might be a True Winter. Which one do you own? Comment a colour 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> true winter colors to avoid · am I a true winter
+> #coloranalysis #colorseason #seasonclub #truewinter #wintercolors
+
+---
+
+### Video 81: Founder story, "Why a painter built a colour app" (format: founder story)
+**Hook (on screen, 0-3s):** "I'm a painter. I built an app that measures colour."
+
+**Shot list**
+1. 0-5s: Hand mixing paint on a palette by a window (no face).
+2. 5-13s: Hand lays paint swatches in a row on paper.
+3. 13-21s: Screen recording of the free scan on an illustration (label "illustration").
+4. 21-26s: Text card.
+
+**On-screen text per second**
+- 0-5s: "I'm a painter. I built an app that measures colour."
+- 5-13s: "I mix colours all day. Light changes how every one of them looks."
+- 13-21s: "So the free scan reads colour, not vibes. (illustration shown)"
+- 21-26s: "Free scan: seasoncard.app · Personal review: comment REVIEW"
+
+**Caption**
+> I'm a painter, so I built a free app that measures colour. What colour do you own but never wear? Comment it 🎨
+>
+> Want a personal colour review? Comment REVIEW 🎨
+>
+> Free scan at seasoncard.app (link in bio)
+>
+> painter color analysis app · free color season scan
+> #coloranalysis #colorseason #seasonclub #painter #colorpalette
